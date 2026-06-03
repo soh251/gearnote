@@ -9,9 +9,10 @@ interface Props {
   slug: string;
   rating?: number;
   featured?: boolean;
+  thumbnail?: string;
 }
 
-const { title, description, category, publishedAt, slug, rating, featured } = Astro.props;
+const { title, description, category, publishedAt, slug, rating, featured, thumbnail } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   'electric-guitar': 'エレキギター',
@@ -30,28 +31,50 @@ const categoryColors: Record<string, string> = {
   'dtm': 'bg-cyan-500/20 text-cyan-300 border-cyan-500/30',
   'beginners-guide': 'bg-amber-500/20 text-amber-300 border-amber-500/30',
 };
+
+const categoryDefaultImages: Record<string, string> = {
+  'electric-guitar': '/images/electric-guitar.jpg',
+  'acoustic-guitar': '/images/acoustic-guitar.jpg',
+  'effector': '/images/effector.jpg',
+  'amp': '/images/electric-guitar.jpg',
+  'dtm': '/images/dtm.jpg',
+  'beginners-guide': '/images/electric-guitar.jpg',
+};
+
+const imageUrl = thumbnail ?? categoryDefaultImages[category];
 ---
 
 <a
   href={`/articles/${slug}`}
-  class="group block bg-zinc-800/60 border border-zinc-700 rounded-xl p-5 hover:border-amber-500/60 hover:bg-zinc-800 transition-all duration-200"
+  class="group block bg-zinc-800/60 border border-zinc-700 rounded-xl overflow-hidden hover:border-amber-500/60 hover:bg-zinc-800 transition-all duration-200"
 >
-  <div class="flex items-start justify-between gap-3 mb-3">
-    <span class={`text-xs font-medium px-2 py-1 rounded-full border ${categoryColors[category] ?? 'bg-zinc-700 text-zinc-300 border-zinc-600'}`}>
-      {categoryLabels[category] ?? category}
-    </span>
-    {featured && (
-      <span class="text-xs font-bold px-2 py-1 rounded-full bg-amber-500/20 text-amber-300 border border-amber-500/30">
-        注目
+  {imageUrl && (
+    <div class="overflow-hidden h-44">
+      <img
+        src={imageUrl}
+        alt={title}
+        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+      />
+    </div>
+  )}
+  <div class="p-5">
+    <div class="flex items-start justify-between gap-3 mb-3">
+      <span class={`text-xs font-medium px-2 py-1 rounded-full border ${categoryColors[category] ?? 'bg-zinc-700 text-zinc-300 border-zinc-600'}`}>
+        {categoryLabels[category] ?? category}
       </span>
-    )}
-  </div>
-  <h3 class="text-white font-semibold text-base leading-snug mb-2 group-hover:text-amber-400 transition-colors duration-150 line-clamp-2">
-    {title}
-  </h3>
-  <p class="text-zinc-400 text-sm leading-relaxed mb-3 line-clamp-2">{description}</p>
-  <div class="flex items-center justify-between">
-    {rating && <StarRating rating={rating} size="sm" />}
-    <time class="text-zinc-500 text-xs ml-auto">{publishedAt}</time>
+      {featured && (
+        <span class="text-xs font-bold px-2 py-1 rounded-full bg-amber-500/20 text-amber-300 border border-amber-500/30">
+          注目
+        </span>
+      )}
+    </div>
+    <h3 class="text-white font-semibold text-base leading-snug mb-2 group-hover:text-amber-400 transition-colors duration-150 line-clamp-2">
+      {title}
+    </h3>
+    <p class="text-zinc-400 text-sm leading-relaxed mb-3 line-clamp-2">{description}</p>
+    <div class="flex items-center justify-between">
+      {rating && <StarRating rating={rating} size="sm" />}
+      <time class="text-zinc-500 text-xs ml-auto">{publishedAt}</time>
+    </div>
   </div>
 </a>

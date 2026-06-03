@@ -8,7 +8,7 @@ featured: true
 thumbnail: "https://m.media-amazon.com/images/I/71wPP2FMJ7L._AC_SL1500_.jpg"
 products:
   - name: "ヤマハ PACIFICA112V"
-    price: "¥42,900"
+    price: "¥31,475〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Yamaha+PACIFICA112V&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
     image: "https://m.media-amazon.com/images/I/71wPP2FMJ7L._AC_SL1500_.jpg"

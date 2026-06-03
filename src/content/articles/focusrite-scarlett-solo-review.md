@@ -8,7 +8,7 @@ featured: true
 thumbnail: "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"
 products:
   - name: "Focusrite Scarlett Solo 4th Gen"
-    price: "¥16,280"
+    price: "¥19,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Focusrite+Scarlett+Solo&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
     image: "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"

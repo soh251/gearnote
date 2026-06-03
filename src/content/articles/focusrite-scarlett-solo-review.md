@@ -8,7 +8,7 @@ featured: true
 products:
   - name: "Focusrite Scarlett Solo 4th Gen"
     price: "¥16,280"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Focusrite+Scarlett+Solo&tag=soh251-22"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Focusrite+Scarlett+Solo&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
     specs:
       インターフェース: "USB-C"

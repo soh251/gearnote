@@ -8,7 +8,7 @@ featured: true
 products:
   - name: "Fender American Professional II Stratocaster"
     price: "¥253,000〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Fender+American+Professional+II+Stratocaster&tag=soh251-22"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Fender+American+Professional+II+Stratocaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/products/detail/item/283961/"
     specs:
       製造国: "アメリカ（コロナ工場、カリフォルニア州）"

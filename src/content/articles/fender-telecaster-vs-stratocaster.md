@@ -8,7 +8,7 @@ featured: true
 products:
   - name: "Squier by Fender Classic Vibe '50s Telecaster"
     price: "¥61,600〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+50s+Telecaster&tag=soh251-22"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+50s+Telecaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+Classic+Vibe+Telecaster&i_type=a"
     specs:
       ボディ: "パイン"
@@ -19,7 +19,7 @@ products:
       ピックアップ: "シングルコイル×2"
   - name: "Squier by Fender Classic Vibe '60s Stratocaster"
     price: "¥61,600〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+60s+Stratocaster&tag=soh251-22"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+60s+Stratocaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+Classic+Vibe+Stratocaster&i_type=a"
     specs:
       ボディ: "バスウッド"

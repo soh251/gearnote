@@ -7,7 +7,7 @@ rating: 4
 products:
   - name: "Taylor GS Mini Mahogany"
     price: "¥68,200"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Taylor+GS+Mini&tag=soh251-22"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Taylor+GS+Mini&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
     specs:
       ボディシェイプ: "GS Mini"

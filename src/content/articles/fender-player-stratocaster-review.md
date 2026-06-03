@@ -8,7 +8,7 @@ featured: true
 products:
   - name: "Fender Player II Stratocaster（メキシコ製）"
     price: "¥97,800〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Fender+Player+II+Stratocaster&tag=soh251-22"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Fender+Player+II+Stratocaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=FENDER+PLAYER+II+STRAT&i_type=a"
     specs:
       製造国: "メキシコ（Ensenada工場）"

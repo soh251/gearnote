@@ -8,7 +8,7 @@ featured: false
 products:
   - name: "Squier Affinity Series Stratocaster"
     price: "¥32,780〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Affinity+Stratocaster"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Affinity+Stratocaster&tag=soh251-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+AFFINITY+STRAT&i_type=a"
     specs:
       製造国: "中国"

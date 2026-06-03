@@ -8,7 +8,7 @@ featured: true
 products:
   - name: "ヤマハ PACIFICA112V"
     price: "¥42,900"
-    amazonUrl: "https://www.amazon.co.jp/"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Yamaha+PACIFICA112V&tag=soh251-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
     specs:
       ボディ: "アルダー"

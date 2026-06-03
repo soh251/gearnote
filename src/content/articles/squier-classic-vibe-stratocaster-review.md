@@ -8,7 +8,7 @@ featured: false
 products:
   - name: "Squier Classic Vibe '60s Stratocaster"
     price: "¥61,600〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+Stratocaster"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+Stratocaster&tag=soh251-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+Classic+Vibe+Stratocaster&i_type=a"
     specs:
       製造国: "中国"

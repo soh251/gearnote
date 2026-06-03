@@ -7,7 +7,7 @@ rating: 4
 products:
   - name: "BOSS DS-1 ディストーション"
     price: "¥7,700"
-    amazonUrl: "https://www.amazon.co.jp/"
+    amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DS-1&tag=soh251-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
     specs:
       タイプ: "ディストーション"

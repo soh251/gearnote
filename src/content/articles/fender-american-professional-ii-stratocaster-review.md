@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-03"
 rating: 5
 featured: true
+thumbnail: "https://m.media-amazon.com/images/I/51JfX+e37nL._AC_SL1500_.jpg"
 products:
   - name: "Fender American Professional II Stratocaster"
     price: "¥253,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Fender+American+Professional+II+Stratocaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/products/detail/item/283961/"
+    image: "https://m.media-amazon.com/images/I/51JfX+e37nL._AC_SL1500_.jpg"
     specs:
       製造国: "アメリカ（コロナ工場、カリフォルニア州）"
       ボディ: "アルダー"

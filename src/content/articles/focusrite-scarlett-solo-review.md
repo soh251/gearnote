@@ -5,11 +5,13 @@ category: dtm
 publishedAt: "2024-04-25"
 rating: 4.5
 featured: true
+thumbnail: "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"
 products:
   - name: "Focusrite Scarlett Solo 4th Gen"
     price: "¥16,280"
     amazonUrl: "https://www.amazon.co.jp/s?k=Focusrite+Scarlett+Solo&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
+    image: "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"
     specs:
       インターフェース: "USB-C"
       サンプルレート: "最大192kHz / 24bit"

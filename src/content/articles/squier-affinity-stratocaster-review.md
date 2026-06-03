@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-03"
 rating: 3.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/619gzYqQraL._AC_SL1500_.jpg"
 products:
   - name: "Squier Affinity Series Stratocaster"
     price: "¥32,780〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Affinity+Stratocaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+AFFINITY+STRAT&i_type=a"
+    image: "https://m.media-amazon.com/images/I/619gzYqQraL._AC_SL1500_.jpg"
     specs:
       製造国: "中国"
       ボディ: "ポプラ"

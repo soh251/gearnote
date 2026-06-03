@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-01"
 rating: 4.5
 featured: true
+thumbnail: "https://m.media-amazon.com/images/I/71wPP2FMJ7L._AC_SL1500_.jpg"
 products:
   - name: "ヤマハ PACIFICA112V"
     price: "¥42,900"
     amazonUrl: "https://www.amazon.co.jp/s?k=Yamaha+PACIFICA112V&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/"
+    image: "https://m.media-amazon.com/images/I/71wPP2FMJ7L._AC_SL1500_.jpg"
     specs:
       ボディ: "アルダー"
       ネック: "メイプル"

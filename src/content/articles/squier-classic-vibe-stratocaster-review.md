@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-03"
 rating: 4
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/61BHIqF8uoL._AC_SL1500_.jpg"
 products:
   - name: "Squier Classic Vibe '60s Stratocaster"
     price: "¥61,600〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+Stratocaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+Classic+Vibe+Stratocaster&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61BHIqF8uoL._AC_SL1500_.jpg"
     specs:
       製造国: "中国"
       ボディ: "バスウッド"

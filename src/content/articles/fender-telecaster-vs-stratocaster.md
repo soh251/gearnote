@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-05-20"
 rating: 4
 featured: true
+thumbnail: "https://m.media-amazon.com/images/I/410CPUAbK6L._AC_SL1080_.jpg"
 products:
   - name: "Squier by Fender Classic Vibe '50s Telecaster"
     price: "¥61,600〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+50s+Telecaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+Classic+Vibe+Telecaster&i_type=a"
+    image: "https://m.media-amazon.com/images/I/410CPUAbK6L._AC_SL1080_.jpg"
     specs:
       ボディ: "パイン"
       ネック: "メイプル"
@@ -21,6 +23,7 @@ products:
     price: "¥61,600〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+60s+Stratocaster&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+Classic+Vibe+Stratocaster&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61QWZpA3ksL._AC_SL1200_.jpg"
     specs:
       ボディ: "バスウッド"
       ネック: "メイプル"

@@ -1,0 +1,100 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+export async function getStaticPaths() {
+  const categories = [
+    'electric-guitar',
+    'acoustic-guitar',
+    'effector',
+    'amp',
+    'dtm',
+    'beginners-guide',
+  ];
+  return categories.map((category) => ({ params: { category } }));
+}
+
+const { category } = Astro.params;
+
+const categoryInfo: Record<string, { label: string; description: string; icon: string }> = {
+  'electric-guitar': {
+    label: 'エレキギター',
+    description: 'ストラト・レスポール・テレキャスターなど、エレキギターのレビューと比較',
+    icon: '🎸',
+  },
+  'acoustic-guitar': {
+    label: 'アコースティックギター',
+    description: 'ドレッドノート・コンサートボディ・トラベルギターなどのレビューと比較',
+    icon: '🪕',
+  },
+  'effector': {
+    label: 'エフェクター',
+    description: 'ディストーション・オーバードライブ・コーラス・ディレイなどのレビューと比較',
+    icon: '🎛️',
+  },
+  'amp': {
+    label: 'アンプ',
+    description: 'コンボアンプ・ヘッドアンプ・キャビネットなどのレビューと比較',
+    icon: '🔊',
+  },
+  'dtm': {
+    label: 'DTM機材',
+    description: 'オーディオインターフェース・MIDIキーボード・モニタースピーカーなどのレビューと比較',
+    icon: '🎹',
+  },
+  'beginners-guide': {
+    label: '初心者ガイド',
+    description: '機材の選び方・練習方法・セッティングなど初心者向けの情報',
+    icon: '📖',
+  },
+};
+
+const info = categoryInfo[category!] ?? {
+  label: category,
+  description: '',
+  icon: '🎵',
+};
+
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter((a) => a.data.category === category)
+  .sort((a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime());
+---
+
+<BaseLayout title={info.label} description={info.description}>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <div class="mb-2">
+      <a href="/" class="text-amber-400 hover:text-amber-300 text-sm transition-colors">← トップへ</a>
+    </div>
+
+    <div class="flex items-center gap-4 mb-10">
+      <span class="text-5xl">{info.icon}</span>
+      <div>
+        <h1 class="text-3xl font-black text-white">{info.label}</h1>
+        <p class="text-zinc-400 text-sm mt-1">{info.description}</p>
+      </div>
+    </div>
+
+    {articles.length === 0 ? (
+      <div class="text-center py-20">
+        <p class="text-zinc-500 text-lg">まだ記事がありません</p>
+        <a href="/" class="text-amber-400 hover:text-amber-300 mt-4 inline-block transition-colors">トップに戻る</a>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {articles.map((article) => (
+          <ArticleCard
+            title={article.data.title}
+            description={article.data.description}
+            category={article.data.category}
+            publishedAt={article.data.publishedAt}
+            slug={article.id}
+            rating={article.data.rating}
+            featured={article.data.featured}
+          />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>

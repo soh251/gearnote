@@ -1,0 +1,35 @@
+---
+interface Props {
+  rating: number;
+  maxRating?: number;
+  showNumber?: boolean;
+  size?: 'sm' | 'md' | 'lg';
+}
+
+const { rating, maxRating = 5, showNumber = true, size = 'md' } = Astro.props;
+
+const sizeClass = {
+  sm: 'text-base',
+  md: 'text-xl',
+  lg: 'text-2xl',
+}[size];
+
+const fullStars = Math.floor(rating);
+const hasHalf = rating % 1 >= 0.5;
+const emptyStars = maxRating - fullStars - (hasHalf ? 1 : 0);
+---
+
+<div class="flex items-center gap-1">
+  <span class={`flex ${sizeClass}`} aria-label={`評価: ${rating}/${maxRating}`}>
+    {Array.from({ length: fullStars }).map(() => (
+      <span class="text-amber-400">★</span>
+    ))}
+    {hasHalf && <span class="text-amber-400">⯨</span>}
+    {Array.from({ length: emptyStars }).map(() => (
+      <span class="text-zinc-600">★</span>
+    ))}
+  </span>
+  {showNumber && (
+    <span class="text-amber-400 font-bold ml-1">{rating.toFixed(1)}</span>
+  )}
+</div>

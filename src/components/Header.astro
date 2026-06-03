@@ -1,0 +1,79 @@
+---
+const navItems = [
+  { label: 'エレキギター', href: '/category/electric-guitar' },
+  { label: 'アコースティック', href: '/category/acoustic-guitar' },
+  { label: 'エフェクター', href: '/category/effector' },
+  { label: 'アンプ', href: '/category/amp' },
+  { label: 'DTM機材', href: '/category/dtm' },
+  { label: '初心者ガイド', href: '/category/beginners-guide' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="sticky top-0 z-50 bg-zinc-950/90 backdrop-blur-md border-b border-zinc-800">
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="flex items-center justify-between h-16">
+      <a href="/" class="flex items-center gap-2 group">
+        <div class="w-8 h-8 bg-amber-500 rounded-lg flex items-center justify-center group-hover:bg-amber-400 transition-colors">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-zinc-900" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
+          </svg>
+        </div>
+        <span class="text-white font-bold text-xl tracking-tight">
+          Gear<span class="text-amber-400">Note</span>
+        </span>
+      </a>
+
+      <nav class="hidden lg:flex items-center gap-1">
+        {navItems.map((item) => (
+          <a
+            href={item.href}
+            class={`px-3 py-2 rounded-lg text-sm font-medium transition-colors duration-150 ${
+              currentPath.startsWith(item.href)
+                ? 'bg-amber-500/20 text-amber-400'
+                : 'text-zinc-400 hover:text-white hover:bg-zinc-800'
+            }`}
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
+
+      <button
+        id="mobile-menu-btn"
+        class="lg:hidden p-2 rounded-lg text-zinc-400 hover:text-white hover:bg-zinc-800 transition-colors"
+        aria-label="メニューを開く"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+
+    <nav id="mobile-menu" class="hidden lg:hidden pb-4">
+      <div class="flex flex-col gap-1">
+        {navItems.map((item) => (
+          <a
+            href={item.href}
+            class={`px-3 py-2 rounded-lg text-sm font-medium transition-colors duration-150 ${
+              currentPath.startsWith(item.href)
+                ? 'bg-amber-500/20 text-amber-400'
+                : 'text-zinc-400 hover:text-white hover:bg-zinc-800'
+            }`}
+          >
+            {item.label}
+          </a>
+        ))}
+      </div>
+    </nav>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  btn?.addEventListener('click', () => {
+    menu?.classList.toggle('hidden');
+  });
+</script>

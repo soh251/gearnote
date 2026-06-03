@@ -1,0 +1,59 @@
+---
+const categories = [
+  { label: 'エレキギター', href: '/category/electric-guitar' },
+  { label: 'アコースティックギター', href: '/category/acoustic-guitar' },
+  { label: 'エフェクター', href: '/category/effector' },
+  { label: 'アンプ', href: '/category/amp' },
+  { label: 'DTM機材', href: '/category/dtm' },
+  { label: '初心者ガイド', href: '/category/beginners-guide' },
+];
+---
+
+<footer class="bg-zinc-950 border-t border-zinc-800 mt-20">
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
+      <div>
+        <div class="flex items-center gap-2 mb-4">
+          <div class="w-7 h-7 bg-amber-500 rounded-md flex items-center justify-center">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-zinc-900" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
+            </svg>
+          </div>
+          <span class="text-white font-bold text-lg">Gear<span class="text-amber-400">Note</span></span>
+        </div>
+        <p class="text-zinc-400 text-sm leading-relaxed">
+          ギター・音楽機材の本音レビューと比較情報をお届け。初心者から中級者まで、最適な機材選びをサポートします。
+        </p>
+      </div>
+
+      <div>
+        <h3 class="text-white font-semibold mb-4">カテゴリ</h3>
+        <ul class="space-y-2">
+          {categories.map((cat) => (
+            <li>
+              <a href={cat.href} class="text-zinc-400 hover:text-amber-400 text-sm transition-colors duration-150">
+                {cat.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-white font-semibold mb-4">サイト情報</h3>
+        <ul class="space-y-2 text-zinc-400 text-sm">
+          <li><a href="#" class="hover:text-amber-400 transition-colors duration-150">プライバシーポリシー</a></li>
+          <li><a href="#" class="hover:text-amber-400 transition-colors duration-150">免責事項</a></li>
+          <li><a href="#" class="hover:text-amber-400 transition-colors duration-150">お問い合わせ</a></li>
+        </ul>
+        <p class="text-zinc-600 text-xs mt-4 leading-relaxed">
+          当サイトはAmazonアソシエイトプログラムに参加しています。
+        </p>
+      </div>
+    </div>
+
+    <div class="border-t border-zinc-800 pt-6 text-center text-zinc-600 text-sm">
+      &copy; {new Date().getFullYear()} GearNote. All rights reserved.
+    </div>
+  </div>
+</footer>

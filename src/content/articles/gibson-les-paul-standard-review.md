@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-04"
 rating: 5
 featured: true
+thumbnail: "https://m.media-amazon.com/images/I/81zwMD-+k8L._AC_SL1500_.jpg"
 products:
   - name: "Gibson Les Paul Standard '50s"
     price: "¥330,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gibson+Les+Paul+Standard+50s&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Gibson+Les+Paul+Standard+50s&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81zwMD-+k8L._AC_SL1500_.jpg"
     specs:
       製造国: "アメリカ（ナッシュビル工場）"
       ボディ: "マホガニー（メイプルトップ）"
@@ -24,6 +26,7 @@ products:
     price: "¥350,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gibson+Les+Paul+Standard+60s&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Gibson+Les+Paul+Standard+60s&i_type=a"
+    image: "https://m.media-amazon.com/images/I/815v7wL12dL._AC_SL1500_.jpg"
     specs:
       製造国: "アメリカ（ナッシュビル工場）"
       ボディ: "マホガニー（メイプルトップ）"

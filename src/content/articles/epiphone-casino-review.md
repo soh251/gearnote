@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/61cDDmyYEyL._AC_SL1200_.jpg"
 products:
   - name: "Epiphone Casino（Inspired by Gibson）"
     price: "¥99,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Epiphone+Casino&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Epiphone+Casino&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61cDDmyYEyL._AC_SL1200_.jpg"
     specs:
       製造国: "中国"
       ボディ: "ラミネートメイプル（フルホロウボディ）"

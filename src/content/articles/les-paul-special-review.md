@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/61bJgxeyM8L._AC_SL1200_.jpg"
 products:
   - name: "Gibson Les Paul Special"
     price: "¥176,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gibson+Les+Paul+Special&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Gibson+Les+Paul+Special&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61bJgxeyM8L._AC_SL1200_.jpg"
     specs:
       製造国: "アメリカ（ナッシュビル工場）"
       ボディ: "マホガニー（スラブボディ）"
@@ -24,6 +26,7 @@ products:
     price: "¥44,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Epiphone+Les+Paul+Special&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Epiphone+Les+Paul+Special&i_type=a"
+    image: "https://m.media-amazon.com/images/I/51Vu+YlmLiL._AC_.jpg"
     specs:
       製造国: "中国"
       ボディ: "マホガニー（スラブボディ）"

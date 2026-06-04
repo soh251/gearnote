@@ -5,11 +5,13 @@ category: electric-guitar
 publishedAt: "2024-06-04"
 rating: 4
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/71nEbyQ7l2L._AC_SL1500_.jpg"
 products:
   - name: "Epiphone Les Paul Standard 60s（Inspired by Gibson）"
     price: "¥88,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Epiphone+Les+Paul+Standard+60s&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Epiphone+Les+Paul+Standard&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71nEbyQ7l2L._AC_SL1500_.jpg"
     specs:
       製造国: "中国"
       ボディ: "マホガニー（メイプルトップ）"

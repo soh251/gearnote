@@ -21,6 +21,7 @@ products:
     price: "¥19,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+CP-1X&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+CP-1X&i_type=a"
+    image: "https://m.media-amazon.com/images/I/812Ai8uxiJL._AC_SL1500_.jpg"
     specs:
       タイプ: "マルチバンドコンプレッサー"
       電源: "DC9V"
@@ -30,6 +31,7 @@ products:
     price: "¥16,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=tc+electronic+HyperGravity&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=tc+HyperGravity&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61PSaRuQ1rL._AC_SL1080_.jpg"
     specs:
       タイプ: "コンプレッサー（マルチモード）"
       電源: "DC9V"

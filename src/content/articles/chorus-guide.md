@@ -23,6 +23,7 @@ products:
     price: "¥16,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M234+Analog+Chorus&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+M234&i_type=a"
+    image: "https://m.media-amazon.com/images/I/91mOdCwtLVL._AC_SL1500_.jpg"
     specs:
       タイプ: "アナログコーラス"
       電源: "DC9V"
@@ -32,6 +33,7 @@ products:
     price: "¥14,300〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=tc+electronic+Corona+Chorus&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=tc+electronic+Corona+Chorus&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61Tm6gA7uSL._AC_SL1042_.jpg"
     specs:
       タイプ: "コーラス"
       電源: "DC9V"

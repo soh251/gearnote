@@ -23,6 +23,7 @@ products:
     price: "¥19,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=ProCo+RAT2&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=ProCo+RAT2&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81cBn3xtcDL._AC_SL1500_.jpg"
     specs:
       タイプ: "ディストーション"
       電源: "DC9V / 乾電池006P"
@@ -32,6 +33,7 @@ products:
     price: "¥16,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M75+Super+Badass+Distortion&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+M75&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81rwLlqGemL._AC_SY300_SX300_QL70_ML2_.jpg"
     specs:
       タイプ: "ディストーション"
       電源: "DC9V"

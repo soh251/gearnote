@@ -23,6 +23,7 @@ products:
     price: "¥17,300〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Ibanez+TS9+Tube+Screamer&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Ibanez+TS9&i_type=a"
+    image: "https://m.media-amazon.com/images/I/718yteWblkL._AC_SL1500_.jpg"
     specs:
       タイプ: "オーバードライブ"
       電源: "DC9V / 乾電池006P"
@@ -34,6 +35,7 @@ products:
     price: "¥22,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Fulltone+OCD&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Fulltone+OCD&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71DB9bMHj+L._AC_SL1500_.jpg"
     specs:
       タイプ: "オーバードライブ / ディストーション"
       電源: "DC9〜18V"

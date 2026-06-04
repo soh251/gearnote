@@ -23,6 +23,7 @@ products:
     price: "¥27,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M117R+Flanger&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+M117R&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71JLL7qCOTL._AC_SL1000_.jpg"
     specs:
       タイプ: "アナログフランジャー"
       電源: "DC9V"
@@ -32,6 +33,7 @@ products:
     price: "¥13,200〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=tc+electronic+Vortex+Flanger&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=tc+Vortex+Flanger&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71CpqJGX0FL._AC_SX679_.jpg"
     specs:
       タイプ: "フランジャー"
       電源: "DC9V"

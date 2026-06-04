@@ -21,6 +21,7 @@ products:
     price: "¥22,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Dunlop+Fuzz+Face+Mini&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Dunlop+Fuzz+Face+Mini&i_type=a"
+    image: "https://m.media-amazon.com/images/I/716-YeFdTSL._AC_SL1000_.jpg"
     specs:
       タイプ: "ファズ"
       電源: "DC9V / 乾電池006P"
@@ -29,6 +30,7 @@ products:
     price: "¥15,400〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+FZ-5&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+FZ-5&i_type=a"
+    image: "https://m.media-amazon.com/images/I/51VygoKhu5L._AC_SL1000_.jpg"
     specs:
       タイプ: "ファズ（デジタル）"
       電源: "DC9V"

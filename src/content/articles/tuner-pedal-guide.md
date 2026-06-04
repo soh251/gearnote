@@ -23,6 +23,7 @@ products:
     price: "¥8,250〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=KORG+Pitchblack+Plus&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=KORG+Pitchblack&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61OpX3ROgxL._AC_SL1000_.jpg"
     specs:
       タイプ: "クロマチックチューナー"
       チューニング精度: "±0.1セント"
@@ -34,6 +35,7 @@ products:
     price: "¥11,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=tc+electronic+PolyTune+3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=PolyTune+3&i_type=a"
+    image: "https://m.media-amazon.com/images/I/51XRBHBqfKL._AC_SL1200_.jpg"
     specs:
       タイプ: "ポリフォニック/クロマチックチューナー"
       チューニング精度: "±0.02セント（ストロボモード）"

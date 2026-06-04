@@ -23,6 +23,7 @@ products:
     price: "¥18,700〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Electro-Harmonix+Holy+Grail+Max&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=EHX+Holy+Grail&i_type=a"
+    image: "https://m.media-amazon.com/images/I/51Qyu7zuh8L._AC_.jpg"
     specs:
       タイプ: "デジタルリバーブ"
       電源: "DC9V"
@@ -32,6 +33,7 @@ products:
     price: "¥55,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Strymon+blueSky&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Strymon+blueSky&i_type=a"
+    image: "https://m.media-amazon.com/images/I/91OHVks6wML._AC_SL1500_.jpg"
     specs:
       タイプ: "デジタルリバーブ（ハイエンド）"
       電源: "DC9V（Center Negative）"

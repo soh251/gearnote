@@ -24,6 +24,7 @@ products:
     price: "¥22,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=tc+electronic+Flashback+2&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=tc+Flashback+2&i_type=a"
+    image: "https://m.media-amazon.com/images/I/613Sya3H0uL._AC_SL1250_.jpg"
     specs:
       タイプ: "デジタルディレイ（マルチモード）"
       最大ディレイタイム: "7000ms"
@@ -34,6 +35,7 @@ products:
     price: "¥22,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M169+Carbon+Copy&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+Carbon+Copy&i_type=a"
+    image: "https://m.media-amazon.com/images/I/91Y35id2O-L._AC_SL1500_.jpg"
     specs:
       タイプ: "アナログディレイ"
       最大ディレイタイム: "600ms"

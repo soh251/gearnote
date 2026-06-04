@@ -22,6 +22,7 @@ products:
     price: "¥18,700〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+PW-3+Wah&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+PW-3&i_type=a"
+    image: "https://m.media-amazon.com/images/I/41glaXC21TL._AC_SL1012_.jpg"
     specs:
       タイプ: "ワウペダル（デジタル）"
       電源: "DC9V"
@@ -31,6 +32,7 @@ products:
     price: "¥8,250〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Vox+V845+Wah&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Vox+V845&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71DQ+zYFHwL._AC_SL1500_.jpg"
     specs:
       タイプ: "ワウペダル"
       電源: "DC9V / 乾電池006P"

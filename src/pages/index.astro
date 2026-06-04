@@ -7,121 +7,51 @@ const allArticles = await getCollection('articles');
 const sortedArticles = allArticles.sort(
   (a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime()
 );
-const featuredArticles = sortedArticles.filter((a) => a.data.featured).slice(0, 3);
-const recentArticles = sortedArticles.slice(0, 6);
+const recentArticles = sortedArticles.slice(0, 12);
 
 const categories = [
-  {
-    id: 'electric-guitar',
-    label: 'エレキギター',
-    icon: '🎸',
-    description: 'ストラト・レスポール・テレキャスなど',
-    color: 'bg-blue-50 border-blue-200 hover:border-blue-400',
-    text: 'text-blue-800',
-  },
-  {
-    id: 'acoustic-guitar',
-    label: 'アコースティックギター',
-    icon: '🪕',
-    description: 'ドレッドノート・トラベルギターなど',
-    color: 'bg-emerald-50 border-emerald-200 hover:border-emerald-400',
-    text: 'text-emerald-800',
-  },
-  {
-    id: 'effector',
-    label: 'エフェクター',
-    icon: '🎛️',
-    description: 'ディストーション・コーラス・遅延など',
-    color: 'bg-purple-50 border-purple-200 hover:border-purple-400',
-    text: 'text-purple-800',
-  },
-  {
-    id: 'amp',
-    label: 'アンプ',
-    icon: '🔊',
-    description: 'コンボ・ヘッドアンプ・キャビネット',
-    color: 'bg-red-50 border-red-200 hover:border-red-400',
-    text: 'text-red-800',
-  },
-  {
-    id: 'dtm',
-    label: 'DTM機材',
-    icon: '🎹',
-    description: 'オーディオI/F・MIDIキーボードなど',
-    color: 'bg-cyan-50 border-cyan-200 hover:border-cyan-400',
-    text: 'text-cyan-800',
-  },
-  {
-    id: 'beginners-guide',
-    label: '初心者ガイド',
-    icon: '📖',
-    description: '機材選び・練習方法・セッティング',
-    color: 'bg-amber-50 border-amber-200 hover:border-amber-400',
-    text: 'text-amber-800',
-  },
+  { id: 'electric-guitar', label: 'エレキギター' },
+  { id: 'acoustic-guitar', label: 'アコースティック' },
+  { id: 'effector', label: 'エフェクター' },
+  { id: 'amp', label: 'アンプ' },
+  { id: 'dtm', label: 'DTM機材' },
 ];
 ---
 
 <BaseLayout title="楽器・音楽機材レビュー&比較" description="ギター・エフェクター・DTM機材のレビューと比較情報をお届け。初心者から中級者まで最適な機材選びをサポートします。">
-  <!-- Hero -->
-  <section class="relative overflow-hidden bg-gradient-to-br from-amber-50 via-white to-orange-50 border-b border-[#e5e7eb]">
-    <div class="max-w-6xl mx-auto px-4 py-20 md:py-28 relative">
-      <div class="max-w-2xl">
-        <div class="inline-flex items-center gap-2 bg-amber-100 border border-amber-200 rounded-full px-4 py-1.5 mb-6">
-          <span class="w-2 h-2 rounded-full bg-amber-500 animate-pulse"></span>
-          <span class="text-amber-700 text-sm font-medium">楽器・音楽機材レビューサイト</span>
-        </div>
-        <h1 class="text-4xl md:text-5xl font-black text-[#1a1a1a] leading-tight mb-4">
-          最高の機材を、<br />
-          <span class="text-amber-500">正しく選ぶ</span>ために。
-        </h1>
-        <p class="text-[#6b7280] text-lg leading-relaxed mb-8">
-          ギター・エフェクター・DTM機材の実機レビューと詳細な比較情報をお届け。
-          初心者から中級者まで、あなたにぴったりの機材選びをサポートします。
-        </p>
-        <div class="flex flex-wrap gap-3">
+  <!-- サイト説明バー -->
+  <div class="border-b border-[#e5e7eb] bg-white">
+    <div class="max-w-6xl mx-auto px-4 py-2 flex items-center justify-between">
+      <p class="text-[#6b7280] text-xs">ギター・エフェクター・DTM機材のレビューと比較情報をお届け</p>
+      <span class="text-[#6b7280] text-xs">{allArticles.length}件のレビュー掲載中</span>
+    </div>
+  </div>
+
+  <!-- カテゴリタブ -->
+  <div class="border-b border-[#e5e7eb] bg-white sticky top-0 z-10 shadow-sm">
+    <div class="max-w-6xl mx-auto px-4">
+      <div class="flex overflow-x-auto -mb-px" style="scrollbar-width:none;">
+        {categories.map((cat) => (
           <a
-            href="/category/electric-guitar"
-            class="bg-amber-500 hover:bg-amber-400 text-white font-bold px-6 py-3 rounded-xl transition-colors duration-150"
+            href={`/category/${cat.id}`}
+            class="shrink-0 px-4 py-3 text-sm font-medium text-[#444] hover:text-amber-600 border-b-2 border-transparent hover:border-amber-500 transition-colors whitespace-nowrap"
           >
-            レビューを見る
+            {cat.label}
           </a>
-          <a
-            href="/category/beginners-guide"
-            class="bg-white hover:bg-[#f5f5f5] text-[#1a1a1a] font-medium px-6 py-3 rounded-xl border border-[#e5e7eb] transition-colors duration-150"
-          >
-            初心者ガイド
-          </a>
-        </div>
+        ))}
       </div>
     </div>
-  </section>
+  </div>
 
-  <!-- カテゴリ -->
-  <section class="max-w-6xl mx-auto px-4 py-16">
-    <h2 class="text-2xl font-bold text-[#1a1a1a] mb-8">カテゴリから探す</h2>
-    <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
-      {categories.map((cat) => (
-        <a
-          href={`/category/${cat.id}`}
-          class={`group ${cat.color} border rounded-xl p-5 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-sm`}
-        >
-          <span class="text-3xl block mb-3">{cat.icon}</span>
-          <h3 class={`${cat.text} font-semibold text-sm mb-1 group-hover:text-amber-600 transition-colors`}>{cat.label}</h3>
-          <p class="text-[#6b7280] text-xs leading-relaxed">{cat.description}</p>
-        </a>
-      ))}
-    </div>
-  </section>
-
-  <!-- 注目記事 -->
-  {featuredArticles.length > 0 && (
-    <section class="max-w-6xl mx-auto px-4 pb-16">
-      <div class="flex items-center justify-between mb-8">
-        <h2 class="text-2xl font-bold text-[#1a1a1a]">注目レビュー</h2>
+  <!-- 新着レビュー -->
+  <div class="bg-white">
+    <div class="max-w-6xl mx-auto px-4 py-8">
+      <div class="flex items-center gap-2 mb-4">
+        <span class="w-1 h-4 bg-amber-500 rounded-full inline-block"></span>
+        <h2 class="text-sm font-bold text-[#1a1a1a] tracking-wide">新着レビュー</h2>
       </div>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
-        {featuredArticles.map((article) => (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {recentArticles.map((article) => (
           <ArticleCard
             title={article.data.title}
             description={article.data.description}
@@ -129,32 +59,10 @@ const categories = [
             publishedAt={article.data.publishedAt}
             slug={article.id}
             rating={article.data.rating}
-            featured={article.data.featured}
             thumbnail={article.data.thumbnail}
           />
         ))}
       </div>
-    </section>
-  )}
-
-  <!-- 新着記事 -->
-  <section class="max-w-6xl mx-auto px-4 pb-16">
-    <div class="flex items-center justify-between mb-8">
-      <h2 class="text-2xl font-bold text-[#1a1a1a]">新着記事</h2>
     </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-      {recentArticles.map((article) => (
-        <ArticleCard
-          title={article.data.title}
-          description={article.data.description}
-          category={article.data.category}
-          publishedAt={article.data.publishedAt}
-          slug={article.id}
-          rating={article.data.rating}
-          featured={article.data.featured}
-          thumbnail={article.data.thumbnail}
-        />
-      ))}
-    </div>
-  </section>
+  </div>
 </BaseLayout>

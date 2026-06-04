@@ -7,7 +7,7 @@ rating: 4
 featured: false
 products:
   - name: "BOSS SD-1 スーパーオーバードライブ"
-    price: "¥7,700〜"
+    price: "¥8,960〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+SD-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+SD-1&i_type=a"
     specs:
@@ -15,7 +15,7 @@ products:
       価格帯: "¥7,700〜"
       おすすめジャンル: "ブルース・ロック・ポップス"
   - name: "BOSS DS-1 ディストーション"
-    price: "¥7,700〜"
+    price: "¥8,960〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DS-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DS-1&i_type=a"
     specs:
@@ -23,7 +23,7 @@ products:
       価格帯: "¥7,700〜"
       おすすめジャンル: "ロック・ハードロック・パンク"
   - name: "Electro-Harmonix Big Muff Pi"
-    price: "¥12,100〜"
+    price: "¥14,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Electro-Harmonix+Big+Muff+Pi&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Big+Muff+Pi&i_type=a"
     specs:

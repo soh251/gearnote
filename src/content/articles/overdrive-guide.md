@@ -7,7 +7,7 @@ rating: 4.5
 featured: false
 products:
   - name: "BOSS SD-1 スーパーオーバードライブ"
-    price: "¥7,700〜"
+    price: "¥8,960〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+SD-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+SD-1&i_type=a"
     specs:
@@ -18,7 +18,7 @@ products:
       重量: "390g"
       コントロール: "LEVEL、TONE、DRIVE"
   - name: "Ibanez TS9 Tube Screamer"
-    price: "¥16,500〜"
+    price: "¥17,300〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Ibanez+TS9+Tube+Screamer&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Ibanez+TS9&i_type=a"
     specs:

@@ -7,7 +7,7 @@ rating: 4
 featured: false
 products:
   - name: "MXR M102 Dyna Comp"
-    price: "¥14,300〜"
+    price: "¥15,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M102+Dyna+Comp&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+Dyna+Comp&i_type=a"
     specs:

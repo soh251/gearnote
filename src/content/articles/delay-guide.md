@@ -7,7 +7,7 @@ rating: 4.5
 featured: false
 products:
   - name: "BOSS DD-3T デジタルディレイ"
-    price: "¥17,600〜"
+    price: "¥19,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DD-3T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DD-3T&i_type=a"
     specs:

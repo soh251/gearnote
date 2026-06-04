@@ -21,14 +21,14 @@ products:
       タイプ: "オーバードライブ"
       用途: "スタンダード・フルプランで使用"
   - name: "BOSS DD-3T デジタルディレイ"
-    price: "¥17,600〜"
+    price: "¥18,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DD-3T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DD-3T&i_type=a"
     specs:
       タイプ: "ディレイ"
       用途: "スタンダード・フルプランで使用"
   - name: "BOSS RV-6 リバーブ"
-    price: "¥19,800〜"
+    price: "¥18,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+RV-6&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+RV-6&i_type=a"
     specs:

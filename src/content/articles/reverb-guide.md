@@ -7,7 +7,7 @@ rating: 4.5
 featured: false
 products:
   - name: "BOSS RV-6 リバーブ"
-    price: "¥19,800〜"
+    price: "¥18,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+RV-6&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+RV-6&i_type=a"
     specs:

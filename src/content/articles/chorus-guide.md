@@ -7,7 +7,7 @@ rating: 4.5
 featured: false
 products:
   - name: "BOSS CH-1 スーパーコーラス"
-    price: "¥13,200〜"
+    price: "¥14,400〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+CH-1+Super+Chorus&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+CH-1&i_type=a"
     specs:

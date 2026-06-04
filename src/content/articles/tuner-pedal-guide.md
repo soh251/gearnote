@@ -7,7 +7,7 @@ rating: 4.5
 featured: false
 products:
   - name: "BOSS TU-3 クロマチックチューナー"
-    price: "¥8,800〜"
+    price: "¥14,300〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+TU-3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+TU-3&i_type=a"
     specs:

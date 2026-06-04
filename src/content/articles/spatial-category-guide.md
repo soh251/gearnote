@@ -7,21 +7,21 @@ rating: 4
 featured: false
 products:
   - name: "BOSS CH-1 スーパーコーラス"
-    price: "¥13,200〜"
+    price: "¥14,400〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+CH-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+CH-1&i_type=a"
     specs:
       タイプ: "コーラス"
       おすすめジャンル: "ポップス・ロック"
   - name: "BOSS DD-3T デジタルディレイ"
-    price: "¥17,600〜"
+    price: "¥18,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DD-3T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DD-3T&i_type=a"
     specs:
       タイプ: "ディレイ"
       おすすめジャンル: "全ジャンル"
   - name: "BOSS RV-6 リバーブ"
-    price: "¥19,800〜"
+    price: "¥18,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+RV-6&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+RV-6&i_type=a"
     specs:

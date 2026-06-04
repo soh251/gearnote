@@ -7,7 +7,7 @@ rating: 4
 featured: false
 products:
   - name: "Electro-Harmonix Big Muff Pi"
-    price: "¥12,100〜"
+    price: "¥14,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Electro-Harmonix+Big+Muff+Pi&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Big+Muff+Pi&i_type=a"
     specs:
@@ -16,7 +16,7 @@ products:
       電流消費: "5mA"
       コントロール: "VOLUME、TONE、SUSTAIN"
   - name: "Dunlop Fuzz Face Mini（JHF1）"
-    price: "¥16,500〜"
+    price: "¥22,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Dunlop+Fuzz+Face+Mini&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Dunlop+Fuzz+Face+Mini&i_type=a"
     specs:
@@ -24,7 +24,7 @@ products:
       電源: "DC9V / 乾電池006P"
       コントロール: "VOLUME、FUZZ"
   - name: "BOSS FZ-5 ファズ"
-    price: "¥16,500〜"
+    price: "¥15,400〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+FZ-5&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+FZ-5&i_type=a"
     specs:

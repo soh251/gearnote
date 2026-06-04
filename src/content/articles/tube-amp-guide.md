@@ -5,11 +5,13 @@ category: amp
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: true
+thumbnail: "https://m.media-amazon.com/images/I/81Ie6KjMJFL._AC_SL1200_.jpg"
 products:
   - name: "Fender Blues Junior IV"
     price: "¥77,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Fender+Blues+Junior+IV&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Fender+Blues+Junior&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81Ie6KjMJFL._AC_SL1200_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"
       出力: "15W"
@@ -22,6 +24,7 @@ products:
     price: "¥88,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Vox+AC15C1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Vox+AC15C1&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71hmBLn3UuL._AC_SL1000_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"
       出力: "15W"
@@ -34,6 +37,7 @@ products:
     price: "¥77,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Marshall+DSL20CR&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Marshall+DSL20CR&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71gFMY2IImL._AC_SL1000_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"
       出力: "20W / 1W切替"

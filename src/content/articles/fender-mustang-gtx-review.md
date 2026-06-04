@@ -5,11 +5,13 @@ category: amp
 publishedAt: "2024-06-04"
 rating: 4
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/81WSwMnaz0L._AC_SL1200_.jpg"
 products:
   - name: "Fender Mustang GTX50"
     price: "¥60,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Fender+Mustang+GTX50&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Fender+Mustang+GTX50&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81WSwMnaz0L._AC_SL1200_.jpg"
     specs:
       タイプ: "モデリングアンプ（コンボ）"
       出力: "50W"

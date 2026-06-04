@@ -5,11 +5,13 @@ category: amp
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: true
+thumbnail: "https://m.media-amazon.com/images/I/91-5zQ3fkvL._AC_SL1500_.jpg"
 products:
   - name: "BOSS Katana-50 GEN 3"
     price: "¥36,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+Katana-50+GEN3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+KATANA+GEN+3&i_type=a"
+    image: "https://m.media-amazon.com/images/I/91-5zQ3fkvL._AC_SL1500_.jpg"
     specs:
       タイプ: "モデリングアンプ（コンボ）"
       出力: "50W / 0.5W切替"
@@ -23,6 +25,7 @@ products:
     price: "¥24,200〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Blackstar+ID+Core+V4+20&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BLACKSTAR+ID+Core+Stereo+20&i_type=a"
+    image: "https://m.media-amazon.com/images/I/91zFPVD7QEL._AC_SL1500_.jpg"
     specs:
       タイプ: "モデリングアンプ（ステレオコンボ）"
       出力: "20W（ステレオ10W+10W）"
@@ -35,6 +38,7 @@ products:
     price: "¥33,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Yamaha+THR10II&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=YAMAHA+THR10II&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81x5B0syZZL._AC_SL1500_.jpg"
     specs:
       タイプ: "デスクトップアンプ（モデリング）"
       出力: "20W（ステレオ10W+10W）"

@@ -5,11 +5,13 @@ category: amp
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/71gFMY2IImL._AC_SL1000_.jpg"
 products:
   - name: "Marshall DSL20CR"
     price: "¥88,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Marshall+DSL20CR&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Marshall+DSL20CR&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71gFMY2IImL._AC_SL1000_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"
       出力: "20W / 1W 切替"

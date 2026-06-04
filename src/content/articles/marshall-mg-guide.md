@@ -5,11 +5,13 @@ category: amp
 publishedAt: "2024-06-04"
 rating: 3.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/71tGDujTuQL._AC_SL1000_.jpg"
 products:
   - name: "Marshall MG30GFX"
     price: "¥22,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Marshall+MG30GFX&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Marshall+MG30GFX&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71tGDujTuQL._AC_SL1000_.jpg"
     specs:
       タイプ: "トランジスタアンプ（コンボ）"
       出力: "30W"
@@ -22,6 +24,7 @@ products:
     price: "¥33,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Marshall+MG50GFX&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Marshall+MG50GFX&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71mgtdKJGiL._AC_SL1000_.jpg"
     specs:
       タイプ: "トランジスタアンプ（コンボ）"
       出力: "50W"

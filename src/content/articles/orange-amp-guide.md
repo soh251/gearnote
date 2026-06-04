@@ -5,11 +5,13 @@ category: amp
 publishedAt: "2024-06-04"
 rating: 4
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/81ctCgWztTL._AC_SL1500_.jpg"
 products:
   - name: "Orange Crush 20RT"
     price: "¥22,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Orange+Crush+20RT&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Orange+Crush+20RT&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81ctCgWztTL._AC_SL1500_.jpg"
     specs:
       タイプ: "トランジスタアンプ（コンボ）"
       出力: "20W"

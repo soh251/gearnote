@@ -5,11 +5,13 @@ category: amp
 publishedAt: "2024-06-04"
 rating: 5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/81t8OAQYNML._AC_SL1500_.jpg"
 products:
   - name: "Vox AC30C2"
     price: "¥157,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Vox+AC30C2&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Vox+AC30C2&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81t8OAQYNML._AC_SL1500_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"
       出力: "30W"

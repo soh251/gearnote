@@ -5,11 +5,13 @@ category: effector
 publishedAt: "2024-06-04"
 rating: 4
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/51fxIn+KoRL._AC_SL1000_.jpg"
 products:
   - name: "BOSS BF-3 フランジャー"
     price: "¥16,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+BF-3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+BF-3&i_type=a"
+    image: "https://m.media-amazon.com/images/I/51fxIn+KoRL._AC_SL1000_.jpg"
     specs:
       タイプ: "フランジャー"
       電源: "DC9V / 乾電池006P"

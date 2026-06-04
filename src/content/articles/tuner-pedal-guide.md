@@ -5,11 +5,13 @@ category: effector
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/71jZx+rFzuL._AC_SL1500_.jpg"
 products:
   - name: "BOSS TU-3 クロマチックチューナー"
     price: "¥14,300〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+TU-3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+TU-3&i_type=a"
+    image: "https://m.media-amazon.com/images/I/71jZx+rFzuL._AC_SL1500_.jpg"
     specs:
       タイプ: "クロマチックチューナー"
       チューニング精度: "±1セント"

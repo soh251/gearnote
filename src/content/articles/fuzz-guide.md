@@ -5,11 +5,13 @@ category: effector
 publishedAt: "2024-06-04"
 rating: 4
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/81jQnRC2dcL._AC_SL1500_.jpg"
 products:
   - name: "Electro-Harmonix Big Muff Pi"
     price: "¥14,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Electro-Harmonix+Big+Muff+Pi&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Big+Muff+Pi&i_type=a"
+    image: "https://m.media-amazon.com/images/I/81jQnRC2dcL._AC_SL1500_.jpg"
     specs:
       タイプ: "ファズ / サステイナー"
       電源: "DC9V / 乾電池006P"

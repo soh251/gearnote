@@ -5,11 +5,13 @@ category: effector
 publishedAt: "2024-06-04"
 rating: 4
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/61rr8Ds7xGL._AC_SL1000_.jpg"
 products:
   - name: "MXR M102 Dyna Comp"
     price: "¥15,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M102+Dyna+Comp&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+Dyna+Comp&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61rr8Ds7xGL._AC_SL1000_.jpg"
     specs:
       タイプ: "コンプレッサー"
       電源: "DC9V / 乾電池006P"

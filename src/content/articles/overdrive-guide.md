@@ -5,11 +5,13 @@ category: effector
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/714EH7lqNRL._AC_SL1500_.jpg"
 products:
   - name: "BOSS SD-1 スーパーオーバードライブ"
     price: "¥8,960〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+SD-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+SD-1&i_type=a"
+    image: "https://m.media-amazon.com/images/I/714EH7lqNRL._AC_SL1500_.jpg"
     specs:
       タイプ: "オーバードライブ"
       電源: "DC9V / 乾電池006P"

@@ -5,11 +5,13 @@ category: effector
 publishedAt: "2024-06-04"
 rating: 4.5
 featured: false
+thumbnail: "https://m.media-amazon.com/images/I/61y5oAYxizL._AC_SL1050_.jpg"
 products:
   - name: "BOSS DD-3T デジタルディレイ"
     price: "¥19,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DD-3T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DD-3T&i_type=a"
+    image: "https://m.media-amazon.com/images/I/61y5oAYxizL._AC_SL1050_.jpg"
     specs:
       タイプ: "デジタルディレイ"
       最大ディレイタイム: "800ms"

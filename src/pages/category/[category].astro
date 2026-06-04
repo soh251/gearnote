@@ -65,21 +65,21 @@ const articles = allArticles
 <BaseLayout title={info.label} description={info.description}>
   <div class="max-w-6xl mx-auto px-4 py-12">
     <div class="mb-2">
-      <a href="/" class="text-amber-400 hover:text-amber-300 text-sm transition-colors">← トップへ</a>
+      <a href="/" class="text-amber-600 hover:text-amber-500 text-sm transition-colors">← トップへ</a>
     </div>
 
     <div class="flex items-center gap-4 mb-10">
       <span class="text-5xl">{info.icon}</span>
       <div>
-        <h1 class="text-3xl font-black text-white">{info.label}</h1>
-        <p class="text-zinc-400 text-sm mt-1">{info.description}</p>
+        <h1 class="text-3xl font-black text-[#1a1a1a]">{info.label}</h1>
+        <p class="text-[#6b7280] text-sm mt-1">{info.description}</p>
       </div>
     </div>
 
     {articles.length === 0 ? (
       <div class="text-center py-20">
-        <p class="text-zinc-500 text-lg">まだ記事がありません</p>
-        <a href="/" class="text-amber-400 hover:text-amber-300 mt-4 inline-block transition-colors">トップに戻る</a>
+        <p class="text-[#6b7280] text-lg">まだ記事がありません</p>
+        <a href="/" class="text-amber-600 hover:text-amber-500 mt-4 inline-block transition-colors">トップに戻る</a>
       </div>
     ) : (
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">

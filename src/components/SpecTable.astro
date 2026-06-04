@@ -13,22 +13,22 @@ const { products } = Astro.props;
 const allKeys = [...new Set(products.flatMap((p) => Object.keys(p.specs ?? {})))];
 ---
 
-<div class="overflow-x-auto rounded-xl border border-zinc-700">
+<div class="overflow-x-auto rounded-xl border border-[#e5e7eb]">
   <table class="w-full text-sm">
     <thead>
-      <tr class="bg-zinc-800 border-b border-zinc-700">
-        <th class="text-left py-3 px-4 text-zinc-400 font-medium w-32">スペック</th>
+      <tr class="bg-[#f5f5f5] border-b border-[#e5e7eb]">
+        <th class="text-left py-3 px-4 text-[#6b7280] font-medium w-32">スペック</th>
         {products.map((p) => (
-          <th class="text-left py-3 px-4 text-amber-400 font-semibold">{p.name}</th>
+          <th class="text-left py-3 px-4 text-amber-600 font-semibold">{p.name}</th>
         ))}
       </tr>
     </thead>
     <tbody>
       {allKeys.map((key, i) => (
-        <tr class={`border-b border-zinc-700/50 ${i % 2 === 0 ? 'bg-zinc-900' : 'bg-zinc-800/50'}`}>
-          <td class="py-3 px-4 text-zinc-400 font-medium">{key}</td>
+        <tr class={`border-b border-[#e5e7eb] ${i % 2 === 0 ? 'bg-white' : 'bg-[#f5f5f5]'}`}>
+          <td class="py-3 px-4 text-[#6b7280] font-medium">{key}</td>
           {products.map((p) => (
-            <td class="py-3 px-4 text-zinc-200">{p.specs?.[key] ?? '—'}</td>
+            <td class="py-3 px-4 text-[#1a1a1a]">{p.specs?.[key] ?? '—'}</td>
           ))}
         </tr>
       ))}

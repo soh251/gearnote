@@ -10,26 +10,28 @@ interface Props {
 const { name, price, amazonUrl, soundhouseUrl, image } = Astro.props;
 ---
 
-<div class="bg-zinc-800 border border-zinc-700 rounded-xl overflow-hidden hover:border-amber-500 transition-colors duration-200">
+<div class="bg-[#f5f5f5] border border-[#e5e7eb] rounded-xl overflow-hidden hover:border-amber-400 hover:shadow-md transition-all duration-200">
   {image ? (
-    <img src={image} alt={name} class="w-full h-48 object-cover" />
+    <div class="bg-white flex items-center justify-center h-48 p-4">
+      <img src={image} alt={name} class="h-full w-full object-contain" />
+    </div>
   ) : (
-    <div class="w-full h-48 bg-zinc-700 flex items-center justify-center">
-      <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 text-zinc-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <div class="w-full h-48 bg-[#e5e7eb] flex items-center justify-center">
+      <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 text-[#6b7280]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3" />
       </svg>
     </div>
   )}
   <div class="p-4">
-    <h3 class="text-white font-semibold text-sm leading-snug mb-2">{name}</h3>
-    <p class="text-amber-400 font-bold text-lg mb-4">{price}</p>
+    <h3 class="text-[#1a1a1a] font-semibold text-sm leading-snug mb-2">{name}</h3>
+    <p class="text-amber-600 font-bold text-lg mb-4">{price}</p>
     <div class="flex flex-col gap-2">
       {amazonUrl && (
         <a
           href={amazonUrl}
           target="_blank"
           rel="noopener noreferrer nofollow"
-          class="flex items-center justify-center gap-2 bg-amber-500 hover:bg-amber-400 text-zinc-900 font-bold text-sm py-2 px-4 rounded-lg transition-colors duration-150"
+          class="flex items-center justify-center gap-2 bg-amber-500 hover:bg-amber-400 text-white font-bold text-sm py-2 px-4 rounded-lg transition-colors duration-150"
         >
           <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
             <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.5 14.5c-1.26.91-2.99 1.5-4.5 1.5-3.59 0-6.5-2.91-6.5-6.5 0-1.51.52-2.91 1.38-4.02l.88.88C7.26 9.21 7 10.07 7 11c0 2.76 2.24 5 5 5 .93 0 1.79-.26 2.54-.68l.96.68zm1.82-1.32l-.88-.88c.52-.75.86-1.65.86-2.3 0-1.1-.9-2-2-2h-1.8l-1-1.5H14c1.93 0 3.5 1.57 3.5 3.5 0 1.18-.57 2.22-1.18 2.18z"/>
@@ -42,7 +44,7 @@ const { name, price, amazonUrl, soundhouseUrl, image } = Astro.props;
           href={soundhouseUrl}
           target="_blank"
           rel="noopener noreferrer nofollow"
-          class="flex items-center justify-center gap-2 bg-zinc-700 hover:bg-zinc-600 text-white font-bold text-sm py-2 px-4 rounded-lg transition-colors duration-150 border border-zinc-600"
+          class="flex items-center justify-center gap-2 bg-white hover:bg-[#f5f5f5] text-[#1a1a1a] font-bold text-sm py-2 px-4 rounded-lg transition-colors duration-150 border border-[#e5e7eb]"
         >
           <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />

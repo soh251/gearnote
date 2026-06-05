@@ -6,7 +6,7 @@ publishedAt: "2026-06-05"
 rating: 4
 products:
   - name: "Gretsch G5410T Electromatic Rat Rod"
-    price: "¥65,000〜¥80,000"
+    price: "¥104,800〜¥110,000"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G5410T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G5410T"
     specs:
@@ -69,7 +69,7 @@ G5410TとG5422は兄弟機種ですが、選ぶポイントは明確です。
 
 | 項目 | G5410T | G5422 | G2622 |
 |------|--------|-------|-------|
-| 価格目安 | ¥65,000〜 | ¥75,000〜 | ¥48,000〜 |
+| 価格目安 | ¥104,800〜 | ¥119,900〜 | ¥77,000〜 |
 | ボディ構造 | フルホロウ | フルホロウ | セミホロウ |
 | カッタウェイ | シングル | ダブル | ダブル |
 | Bigsby | 標準搭載 | モデルにより | なし |

@@ -6,7 +6,7 @@ publishedAt: "2026-06-05"
 rating: 4
 products:
   - name: "Gretsch G2420 Streamliner"
-    price: "¥45,000〜"
+    price: "¥75,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G2420&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G2420"
     specs:
@@ -16,7 +16,7 @@ products:
       コントロール: "2ボリューム・2トーン・3wayスイッチ"
       ブリッジ: "Adjusto-Matic™"
   - name: "Gretsch G2622 Streamliner"
-    price: "¥48,000〜"
+    price: "¥77,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G2622&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G2622"
     specs:
@@ -26,7 +26,7 @@ products:
       コントロール: "2ボリューム・2トーン・3wayスイッチ"
       ブリッジ: "Adjusto-Matic™"
   - name: "Gretsch G2655 Streamliner"
-    price: "¥48,000〜"
+    price: "¥77,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G2655&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G2655"
     specs:
@@ -39,7 +39,7 @@ products:
 
 ## Streamlinerシリーズとは何か
 
-Streamlinerシリーズはグレッチのエントリーラインで、価格帯は4〜6万円です。製造は中国ですが、外見のデザインや基本的な構造はグレッチのアイデンティティをしっかり受け継いでいます。
+Streamlinerシリーズはグレッチのエントリーラインで、価格帯は7〜9万円台です。製造は中国ですが、外見のデザインや基本的な構造はグレッチのアイデンティティをしっかり受け継いでいます。
 
 搭載ピックアップはBroadTron™（ブロードトロン）で、フィルタートロンよりパワフルで扱いやすい音が特徴です。「グレッチらしい雰囲気はほしいけど、まずは手頃な価格で試したい」という初心者に最適なシリーズです。
 
@@ -75,7 +75,7 @@ G2655はG2622と同じセミホロウ・ダブルカッタウェイですが、*
 
 | 項目 | G2420 | G2622 | G2655 |
 |------|-------|-------|-------|
-| 価格目安 | ¥45,000〜 | ¥48,000〜 | ¥48,000〜 |
+| 価格目安 | ¥75,000〜 | ¥77,000〜 | ¥77,000〜 |
 | ボディ構造 | フルホロウ | セミホロウ | セミホロウ |
 | カッタウェイ | シングル | ダブル | ダブル |
 | ボディサイズ | 標準 | 標準 | やや小ぶり |

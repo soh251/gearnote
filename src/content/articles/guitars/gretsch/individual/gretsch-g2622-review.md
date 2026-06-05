@@ -8,6 +8,7 @@ rating: 4
 products:
   - name: "Gretsch G2622 Streamliner Center Block"
     price: "¥77,000〜¥85,000"
+    image: "https://m.media-amazon.com/images/I/61MDXqlkzhL._AC_SL1199_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G2622&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G2622"
     specs:

@@ -8,6 +8,7 @@ rating: 4
 products:
   - name: "Gretsch G2420 Streamliner"
     price: "¥75,000〜"
+    image: "https://m.media-amazon.com/images/I/610XontTneL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G2420&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G2420"
     specs:
@@ -18,6 +19,7 @@ products:
       ブリッジ: "Adjusto-Matic™"
   - name: "Gretsch G2622 Streamliner"
     price: "¥77,000〜"
+    image: "https://m.media-amazon.com/images/I/61MDXqlkzhL._AC_SL1199_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G2622&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G2622"
     specs:
@@ -28,6 +30,7 @@ products:
       ブリッジ: "Adjusto-Matic™"
   - name: "Gretsch G2655 Streamliner"
     price: "¥77,000〜"
+    image: "https://m.media-amazon.com/images/I/51foLcgmZ7L._AC_SL1049_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G2655&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G2655"
     specs:

@@ -8,6 +8,7 @@ rating: 5
 products:
   - name: "Ibanez TS9 Tube Screamer"
     price: "¥14,000〜¥17,000"
+    image: "https://m.media-amazon.com/images/I/61H3YF2RduL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=Ibanez+TS9+Tube+Screamer&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=TS9"
     specs:

@@ -8,6 +8,7 @@ rating: 5
 products:
   - name: "BOSS BD-2 Blues Driver"
     price: "¥8,000〜¥10,000"
+    image: "https://m.media-amazon.com/images/I/61h1Hd+5aVL._AC_SL1050_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+BD-2&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=BD-2"
     specs:

@@ -8,7 +8,7 @@ featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71WAFbpOI-L._AC_SL1500_.jpg"
 products:
   - name: "BOSS DS-1 ディストーション"
-    price: "¥9,350〜"
+    price: "¥7,700〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DS-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DS-1&i_type=a"
     image: "https://m.media-amazon.com/images/I/71WAFbpOI-L._AC_SL1500_.jpg"
@@ -20,7 +20,7 @@ products:
       重量: "390g"
       コントロール: "LEVEL、TONE、DIST"
   - name: "ProCo RAT2"
-    price: "¥19,800〜"
+    price: "¥14,300〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=ProCo+RAT2&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=ProCo+RAT2&i_type=a"
     image: "https://m.media-amazon.com/images/I/81cBn3xtcDL._AC_SL1500_.jpg"

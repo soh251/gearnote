@@ -8,7 +8,7 @@ featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71nEv+V6SDL._AC_SL1500_.jpg"
 products:
   - name: "BOSS CH-1 スーパーコーラス"
-    price: "¥14,400〜"
+    price: "¥13,200〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+CH-1+Super+Chorus&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+CH-1&i_type=a"
     image: "https://m.media-amazon.com/images/I/71nEv+V6SDL._AC_SL1500_.jpg"

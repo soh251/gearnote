@@ -8,7 +8,7 @@ featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61zwIen-YIL._AC_SL1500_.jpg"
 products:
   - name: "BOSS RV-6 リバーブ"
-    price: "¥18,800〜"
+    price: "¥19,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+RV-6&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+RV-6&i_type=a"
     image: "https://m.media-amazon.com/images/I/61zwIen-YIL._AC_SL1500_.jpg"

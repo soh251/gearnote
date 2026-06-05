@@ -8,6 +8,7 @@ rating: 5
 products:
   - name: "Gretsch G6120T Players Edition Nashville"
     price: "¥278,000〜¥350,000"
+    image: "https://www.soundhouse.co.jp/images/shop/prod_img/g/grestch_240-1210-912a.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G6120&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G6120"
     specs:

@@ -7,8 +7,8 @@ rating: 4
 products:
   - name: "Gretsch G5410T Electromatic Rat Rod"
     price: "¥65,000〜¥80,000"
-    amazonUrl: "[AFFILIATE_AMAZON_Gretsch_G5410T]"
-    soundhouseUrl: "[AFFILIATE_SOUNDHOUSE_Gretsch_G5410T]"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Gretsch+G5410T&tag=gearnoteguitar-22"
+    soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=Gretsch+G5410T"
     specs:
       ボディ: "フルホロウ・アーチドトップ"
       カッタウェイ: "シングル"

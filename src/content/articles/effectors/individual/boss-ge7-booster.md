@@ -7,8 +7,8 @@ rating: 4
 products:
   - name: "BOSS GE-7 Equalizer"
     price: "¥9,000〜¥12,000"
-    amazonUrl: "[AFFILIATE_AMAZON_BOSS_GE-7]"
-    soundhouseUrl: "[AFFILIATE_SOUNDHOUSE_BOSS_GE-7]"
+    amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+GE-7&tag=gearnoteguitar-22"
+    soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=GE-7"
     specs:
       タイプ: "7バンドグラフィックイコライザー"
       コントロール: "100Hz・200Hz・400Hz・800Hz・1.6kHz・3.2kHz・6.4kHz・LEVEL"

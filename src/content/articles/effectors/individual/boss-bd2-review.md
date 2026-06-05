@@ -7,8 +7,8 @@ rating: 5
 products:
   - name: "BOSS BD-2 Blues Driver"
     price: "¥8,000〜¥10,000"
-    amazonUrl: "[AFFILIATE_AMAZON_BOSS_BD-2]"
-    soundhouseUrl: "[AFFILIATE_SOUNDHOUSE_BOSS_BD-2]"
+    amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+BD-2&tag=gearnoteguitar-22"
+    soundhouseUrl: "https://www.soundhouse.co.jp/search/index/?s_product_name=BD-2"
     specs:
       タイプ: "オーバードライブ／ブルースドライバー"
       コントロール: "LEVEL・TONE・GAIN"

@@ -2,7 +2,7 @@
 title: "Epiphone SG Standard レビュー｜軽量ロックギターの入門に最適"
 description: "Epiphone SG Standardを徹底レビュー。Gibson SGとの違い、軽量ボディで弾きやすいハードロックギターとしての実力を解説。予算10万円以下でSGサウンドを手に入れたい人向け。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61FOCJrpznL._AC_SL1200_.jpg"

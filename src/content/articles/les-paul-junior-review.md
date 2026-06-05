@@ -2,7 +2,7 @@
 title: "Les Paul Junior レビュー｜シンプルさに宿る最強のロックサウンド"
 description: "Gibson・Epiphone Les Paul Juniorを徹底レビュー。1P-90ピックアップのシンプルな構成が生み出す荒削りなロックサウンドの魅力を解説。キース・リチャーズ、ビリー・ジョー・アームストロングも愛用した名機。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61MjLdEjFxL._AC_SL1200_.jpg"

@@ -2,7 +2,7 @@
 title: "Orangeアンプ入門ガイド｜Crush・Rocker・Terrorシリーズの選び方"
 description: "Orangeギターアンプを徹底解説。Crush 20RT・Rocker 15 Terror・Tiny Terrorの特徴と違いを比較。あのオレンジ色のアンプが生み出す独特のサウンドの魅力と選び方を初心者向けに紹介。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/81ctCgWztTL._AC_SL1500_.jpg"

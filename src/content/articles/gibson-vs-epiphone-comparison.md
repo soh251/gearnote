@@ -2,7 +2,7 @@
 title: "Gibson vs Epiphone 徹底比較｜どちらを選ぶべきか正直に解説"
 description: "GibsonとEpiphoneを徹底比較。価格差・音質差・品質差を正直に解説。初心者はEpiphoneで十分？本物のGibsonはどこが違う？購入判断に役立つ情報をまとめました。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/815v7wL12dL._AC_SL1500_.jpg"

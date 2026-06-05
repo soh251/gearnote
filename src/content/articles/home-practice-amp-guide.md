@@ -2,7 +2,7 @@
 title: "自宅練習用ギターアンプ おすすめ3選｜初心者が最初に選ぶべき1台"
 description: "自宅練習用ギターアンプのおすすめ3選を徹底比較。BOSS Katana・Blackstar ID:Core・Yamaha THR10IIの特徴と選び方を初心者向けに解説。マンション・アパートでも使える小型アンプの選び方も紹介。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/91-5zQ3fkvL._AC_SL1500_.jpg"

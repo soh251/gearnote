@@ -2,7 +2,7 @@
 title: "チューブアンプ入門ガイド｜Fender・Vox・Marshallの定番3選を比較"
 description: "チューブアンプのおすすめ3選を徹底比較。Fender Blues Junior・Vox AC15・Marshall DSL20CRの特徴とサウンドの違いを解説。真空管アンプならではの音の魅力と選び方を初心者向けに紹介。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/81Ie6KjMJFL._AC_SL1200_.jpg"

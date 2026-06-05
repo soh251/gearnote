@@ -2,7 +2,7 @@
 title: "エレキギター初心者ガイド｜最初の1本の選び方から始め方まで"
 description: "エレキギターを始めたい初心者向けの完全ガイド。ギターの選び方・アンプ・必要な機材まで、この1記事ですべてわかります。"
 category: beginners-guide
-publishedAt: "2024-04-01"
+publishedAt: "2026-04-01"
 thumbnail: "https://m.media-amazon.com/images/I/51wKhqImUCL._AC_SL1200_.jpg"
 featured: true
 ---

@@ -2,7 +2,7 @@
 title: "ディレイエフェクターとは？初心者おすすめ定番3選【BOSS DD-3Tなど】"
 description: "ディレイのおすすめ3選を徹底比較。BOSS DD-3T・tc electronic Flashback 2・MXR M169 Carbon Copyの特徴を解説。TIMEやFEEDBACKなど基本的な使い方も初心者向けに説明します。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61y5oAYxizL._AC_SL1050_.jpg"

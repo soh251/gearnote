@@ -2,7 +2,7 @@
 title: "コーラスエフェクターとは？初心者におすすめの定番3選【BOSS CH-1など】"
 description: "コーラスエフェクターのおすすめ3選を解説。BOSS CH-1・MXR M234・tc electronic Corona Chorusを比較。クリーントーンを豊かに広げるコーラスの使い方も初心者向けに解説。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71nEv+V6SDL._AC_SL1500_.jpg"

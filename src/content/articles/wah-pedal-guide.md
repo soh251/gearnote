@@ -2,7 +2,7 @@
 title: "ワウペダルとは？初心者おすすめ定番3選【Cry Babyなど】"
 description: "ワウペダルのおすすめ3選を解説。Dunlop GCB95 Cry Baby・BOSS PW-3・Vox V845の特徴を比較。ファンク・ロックでのワウの使い方も初心者向けに分かりやすく説明します。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/81FaEVXHJkL._AC_SL1500_.jpg"

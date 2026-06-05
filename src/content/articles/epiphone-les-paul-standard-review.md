@@ -2,7 +2,7 @@
 title: "Epiphone Les Paul Standard レビュー｜ギブソンサウンドを手頃な価格で"
 description: "Epiphone Les Paul Standardを徹底レビュー。Gibson Les Paulとの違い、コスパ、初心者から中級者への適性を正直に評価。予算10万円以下でレスポールサウンドを手に入れたい人向け。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71nEbyQ7l2L._AC_SL1500_.jpg"

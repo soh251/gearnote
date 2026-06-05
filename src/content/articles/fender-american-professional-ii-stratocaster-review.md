@@ -2,7 +2,7 @@
 title: "Fender American Professional II Stratocaster レビュー｜本物を知る上級者のための一本"
 description: "フェンダー アメプロ レビュー。ストラト 上級者向けフラッグシップモデルを徹底解説。予算25万円前後で手に入れる究極のストラトキャスターとは。"
 category: electric-guitar
-publishedAt: "2024-06-03"
+publishedAt: "2026-06-03"
 rating: 5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/51JfX+e37nL._AC_SL1500_.jpg"

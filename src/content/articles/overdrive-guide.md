@@ -2,7 +2,7 @@
 title: "オーバードライブとは？初心者おすすめ定番3選【BOSS SD-1 / TS9など】"
 description: "オーバードライブのおすすめ3選を徹底比較。BOSS SD-1・Ibanez TS9・Fulltone OCDの特徴と使い方を初心者向けに解説。ディストーションとの違いも分かりやすく説明します。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/714EH7lqNRL._AC_SL1500_.jpg"

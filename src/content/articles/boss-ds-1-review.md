@@ -2,7 +2,7 @@
 title: "BOSS DS-1 レビュー｜定番ディストーションの実力を検証"
 description: "世界中のギタリストに愛される定番ディストーション、BOSS DS-1を徹底レビュー。初心者からプロまで使える理由に迫ります。"
 category: effector
-publishedAt: "2024-05-10"
+publishedAt: "2026-05-10"
 rating: 4
 thumbnail: "https://m.media-amazon.com/images/I/71WAFbpOI-L._AC_SL1500_.jpg"
 products:

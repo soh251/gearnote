@@ -2,7 +2,7 @@
 title: "Gibson SG Standard レビュー｜軽量ボディで弾きやすいギブソンの傑作"
 description: "Gibson SG Standardを徹底レビュー。レスポールとの違い、軽量ボディの特徴、ロック・ハードロックに最適なサウンドを解説。購入前に知っておくべきことをまとめました。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71hI0wJgtrL._AC_SL1500_.jpg"

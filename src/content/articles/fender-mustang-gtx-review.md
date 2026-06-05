@@ -2,7 +2,7 @@
 title: "Fender Mustang GTX50 レビュー｜フェンダー公式モデリングアンプの実力"
 description: "Fender Mustang GTX50を徹底レビュー。フェンダー純正の200種類プリセットと豊富なエフェクトを搭載したモデリングアンプの実力を解説。BOSS Katanaとの違いも比較します。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/81WSwMnaz0L._AC_SL1200_.jpg"

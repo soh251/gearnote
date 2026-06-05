@@ -2,7 +2,7 @@
 title: "【歪み系エフェクター比較】オーバードライブ・ディストーション・ファズの違いと選び方"
 description: "歪み系エフェクターの選び方を徹底解説。オーバードライブ・ディストーション・ファズの違いをジャンル別に比較。初心者が最初に選ぶべき歪みエフェクターも分かります。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 thumbnail: "https://m.media-amazon.com/images/I/71WAFbpOI-L._AC_SL1500_.jpg"
 rating: 4
 featured: false

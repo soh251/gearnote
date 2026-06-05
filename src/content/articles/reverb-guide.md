@@ -2,7 +2,7 @@
 title: "リバーブエフェクターとは？初心者おすすめ定番3選【BOSS RV-6など】"
 description: "リバーブのおすすめ3選を徹底比較。BOSS RV-6・Electro-Harmonix Holy Grail Max・Strymon blueSkyの特徴を解説。Room・Hall・Springの違いも初心者向けに説明します。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61zwIen-YIL._AC_SL1500_.jpg"

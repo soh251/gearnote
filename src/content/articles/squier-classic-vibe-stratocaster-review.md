@@ -2,7 +2,7 @@
 title: "Squier Classic Vibe Stratocaster レビュー｜5〜7万円台で本格ストラトを手に入れる"
 description: "スクワイヤー ストラト レビュー。エレキギター 初心者 安いモデルの中で最高峰のコスパを誇るClassic Vibeを徹底検証。予算5〜7万円で本物のフェンダートーンを。"
 category: electric-guitar
-publishedAt: "2024-06-03"
+publishedAt: "2026-06-03"
 rating: 4
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61BHIqF8uoL._AC_SL1500_.jpg"

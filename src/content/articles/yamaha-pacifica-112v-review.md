@@ -2,7 +2,7 @@
 title: "ヤマハ PACIFICA112V レビュー｜初心者に最強のコスパギター"
 description: "ヤマハPACIFICA112Vを徹底レビュー。初心者にとって理想的なエレキギターとしての実力を検証します。"
 category: electric-guitar
-publishedAt: "2024-06-01"
+publishedAt: "2026-06-01"
 rating: 4.5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/71wPP2FMJ7L._AC_SL1500_.jpg"

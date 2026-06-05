@@ -2,7 +2,7 @@
 title: "Les Paul Special レビュー｜2基のP-90が生み出す中毒性のあるサウンド"
 description: "Gibson・Epiphone Les Paul Specialを徹底レビュー。2基のP-90ピックアップとフラットトップボディが生み出す独特のサウンドを解説。JuniorとStandardの「いいとこ取り」なギターの魅力とは。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61bJgxeyM8L._AC_SL1200_.jpg"

@@ -2,7 +2,7 @@
 title: "BOSS Katana-50 GEN 3 レビュー｜初心者からプロまで愛される最強コスパアンプ"
 description: "BOSS Katana-50 GEN 3を徹底レビュー。自宅練習からライブまで使える50Wモデリングアンプの実力を検証。エフェクト内蔵・出力切替・USB録音など多彩な機能を初心者向けに解説します。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/91-5zQ3fkvL._AC_SL1500_.jpg"

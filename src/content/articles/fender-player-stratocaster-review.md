@@ -2,7 +2,7 @@
 title: "Fender Player II Stratocaster レビュー｜中級者が本気で選ぶ定番ストラト"
 description: "フェンダー ストラトキャスター レビュー。エレキギター 中級者向け定番モデルを徹底検証。予算10万円前後で最高のストラトを手に入れるための完全ガイド。"
 category: electric-guitar
-publishedAt: "2024-06-03"
+publishedAt: "2026-06-03"
 rating: 4.5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/91nyJ8TiBuL._AC_SL1500_.jpg"

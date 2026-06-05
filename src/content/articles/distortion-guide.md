@@ -2,7 +2,7 @@
 title: "ディストーションとは？初心者に定番のBOSS DS-1など3選を解説"
 description: "ディストーションのおすすめ3選を初心者向けに徹底解説。BOSS DS-1・ProCo RAT2・MXR M75の特徴を比較。オーバードライブとの違いも分かりやすく説明します。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71WAFbpOI-L._AC_SL1500_.jpg"

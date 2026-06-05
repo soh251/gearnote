@@ -2,7 +2,7 @@
 title: "【2024年版】ギター初心者のエフェクターボード構成ガイド｜予算別おすすめ3パターン"
 description: "エフェクターボードの組み方を予算別に解説。¥20,000・¥50,000・¥100,000の3パターンで最適な構成を紹介。接続順の基本から初心者がよくする失敗まで分かりやすく説明します。"
 category: beginners-guide
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 thumbnail: "https://m.media-amazon.com/images/I/71jZx+rFzuL._AC_SL1500_.jpg"
 rating: 4.5
 featured: true

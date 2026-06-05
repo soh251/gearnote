@@ -2,7 +2,7 @@
 title: "Squier Affinity Stratocaster レビュー｜3万円台から始めるエレキギター入門"
 description: "スクワイヤー アフィニティ レビュー。エレキギター 最安値クラスで本格的に練習できるのか徹底検証。超初心者の最初の1本として本当におすすめできるか正直に評価します。"
 category: electric-guitar
-publishedAt: "2024-06-03"
+publishedAt: "2026-06-03"
 rating: 3.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/619gzYqQraL._AC_SL1500_.jpg"

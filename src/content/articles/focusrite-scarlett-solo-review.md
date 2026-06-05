@@ -2,7 +2,7 @@
 title: "Focusrite Scarlett Solo レビュー｜DTM入門に最適なオーディオI/F"
 description: "DTMを始めるなら必ず候補に入るFocusrite Scarlett Solo。その音質・使いやすさ・コスパを徹底評価します。"
 category: dtm
-publishedAt: "2024-04-25"
+publishedAt: "2026-04-25"
 rating: 4.5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"

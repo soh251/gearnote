@@ -2,7 +2,7 @@
 title: "Gibson Les Paul Standard レビュー｜50sと60sの違いを徹底比較"
 description: "Gibson Les Paul Standard '50sと'60sを徹底比較レビュー。ネック形状・サウンドの違いを解説。30万円超のギブソンUSA製レスポールは本当に価値があるのか正直に評価します。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 5
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/81zwMD-+k8L._AC_SL1500_.jpg"

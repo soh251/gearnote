@@ -2,7 +2,7 @@
 title: "Vox AC30C2 レビュー｜ブリティッシュロックの魂を宿す伝説のアンプ"
 description: "Vox AC30C2を徹底レビュー。ビートルズ・ザ・フー・レディオヘッドが愛した30Wチューブアンプの魅力を解説。AC15との違い・独特のサウンドキャラクター・使いどころを初心者向けに紹介。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/81t8OAQYNML._AC_SL1500_.jpg"

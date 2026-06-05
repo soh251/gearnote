@@ -2,7 +2,7 @@
 title: "テレキャスター vs ストラトキャスター｜どっちを選ぶ？徹底比較"
 description: "フェンダーの2大モデル、テレキャスターとストラトキャスターを徹底比較。それぞれの特徴と向いているジャンルを解説します。"
 category: electric-guitar
-publishedAt: "2024-05-20"
+publishedAt: "2026-05-20"
 rating: 4
 featured: true
 thumbnail: "https://m.media-amazon.com/images/I/410CPUAbK6L._AC_SL1080_.jpg"

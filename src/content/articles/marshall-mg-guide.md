@@ -2,7 +2,7 @@
 title: "Marshall MG シリーズ ガイド｜手頃に手に入れるマーシャルサウンド"
 description: "Marshall MGシリーズを徹底解説。MG15・MG30FX・MG50FXの特徴と違いを比較。チューブアンプの前に試せる廉価版マーシャルの実力と選び方を初心者向けに紹介。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 3.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71tGDujTuQL._AC_SL1000_.jpg"

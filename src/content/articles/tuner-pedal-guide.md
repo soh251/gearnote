@@ -2,7 +2,7 @@
 title: "ギターチューナーペダルの選び方｜初心者におすすめの定番3選"
 description: "ギターチューナーペダルのおすすめ3選を徹底比較。BOSS TU-3・KORG Pitchblack+・tc electronic PolyTune 3を解説。エフェクターボードの最初の1台はチューナーから始めよう。"
 category: effector
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71jZx+rFzuL._AC_SL1500_.jpg"

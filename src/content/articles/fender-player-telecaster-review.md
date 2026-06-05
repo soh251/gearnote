@@ -2,7 +2,7 @@
 title: "Fender Player II Telecaster レビュー｜カントリー・ロック好きに刺さる一本"
 description: "テレキャスター レビュー。フェンダー テレキャスターの魅力を徹底解説。カントリーからロックまで幅広いジャンルに対応する定番モデルの実力とは。"
 category: electric-guitar
-publishedAt: "2024-06-03"
+publishedAt: "2026-06-03"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/91dRJ4oYcPL._AC_SL1500_.jpg"

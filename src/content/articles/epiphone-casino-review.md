@@ -2,7 +2,7 @@
 title: "Epiphone Casino レビュー｜ビートルズが愛したフルアコの魅力"
 description: "Epiphone Casinoを徹底レビュー。ジョン・レノン・ジョージ・ハリスン愛用のセミアコースティックの魅力と実力を解説。フルアコならではの甘いサウンドと軽量ボディの特徴とは。"
 category: electric-guitar
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/61cDDmyYEyL._AC_SL1200_.jpg"

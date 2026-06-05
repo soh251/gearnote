@@ -2,7 +2,7 @@
 title: "Marshall DSL20CR レビュー｜本物のマーシャルサウンドを手頃に手に入れる"
 description: "Marshall DSL20CRを徹底レビュー。20Wチューブアンプの実力・サウンドキャラクター・自宅での使いやすさを解説。本物のマーシャルトーンを求める初心者〜中級者向けガイド。"
 category: amp
-publishedAt: "2024-06-04"
+publishedAt: "2026-06-04"
 rating: 4.5
 featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71gFMY2IImL._AC_SL1000_.jpg"

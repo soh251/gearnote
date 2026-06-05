@@ -2,7 +2,7 @@
 title: "Taylor GS Mini レビュー｜旅行にも使える小型アコギの実力"
 description: "Taylorが誇るトラベルギター、GS Miniを徹底レビュー。コンパクトなボディながら本格的なサウンドを持つ名機の魅力を解説。"
 category: acoustic-guitar
-publishedAt: "2024-05-15"
+publishedAt: "2026-05-15"
 rating: 4
 thumbnail: "https://m.media-amazon.com/images/I/81WTbXybKvL._AC_SL1500_.jpg"
 products:

@@ -52,17 +52,30 @@ const categoryInfo: Record<string, { label: string; description: string; icon: s
 
 const info = categoryInfo[category!] ?? { label: category, description: '', icon: '🎵' };
 
+function isGuideArticle(id: string): boolean {
+  const filename = id.split('/').pop() ?? '';
+  return id.includes('/hub/')
+    || id.includes('/category/')
+    || filename.endsWith('-guide')
+    || filename.includes('-comparison')
+    || filename.includes('-vs-');
+}
+
+function getGuideType(id: string): 'guide' | 'matome' {
+  if (id.includes('/hub/')) return 'guide';
+  if (id.includes('/category/')) return 'matome';
+  const filename = id.split('/').pop() ?? '';
+  if (filename.includes('-vs-') || filename.includes('-comparison') || filename.includes('category-guide')) return 'matome';
+  return 'guide';
+}
+
 const allArticles = await getCollection('articles');
 const articles = allArticles
   .filter((a) => a.data.category === category)
   .sort((a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime());
 
-const guideArticles = articles.filter(
-  (a) => a.id.includes('/hub/') || a.id.includes('/category/')
-);
-const reviewArticles = articles.filter(
-  (a) => !a.id.includes('/hub/') && !a.id.includes('/category/')
-);
+const guideArticles = articles.filter((a) => isGuideArticle(a.id));
+const reviewArticles = articles.filter((a) => !isGuideArticle(a.id));
 ---
 
 <BaseLayout title={info.label} description={info.description}>
@@ -97,14 +110,14 @@ const reviewArticles = articles.filter(
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
               {guideArticles.map((article) => {
-                const isHub = article.id.includes('/hub/');
+                const type = getGuideType(article.id);
                 return (
                   <a
                     href={`/articles/${article.id}`}
                     class="group flex items-start gap-3 p-4 bg-white border border-[#e5e7eb] rounded-lg hover:border-amber-400 hover:shadow-sm transition-all duration-150"
                   >
                     <div class="flex-shrink-0 w-10 h-10 rounded-lg flex items-center justify-center" style="background:#FFF3E0;">
-                      {isHub ? (
+                      {type === 'guide' ? (
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="#E65100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                           <path d="M3 7l6-3 6 3 6-3v13l-6 3-6-3-6 3z"/><path d="M9 4v13"/><path d="M15 7v13"/>
                         </svg>
@@ -117,7 +130,7 @@ const reviewArticles = articles.filter(
                     </div>
                     <div class="min-w-0">
                       <span class="inline-block text-xs font-medium px-2 py-0.5 rounded-full mb-1.5" style="background:#FFF3E0; color:#E65100;">
-                        {isHub ? 'ガイド' : 'まとめ'}
+                        {type === 'guide' ? 'ガイド' : 'まとめ'}
                       </span>
                       <h3 class="text-sm font-semibold text-[#1a1a1a] group-hover:text-amber-600 transition-colors line-clamp-2 leading-snug">
                         {article.data.title}

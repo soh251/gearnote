@@ -50,55 +50,111 @@ const categoryInfo: Record<string, { label: string; description: string; icon: s
   },
 };
 
-const info = categoryInfo[category!] ?? {
-  label: category,
-  description: '',
-  icon: '🎵',
-};
+const info = categoryInfo[category!] ?? { label: category, description: '', icon: '🎵' };
 
 const allArticles = await getCollection('articles');
 const articles = allArticles
   .filter((a) => a.data.category === category)
   .sort((a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime());
+
+const guideArticles = articles.filter(
+  (a) => a.id.includes('/hub/') || a.id.includes('/category/')
+);
+const reviewArticles = articles.filter(
+  (a) => !a.id.includes('/hub/') && !a.id.includes('/category/')
+);
 ---
 
 <BaseLayout title={info.label} description={info.description}>
-  <div class="max-w-6xl mx-auto px-4 py-12">
-    <div class="mb-2">
-      <a href="/" class="text-amber-600 hover:text-amber-500 text-sm transition-colors">← トップへ</a>
-    </div>
-
-    <div class="flex items-center gap-4 mb-10">
-      <span class="text-5xl">{info.icon}</span>
-      <div>
-        <h1 class="text-3xl font-black text-[#1a1a1a]">{info.label}</h1>
-        <p class="text-[#6b7280] text-sm mt-1">{info.description}</p>
-        <span class="inline-block mt-2 text-xs font-medium bg-amber-100 text-amber-700 border border-amber-200 px-2 py-0.5 rounded-full">
-          {articles.length}件の記事
-        </span>
+  <!-- カテゴリヘッダー -->
+  <div style="background:#FFF3E0; border-bottom:1px solid #FFCC80;">
+    <div class="max-w-6xl mx-auto px-4 py-6">
+      <a href="/" class="text-xs transition-colors mb-3 inline-block" style="color:#E65100;">← トップへ</a>
+      <div class="flex items-center gap-3">
+        <span class="text-4xl">{info.icon}</span>
+        <div>
+          <h1 class="text-2xl font-black text-[#1a1a1a]">{info.label}</h1>
+          <p class="text-[#6b7280] text-sm mt-0.5">{info.description}</p>
+        </div>
       </div>
     </div>
+  </div>
 
+  <div class="max-w-6xl mx-auto px-4 py-8">
     {articles.length === 0 ? (
       <div class="text-center py-20">
         <p class="text-[#6b7280] text-lg">まだ記事がありません</p>
-        <a href="/" class="text-amber-600 hover:text-amber-500 mt-4 inline-block transition-colors">トップに戻る</a>
+        <a href="/" class="mt-4 inline-block transition-colors" style="color:#E65100;">トップに戻る</a>
       </div>
     ) : (
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {articles.map((article) => (
-          <ArticleCard
-            title={article.data.title}
-            description={article.data.description}
-            category={article.data.category}
-            publishedAt={article.data.publishedAt}
-            slug={article.id}
-            rating={article.data.rating}
-            featured={article.data.featured}
-            thumbnail={article.data.thumbnail}
-          />
-        ))}
-      </div>
+      <>
+        {/* まず読みたい記事 */}
+        {guideArticles.length > 0 && (
+          <div class="mb-10">
+            <div class="flex items-center gap-2 mb-4">
+              <span class="w-1 h-4 rounded-full inline-block" style="background:#E65100;"></span>
+              <h2 class="text-sm font-bold text-[#1a1a1a] tracking-wide">まず読みたい記事</h2>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {guideArticles.map((article) => {
+                const isHub = article.id.includes('/hub/');
+                return (
+                  <a
+                    href={`/articles/${article.id}`}
+                    class="group flex items-start gap-3 p-4 bg-white border border-[#e5e7eb] rounded-lg hover:border-amber-400 hover:shadow-sm transition-all duration-150"
+                  >
+                    <div class="flex-shrink-0 w-10 h-10 rounded-lg flex items-center justify-center" style="background:#FFF3E0;">
+                      {isHub ? (
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="#E65100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M3 7l6-3 6 3 6-3v13l-6 3-6-3-6 3z"/><path d="M9 4v13"/><path d="M15 7v13"/>
+                        </svg>
+                      ) : (
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="#E65100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/>
+                          <circle cx="3" cy="6" r="0.5" fill="#E65100"/><circle cx="3" cy="12" r="0.5" fill="#E65100"/><circle cx="3" cy="18" r="0.5" fill="#E65100"/>
+                        </svg>
+                      )}
+                    </div>
+                    <div class="min-w-0">
+                      <span class="inline-block text-xs font-medium px-2 py-0.5 rounded-full mb-1.5" style="background:#FFF3E0; color:#E65100;">
+                        {isHub ? 'ガイド' : 'まとめ'}
+                      </span>
+                      <h3 class="text-sm font-semibold text-[#1a1a1a] group-hover:text-amber-600 transition-colors line-clamp-2 leading-snug">
+                        {article.data.title}
+                      </h3>
+                    </div>
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        )}
+
+        {/* 個別レビュー */}
+        {reviewArticles.length > 0 && (
+          <div>
+            <div class="flex items-center gap-2 mb-4">
+              <span class="w-1 h-4 bg-amber-500 rounded-full inline-block"></span>
+              <h2 class="text-sm font-bold text-[#1a1a1a] tracking-wide">個別レビュー</h2>
+              <span class="text-xs text-[#9ca3af]">{reviewArticles.length}件</span>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {reviewArticles.map((article) => (
+                <ArticleCard
+                  title={article.data.title}
+                  description={article.data.description}
+                  category={article.data.category}
+                  publishedAt={article.data.publishedAt}
+                  slug={article.id}
+                  rating={article.data.rating}
+                  featured={article.data.featured}
+                  thumbnail={article.data.thumbnail}
+                />
+              ))}
+            </div>
+          </div>
+        )}
+      </>
     )}
   </div>
 </BaseLayout>

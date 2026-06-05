@@ -4,18 +4,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 
 const allArticles = await getCollection('articles');
-const sortedArticles = allArticles.sort(
-  (a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime()
-);
-const recentArticles = sortedArticles.slice(0, 12);
 
-const categories = [
-  { id: 'electric-guitar', label: 'エレキギター' },
-  { id: 'acoustic-guitar', label: 'アコースティック' },
-  { id: 'effector', label: 'エフェクター' },
-  { id: 'amp', label: 'アンプ' },
-  { id: 'dtm', label: 'DTM機材' },
-];
+const guideArticles = allArticles.filter(
+  (a) => a.id.includes('/hub/') || a.id.includes('/category/')
+);
+
+const recentArticles = [...allArticles]
+  .sort((a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime())
+  .slice(0, 12);
 ---
 
 <BaseLayout title="楽器・音楽機材レビュー&比較" description="ギター・エフェクター・DTM機材のレビューと比較情報をお届け。初心者から中級者まで最適な機材選びをサポートします。">
@@ -27,21 +23,49 @@ const categories = [
     </div>
   </div>
 
-  <!-- カテゴリタブ -->
-  <div class="border-b border-[#e5e7eb] bg-white sticky top-0 z-10 shadow-sm">
-    <div class="max-w-6xl mx-auto px-4">
-      <div class="flex overflow-x-auto -mb-px" style="scrollbar-width:none;">
-        {categories.map((cat) => (
-          <a
-            href={`/category/${cat.id}`}
-            class="shrink-0 px-4 py-3 text-sm font-medium text-[#444] hover:text-amber-600 border-b-2 border-transparent hover:border-amber-500 transition-colors whitespace-nowrap"
-          >
-            {cat.label}
-          </a>
-        ))}
+  <!-- 初心者はここから -->
+  {guideArticles.length > 0 && (
+    <div class="bg-white border-b border-[#e5e7eb]">
+      <div class="max-w-6xl mx-auto px-4 py-8">
+        <div class="flex items-center gap-2 mb-4">
+          <span class="w-1 h-4 rounded-full inline-block" style="background:#E65100;"></span>
+          <h2 class="text-sm font-bold text-[#1a1a1a] tracking-wide">初心者はここから</h2>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {guideArticles.map((article) => {
+            const isHub = article.id.includes('/hub/');
+            return (
+              <a
+                href={`/articles/${article.id}`}
+                class="group flex items-start gap-3 p-4 bg-white border border-[#e5e7eb] rounded-lg hover:border-amber-400 hover:shadow-sm transition-all duration-150"
+              >
+                <div class="flex-shrink-0 w-10 h-10 rounded-lg flex items-center justify-center" style="background:#FFF3E0;">
+                  {isHub ? (
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="#E65100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M3 7l6-3 6 3 6-3v13l-6 3-6-3-6 3z"/><path d="M9 4v13"/><path d="M15 7v13"/>
+                    </svg>
+                  ) : (
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="#E65100" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/>
+                      <circle cx="3" cy="6" r="0.5" fill="#E65100"/><circle cx="3" cy="12" r="0.5" fill="#E65100"/><circle cx="3" cy="18" r="0.5" fill="#E65100"/>
+                    </svg>
+                  )}
+                </div>
+                <div class="min-w-0">
+                  <span class="inline-block text-xs font-medium px-2 py-0.5 rounded-full mb-1.5" style="background:#FFF3E0; color:#E65100;">
+                    {isHub ? 'ガイド' : 'まとめ'}
+                  </span>
+                  <h3 class="text-sm font-semibold text-[#1a1a1a] group-hover:text-amber-600 transition-colors line-clamp-2 leading-snug">
+                    {article.data.title}
+                  </h3>
+                </div>
+              </a>
+            );
+          })}
+        </div>
       </div>
     </div>
-  </div>
+  )}
 
   <!-- 新着レビュー -->
   <div class="bg-white">

@@ -8,7 +8,7 @@ featured: false
 thumbnail: "https://m.media-amazon.com/images/I/71nEv+V6SDL._AC_SL1500_.jpg"
 products:
   - name: "BOSS CH-1 スーパーコーラス"
-    price: "¥13,200〜"
+    price: "¥14,400〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+CH-1+Super+Chorus&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+CH-1&i_type=a"
     image: "https://m.media-amazon.com/images/I/71nEv+V6SDL._AC_SL1500_.jpg"
@@ -55,7 +55,7 @@ products:
 
 ## 初心者おすすめコーラス3選
 
-### 1. BOSS CH-1 スーパーコーラス（¥13,200〜）
+### 1. BOSS CH-1 スーパーコーラス（¥14,400〜）
 
 1989年から続くBOSSの定番コーラス。「スーパーコーラス」の名前の通り、クリアで美しいステレオコーラスサウンドが特徴です。EQノブでコーラス成分の音色（明るさ）を調整できるのが便利で、どんなアンプにも馴染みやすい使いやすさが魅力です。
 
@@ -83,7 +83,7 @@ products:
 
 | 製品名 | 価格帯 | 音の特徴 | 初心者向け度 | こんな人に |
 |--------|--------|---------|------------|-----------|
-| BOSS CH-1 | ¥13,200〜 | クリアで明るい | ★★★★★ | 80年代ポップ・ロック志向 |
+| BOSS CH-1 | ¥14,400〜 | クリアで明るい | ★★★★★ | 80年代ポップ・ロック志向 |
 | MXR M234 | ¥16,500〜 | 温かく自然な揺らぎ | ★★★★☆ | ブルース・ジャズ志向 |
 | tc Corona Chorus | ¥14,300〜 | 多機能・多モード | ★★★★☆ | 多彩なサウンドを探求したい |
 

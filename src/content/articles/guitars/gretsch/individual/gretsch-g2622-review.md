@@ -3,6 +3,7 @@ title: "Gretsch G2622レビュー｜はじめてのグレッチに最適なStrea
 description: "Gretsch G2622をレビュー。セミホロウ・ダブルカッタウェイの扱いやすさとBroadTron™ピックアップのサウンドを初心者向けに徹底解説。G5422・G2655との比較表つき。"
 category: electric-guitar
 publishedAt: "2026-06-05"
+thumbnail: "https://m.media-amazon.com/images/I/614mpUUg47L._AC_SL1200_.jpg"
 rating: 4
 products:
   - name: "Gretsch G2622 Streamliner Center Block"

@@ -3,6 +3,7 @@ title: "グレッチ入門ガイド｜初心者が知っておきたい機種選
 description: "グレッチの歴史・シリーズの違い・予算別おすすめ機種まで、初心者が迷わず選べるように徹底解説。フィルタートロンの音やビグスビーの使い方も丁寧にガイドします。"
 category: electric-guitar
 publishedAt: "2026-06-05"
+thumbnail: "https://m.media-amazon.com/images/I/71rVjDCYK4L._AC_SL1500_.jpg"
 ---
 
 ## グレッチとはどんなブランドか

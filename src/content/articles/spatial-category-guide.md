@@ -3,6 +3,7 @@ title: "【空間系エフェクター比較】コーラス・フランジャー
 description: "空間系エフェクターの選び方を徹底解説。コーラス・フランジャー・ディレイ・リバーブ4種類の違いを比較。初心者が最初に選ぶべき空間系エフェクターも分かります。"
 category: effector
 publishedAt: "2024-06-04"
+thumbnail: "https://m.media-amazon.com/images/I/61y5oAYxizL._AC_SL1050_.jpg"
 rating: 4
 featured: false
 products:

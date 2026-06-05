@@ -3,6 +3,7 @@ title: "BOSS BD-2レビュー｜ブースターとして使うと真価を発揮
 description: "BOSS BD-2をレビュー。ローゲインのブルースサウンドだけでなく、ブースターとして使う方法を詳しく解説。SD-1・TS9との比較表と、スタック（重ね使い）のセッティング例も紹介します。"
 category: effector
 publishedAt: "2026-06-05"
+thumbnail: "https://m.media-amazon.com/images/I/71V5WAnS1vL._AC_SL1500_.jpg"
 rating: 5
 products:
   - name: "BOSS BD-2 Blues Driver"

@@ -3,6 +3,7 @@ title: "ブースターとは？ギターの音を前に出す使い方を初心
 description: "ブースターの役割・種類・使い方を初心者向けに解説。クリーンブースト・ゲインブースト・EQブーストの違いと、用途別おすすめエフェクターを比較表で紹介します。"
 category: effector
 publishedAt: "2026-06-05"
+thumbnail: "https://m.media-amazon.com/images/I/714EH7lqNRL._AC_SL1500_.jpg"
 ---
 
 ## ブースターとは何か

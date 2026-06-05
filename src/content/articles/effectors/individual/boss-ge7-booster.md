@@ -3,6 +3,7 @@ title: "BOSS GE-7をブースターとして使う方法｜グライコで音を
 description: "BOSS GE-7（7バンドグラフィックイコライザー）をブースターとして使う方法を解説。レベルスライダーの使い方・中域ブースト設定・EQブーストのセッティング例を初心者向けに紹介します。"
 category: effector
 publishedAt: "2026-06-05"
+thumbnail: "https://m.media-amazon.com/images/I/61YnYDYbPyL._AC_SL1500_.jpg"
 rating: 4
 products:
   - name: "BOSS GE-7 Equalizer"

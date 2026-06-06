@@ -1,5 +1,5 @@
 ---
-title: "【2024年版】ギター初心者のエフェクターボード構成ガイド｜予算別おすすめ3パターン"
+title: "【2026年版】ギター初心者のエフェクターボード構成ガイド｜予算別おすすめ3パターン"
 description: "エフェクターボードの組み方を予算別に解説。¥20,000・¥50,000・¥100,000の3パターンで最適な構成を紹介。接続順の基本から初心者がよくする失敗まで分かりやすく説明します。"
 category: beginners-guide
 publishedAt: "2026-06-04"
@@ -9,6 +9,7 @@ featured: true
 products:
   - name: "BOSS TU-3 クロマチックチューナー"
     price: "¥8,800〜"
+    image: "https://m.media-amazon.com/images/I/71jZx+rFzuL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+TU-3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+TU-3&i_type=a"
     specs:
@@ -16,6 +17,7 @@ products:
       用途: "全プランで使用"
   - name: "BOSS SD-1 スーパーオーバードライブ"
     price: "¥7,700〜"
+    image: "https://m.media-amazon.com/images/I/714EH7lqNRL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+SD-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+SD-1&i_type=a"
     specs:
@@ -23,6 +25,7 @@ products:
       用途: "スタンダード・フルプランで使用"
   - name: "BOSS DD-3T デジタルディレイ"
     price: "¥18,800〜"
+    image: "https://m.media-amazon.com/images/I/61y5oAYxizL._AC_SL1050_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DD-3T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DD-3T&i_type=a"
     specs:
@@ -30,6 +33,7 @@ products:
       用途: "スタンダード・フルプランで使用"
   - name: "BOSS RV-6 リバーブ"
     price: "¥18,800〜"
+    image: "https://m.media-amazon.com/images/I/61zwIen-YIL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+RV-6&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+RV-6&i_type=a"
     specs:

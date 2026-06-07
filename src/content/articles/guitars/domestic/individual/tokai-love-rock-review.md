@@ -91,8 +91,8 @@ Love Rockの音は、ひと言で表すと「厚みと太さのあるLes Paulサ
 ## 購入リンク
 
 ### 中古で探す（おすすめ）
-- [イケベ楽器で探す](https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DLove%2BRock%2BTokai)
-- [イシバシ楽器で探す](https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dtokai%2Blove%2Brock)
+- [イケベ楽器で探す](https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3D%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB%2BTOKAI)
+- [イシバシ楽器で探す](https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dtokai%2B%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB)
 
 ### 新品・その他で探す
 - [Amazonで見る](https://www.amazon.co.jp/s?k=Tokai+Love+Rock&tag=gearnoteguitar-22)

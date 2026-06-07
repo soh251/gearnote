@@ -8,7 +8,7 @@ featured: false
 thumbnail: "https://m.media-amazon.com/images/I/91-5zQ3fkvL._AC_SL1500_.jpg"
 products:
   - name: "BOSS Katana-50 GEN 3"
-    price: "¥36,000〜"
+    price: "¥42,800〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+Katana-50+GEN+3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+KATANA+GEN+3&i_type=a"
     image: "https://m.media-amazon.com/images/I/91-5zQ3fkvL._AC_SL1500_.jpg"

@@ -12,6 +12,8 @@ products:
     image: "https://m.media-amazon.com/images/I/71jZx+rFzuL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+TU-3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+TU-3&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DTU-3%2BBOSS"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dboss%2Btu-3"
     specs:
       タイプ: "チューナー"
       用途: "全プランで使用"
@@ -20,6 +22,8 @@ products:
     image: "https://m.media-amazon.com/images/I/714EH7lqNRL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+SD-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+SD-1&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DSD-1%2BBOSS"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dboss%2Bsd-1"
     specs:
       タイプ: "オーバードライブ"
       用途: "スタンダード・フルプランで使用"
@@ -28,6 +32,8 @@ products:
     image: "https://m.media-amazon.com/images/I/61y5oAYxizL._AC_SL1050_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DD-3T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DD-3T&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DDD-3T%2BBOSS"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dboss%2Bdd-3t"
     specs:
       タイプ: "ディレイ"
       用途: "スタンダード・フルプランで使用"
@@ -36,6 +42,8 @@ products:
     image: "https://m.media-amazon.com/images/I/61zwIen-YIL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+RV-6&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+RV-6&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DRV-6%2BBOSS"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dboss%2Brv-6"
     specs:
       タイプ: "リバーブ"
       用途: "フルプランで使用"

@@ -25,6 +25,8 @@ const articles = defineCollection({
           price: z.string(),
           amazonUrl: z.string().optional(),
           soundhouseUrl: z.string().optional(),
+          ikebeUrl: z.string().optional(),
+          ishibashiUrl: z.string().optional(),
           image: z.string().optional(),
           specs: z.record(z.string()).optional(),
         })

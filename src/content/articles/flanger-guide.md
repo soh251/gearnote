@@ -11,6 +11,8 @@ products:
     price: "¥16,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+BF-3&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+BF-3&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DBF-3%2BBOSS"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dboss%2Bbf-3"
     image: "https://m.media-amazon.com/images/I/51fxIn+KoRL._AC_SL1000_.jpg"
     specs:
       タイプ: "フランジャー"
@@ -23,6 +25,8 @@ products:
     price: "¥27,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M117R+Flanger&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+M117R&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DM117R%2BMXR"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dmxr%2Bm117r"
     image: "https://m.media-amazon.com/images/I/71JLL7qCOTL._AC_SL1000_.jpg"
     specs:
       タイプ: "アナログフランジャー"
@@ -33,6 +37,8 @@ products:
     price: "¥13,200〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=tc+electronic+Vortex+Flanger&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=tc+Vortex+Flanger&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DVORTEX%2BFLANGER%2BTC%2BELECTRONIC"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dtc%2Belectronic%2Bvortex%2Bflanger"
     image: "https://m.media-amazon.com/images/I/71CpqJGX0FL._AC_SX679_.jpg"
     specs:
       タイプ: "フランジャー"

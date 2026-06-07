@@ -11,6 +11,8 @@ products:
     image: "https://www.soundhouse.co.jp/images/shop/prod_img/p/pt_st250bkraaa.jpg"
     amazonUrl: "[AFFILIATE_AMAZON_PLAYTECH_ST250]"
     soundhouseUrl: "[AFFILIATE_SOUNDHOUSE_PLAYTECH_ST250]"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DST250%2BPLAYTECH"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dplaytech%2Bst250"
     specs:
       ボディ: "バスウッド"
       ネック: "メイプル"

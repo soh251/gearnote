@@ -1,7 +1,7 @@
 ---
 title: "GibsonのRobot Guitar、いったい何だったのか？自動チューニングの10年間を振り返る"
 description: "2007年に鳴り物入りで登場したGibsonの自動チューニングギター。熱狂と失望を経て静かに消えたその歴史を、ギタリスト目線で振り返ります。"
-category: guitars
+category: electric-guitar
 tags: ["Gibson", "ロボットギター", "Min-ETune", "G-FORCE", "ゼロフレットナット", "コラム", "ギター歴史"]
 type: column
 publishedAt: "2026-06-07"

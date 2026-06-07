@@ -11,6 +11,8 @@ products:
     price: "¥9,350〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DS-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DS-1&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DDS-1%2BBOSS"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dboss%2Bds-1"
     image: "https://m.media-amazon.com/images/I/71WAFbpOI-L._AC_SL1500_.jpg"
     specs:
       タイプ: "ディストーション"
@@ -23,6 +25,8 @@ products:
     price: "¥14,900〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=ProCo+RAT2&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=ProCo+RAT2&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DRAT2%2BPROCO"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dproco%2Brat2"
     image: "https://m.media-amazon.com/images/I/81cBn3xtcDL._AC_SL1500_.jpg"
     specs:
       タイプ: "ディストーション"
@@ -33,6 +37,8 @@ products:
     price: "¥16,500〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=MXR+M75+Super+Badass+Distortion&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=MXR+M75&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DM75%2BMXR"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dmxr%2Bm75"
     image: "https://m.media-amazon.com/images/I/81rwLlqGemL._AC_SY300_SX300_QL70_ML2_.jpg"
     specs:
       タイプ: "ディストーション"

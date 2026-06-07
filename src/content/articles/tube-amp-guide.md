@@ -11,6 +11,8 @@ products:
     price: "¥77,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Fender+Blues+Junior+IV&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Fender+Blues+Junior&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DBLUES%2BJUNIOR%2BIV%2BFENDER"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dfender%2Bblues%2Bjunior%2Biv"
     image: "https://m.media-amazon.com/images/I/81Ie6KjMJFL._AC_SL1200_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"
@@ -24,6 +26,8 @@ products:
     price: "¥88,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Vox+AC15C1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Vox+AC15C1&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DAC15C1%2BVOX"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dvox%2Bac15c1"
     image: "https://m.media-amazon.com/images/I/71hmBLn3UuL._AC_SL1000_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"
@@ -37,6 +41,8 @@ products:
     price: "¥77,000〜"
     amazonUrl: "https://www.amazon.co.jp/s?k=Marshall+DSL20CR&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Marshall+DSL20CR&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DDSL20CR%2BMARSHALL"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dmarshall%2Bdsl20cr"
     image: "https://m.media-amazon.com/images/I/71gFMY2IImL._AC_SL1000_.jpg"
     specs:
       タイプ: "チューブアンプ（コンボ）"

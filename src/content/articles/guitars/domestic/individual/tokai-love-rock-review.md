@@ -95,7 +95,7 @@ Love Rockの音は、ひと言で表すと「厚みと太さのあるLes Paulサ
 - [イシバシ楽器で探す](https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dtokai%2B%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB)
 
 ### 新品・その他で探す
-- [Amazonで見る](https://www.amazon.co.jp/s?k=Tokai+Love+Rock&tag=gearnoteguitar-22)
+- [Amazonで見る](https://www.amazon.co.jp/s?k=TOKAI+%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB&tag=gearnoteguitar-22)
 - サウンドハウス：[AFFILIATE_SOUNDHOUSE_Tokai_LoveRock]
 
 ---

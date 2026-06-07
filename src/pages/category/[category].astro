@@ -70,8 +70,23 @@ function getGuideType(id: string): 'guide' | 'matome' {
 }
 
 const allArticles = await getCollection('articles');
+
+function isAnyGuideArticle(id: string): boolean {
+  const filename = id.split('/').pop() ?? '';
+  return id.includes('/hub/')
+    || id.includes('/category/')
+    || filename.endsWith('-guide')
+    || filename.includes('-comparison')
+    || filename.includes('-vs-');
+}
+
 const articles = allArticles
-  .filter((a) => a.data.category === category)
+  .filter((a) => {
+    if (category === 'beginners-guide') {
+      return a.data.category === 'beginners-guide' || isAnyGuideArticle(a.id);
+    }
+    return a.data.category === category;
+  })
   .sort((a, b) => new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime());
 
 const guideArticles = articles.filter((a) => isGuideArticle(a.id));

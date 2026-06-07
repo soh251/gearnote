@@ -2,8 +2,9 @@
 楽器レビューアフィリエイトサイト（Astro v6.4.3製）
 Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
-## 記事数の現状（合計62本）
+## 記事数の現状（合計70本）
 - エレキギター: 22本 ✅（グレッチシリーズ7本・Gibsonコラム1本含む）
+- 国産ヴィンテージギター: 8本 ✅（guitars/domestic/ 以下）
 - エフェクター: 17本 ✅
 - アンプ: 10本 ✅
 - アコースティックギター: 4本 ✅
@@ -144,6 +145,15 @@ src/content/articles/
       individual/gretsch-beginner-comparison.md
     gibson/
       individual/gibson-robot-guitar-history.md  # コラム記事
+    domestic/                                     # 国産ヴィンテージ（2026-06-07追加）
+      hub/japan-vintage-guitar-guide.md           # ハブ：ブランド比較・選び方
+      category/gibson-copy-japan.md              # Gibson系コピー比較
+      category/fender-copy-japan.md              # Fender系コピー比較
+      individual/tokai-love-rock-review.md
+      individual/greco-eg-review.md
+      individual/burny-rlc-review.md
+      individual/tokai-goldstar-review.md
+      individual/grassroots-glp-review.md
   amps/
     hub/amp-guide.md
     category/home-practice.md          # 自宅練習用3選
@@ -172,3 +182,9 @@ src/content/articles/
 - 全記事の products に ikebeUrl・ishibashiUrl を一括追加
 - 自宅練習用アンプ記事の重複解消（home-practice-amp-guide.md を削除、amps/category/home-practice.md に統一）
 - gibson-robot-guitar-history の category を guitars → electric-guitar に修正
+- Google Analytics（GA4: G-V0SPGPCGWM）タグを BaseLayout.astro に追加（全ページ対応）
+- Google Search Console 確認ファイルを public/ に追加
+- 国産ヴィンテージギター記事8本を guitars/domestic/ に追加（トーカイ・グレコ・Burny・グラスルーツ）
+  - 購入リンクは記事本文に「中古優先」形式で記載（ProductCard非使用）
+  - thumbnail は未設定（要追加）
+  - 検索ワードはメーカー名のみ（Greco・Burny・Grassroots）またはブランド+カテゴリ（TOKAI+レスポール）

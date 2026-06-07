@@ -60,7 +60,7 @@ featured: true
 
 エレキギターはアンプがないと本来の音が出ません。自宅練習用のアンプは**2〜4万円台**で十分です。
 
-- 👉 [自宅練習用アンプ おすすめ3選](/articles/home-practice-amp-guide)
+- 👉 [自宅練習用アンプ おすすめ3選](/articles/amps/category/home-practice)
   BOSS Katana・Blackstar・Yamaha THRを徹底比較。初心者が最初に選ぶべき1台がわかります。
 
 ---

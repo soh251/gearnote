@@ -105,5 +105,5 @@ MGシリーズは「廉価版マーシャル」として合理的な選択肢で
 ## 関連記事
 
 - 👉 [Marshall DSL20CR レビュー｜本物のマーシャルサウンドを手頃に](/articles/marshall-dsl-review)
-- 👉 [自宅練習用アンプ おすすめ3選](/articles/home-practice-amp-guide)
+- 👉 [自宅練習用アンプ おすすめ3選](/articles/amps/category/home-practice)
 - 👉 [チューブアンプ入門ガイド](/articles/tube-amp-guide)

@@ -82,5 +82,5 @@ KatanaよりGTX50の方が高価ですが、フェンダー特有のクリーン
 ## 関連記事
 
 - 👉 [BOSS Katana-50 MkII レビュー](/articles/boss-katana-review)
-- 👉 [自宅練習用アンプ おすすめ3選](/articles/home-practice-amp-guide)
+- 👉 [自宅練習用アンプ おすすめ3選](/articles/amps/category/home-practice)
 - 👉 [チューブアンプ入門ガイド](/articles/tube-amp-guide)

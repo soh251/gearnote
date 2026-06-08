@@ -3,7 +3,7 @@ title: "ギターアンプの選び方完全ガイド｜初心者が失敗しな
 description: "ギターアンプの選び方を初心者向けに解説。トランジスタ・チューブ・モデリングの違い、用途別（自宅練習・スタジオ・レコーディング）のおすすめ機種まで、この1記事でわかります。"
 category: amp
 publishedAt: "2026-06-07"
-thumbnail: "https://m.media-amazon.com/images/I/71QXJZ9JZJL._AC_SL1500_.jpg"
+thumbnail: "/images/amp-guide.png"
 featured: true
 ---
 

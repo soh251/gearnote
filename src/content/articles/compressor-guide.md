@@ -43,6 +43,18 @@ products:
       電源: "DC9V"
       電流消費: "100mA"
       コントロール: "SUSTAIN、ATTACK、LEVEL、MODE"
+keywords:
+  - "コンプレッサー"
+  - "compressor"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "MXR"
+  - "エムエックスアール"
+  - "BOSS"
+  - "ボス"
+  - "ダイナミクス"
+  - "dynamics"
 ---
 
 ## コンプレッサーとは？「縁の下の力持ち」エフェクター

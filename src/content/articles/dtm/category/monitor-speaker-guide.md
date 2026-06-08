@@ -49,6 +49,23 @@ products:
       DSP: "内蔵イコライザー搭載"
       サイズ: "228 × 187 × 282mm"
       重量: "5.4kg（1本）"
+keywords:
+  - "モニタースピーカー"
+  - "monitor speaker"
+  - "DTM"
+  - "DAW"
+  - "ダウ"
+  - "Yamaha"
+  - "ヤマハ"
+  - "HS5"
+  - "KRK"
+  - "ケーアールケー"
+  - "Rokit"
+  - "PreSonus"
+  - "Eris"
+  - "宅録"
+  - "ミキシング"
+  - "mixing"
 ---
 
 ## なぜDTMに専用のモニタースピーカーが必要か

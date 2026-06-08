@@ -23,6 +23,25 @@ products:
       コントロール: "各ch VOLUME・TREBLE・BASS・REVERB・トーンカット"
       エフェクト: "スプリングリバーブ内蔵"
       重量: "29.5kg"
+keywords:
+  - "Vox AC30"
+  - "ボックス AC30"
+  - "Vox"
+  - "ボックス"
+  - "AC30"
+  - "AC15"
+  - "チューブアンプ"
+  - "tube amplifier"
+  - "真空管アンプ"
+  - "EL84"
+  - "ギターアンプ"
+  - "guitar amplifier"
+  - "ブリティッシュロック"
+  - "British rock"
+  - "ビートルズ"
+  - "Beatles"
+  - "Celestion"
+  - "スプリングリバーブ"
 ---
 
 ## はじめに

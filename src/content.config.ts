@@ -18,6 +18,7 @@ const articles = defineCollection({
     rating: z.number().min(1).max(5).optional(),
     thumbnail: z.string().optional(),
     featured: z.boolean().optional().default(false),
+    keywords: z.array(z.string()).optional(),
     products: z
       .array(
         z.object({

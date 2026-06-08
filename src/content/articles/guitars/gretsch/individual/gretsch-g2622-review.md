@@ -23,6 +23,23 @@ products:
       ナット幅: "43mm"
       ピックアップ: "BroadTron™ BT-2S ×2"
       ブリッジ: "Adjusto-Matic™ with V-stoptail"
+keywords:
+  - "Gretsch G2622"
+  - "グレッチ G2622"
+  - "Gretsch"
+  - "グレッチ"
+  - "G2622"
+  - "Streamliner"
+  - "ストリームライナー"
+  - "BroadTron"
+  - "ブロードトロン"
+  - "セミホロウ"
+  - "semi-hollow"
+  - "ダブルカッタウェイ"
+  - "エレキギター"
+  - "electric guitar"
+  - "初心者 グレッチ"
+  - "G5422"
 ---
 
 ## G2622の基本スペックと見た目の特徴

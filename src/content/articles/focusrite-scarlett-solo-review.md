@@ -23,6 +23,21 @@ products:
       対応OS: "Windows 10以降 / macOS 10.15以降"
       サイズ: "47 × 175 × 47mm"
       重量: "175g"
+keywords:
+  - "Focusrite Scarlett Solo"
+  - "フォーカスライト スカーレット ソロ"
+  - "Focusrite"
+  - "フォーカスライト"
+  - "Scarlett"
+  - "スカーレット"
+  - "オーディオインターフェース"
+  - "audio interface"
+  - "DTM"
+  - "DAW"
+  - "宅録"
+  - "ギター録音"
+  - "MOTU"
+  - "モツ"
 ---
 
 ## はじめに

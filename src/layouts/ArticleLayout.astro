@@ -20,9 +20,10 @@ interface Props {
   publishedAt: string;
   rating?: number;
   products?: Product[];
+  keywords?: string[];
 }
 
-const { title, description, category, publishedAt, rating, products } = Astro.props;
+const { title, description, category, publishedAt, rating, products, keywords } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   'electric-guitar': 'エレキギター',
@@ -81,6 +82,10 @@ const productsWithSpecs = products?.filter((p) => p.specs && Object.keys(p.specs
         </h2>
         <SpecTable products={productsWithSpecs.map((p) => ({ name: p.name, specs: p.specs! }))} />
       </section>
+    )}
+
+    {keywords && keywords.length > 0 && (
+      <div class="sr-only">{keywords.join(' ')}</div>
     )}
 
     <article class="prose max-w-none">

@@ -20,6 +20,24 @@ products:
       消費電流: "3mA"
       寸法: "73×129×59mm"
       重量: "460g"
+keywords:
+  - "BOSS BD-2"
+  - "BD-2"
+  - "Blues Driver"
+  - "ブルースドライバー"
+  - "BOSS"
+  - "ボス"
+  - "オーバードライブ"
+  - "overdrive"
+  - "ブースター"
+  - "booster"
+  - "エフェクター"
+  - "effector"
+  - "Ibanez TS9"
+  - "アイバニーズ"
+  - "BOSS SD-1"
+  - "ブルース"
+  - "blues"
 ---
 
 ## BD-2の基本スペックと音の性格

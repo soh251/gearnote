@@ -24,6 +24,28 @@ products:
       ピックアップ: "TV Jones Classic™ Filter'Tron ×2"
       ブリッジ: "Adjusto-Matic™ with Bigsby B6"
       製造国: "米ナッシュビル（テネシー州）"
+keywords:
+  - "Gretsch G6120"
+  - "グレッチ G6120"
+  - "Gretsch"
+  - "グレッチ"
+  - "G6120"
+  - "Nashville"
+  - "ナッシュビル"
+  - "Professional"
+  - "プロフェッショナル"
+  - "TV Jones"
+  - "Filter'Tron"
+  - "フィルタートロン"
+  - "Made in USA"
+  - "アメリカ製"
+  - "フルホロウ"
+  - "Bigsby"
+  - "ビグスビー"
+  - "エレキギター"
+  - "electric guitar"
+  - "Chet Atkins"
+  - "チェット・アトキンス"
 ---
 
 ## G6120の基本スペックと歴史的背景

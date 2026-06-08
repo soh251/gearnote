@@ -45,6 +45,21 @@ products:
       電源: "DC9V（Center Negative）"
       電流消費: "165mA"
       コントロール: "DECAY、MIX、PRE-DELAY、TREBLE、BASS、MODE他"
+keywords:
+  - "リバーブ"
+  - "reverb"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "RV-6"
+  - "空間系エフェクター"
+  - "残響"
+  - "Room"
+  - "Hall"
+  - "Spring"
+  - "スプリングリバーブ"
 ---
 
 ## リバーブエフェクターとは？

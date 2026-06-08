@@ -22,6 +22,21 @@ products:
       ディスプレイ: "LCDレベルメーター搭載"
       対応OS: "Windows 10以降 / macOS 10.14以降"
       サイズ: "44 × 168 × 99mm"
+keywords:
+  - "MOTU M2"
+  - "MOTU"
+  - "モツ"
+  - "オーディオインターフェース"
+  - "audio interface"
+  - "DTM"
+  - "DAW"
+  - "宅録"
+  - "Focusrite"
+  - "フォーカスライト"
+  - "Scarlett"
+  - "スカーレット"
+  - "ギター録音"
+  - "recording"
 ---
 
 ## MOTU M2とは

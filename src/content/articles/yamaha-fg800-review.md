@@ -38,6 +38,22 @@ products:
       スケール: "634mm"
       ナット幅: "43mm"
       付属品: "なし"
+keywords:
+  - "Yamaha FG800"
+  - "ヤマハ FG800"
+  - "Yamaha"
+  - "ヤマハ"
+  - "FG800"
+  - "FG830"
+  - "アコースティックギター"
+  - "acoustic guitar"
+  - "アコギ"
+  - "アコギ 初心者"
+  - "ドレッドノート"
+  - "dreadnought"
+  - "単板トップ"
+  - "Fender CD-60S"
+  - "フェンダー"
 ---
 
 ## Yamaha FG800とは

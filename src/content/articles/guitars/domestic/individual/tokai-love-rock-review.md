@@ -5,6 +5,26 @@ category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 5
 thumbnail: "/images/tokai-love-rock.png"
+keywords:
+  - "トーカイ Love Rock"
+  - "Tokai Love Rock"
+  - "Love Rock"
+  - "ラブロック"
+  - "Tokai"
+  - "トーカイ"
+  - "Les Paul"
+  - "レスポール"
+  - "国産コピー"
+  - "japan vintage guitar"
+  - "ヴィンテージ"
+  - "vintage"
+  - "中古ギター"
+  - "コピーモデル"
+  - "Gibson"
+  - "ギブソン"
+  - "グレコ EG"
+  - "Burny"
+  - "バーニー"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

@@ -35,6 +35,22 @@ products:
       フレット数: "21F"
       スケール: "648mm"
       ピックアップ: "シングルコイル×3"
+keywords:
+  - "テレキャスター vs ストラトキャスター"
+  - "Telecaster vs Stratocaster"
+  - "Fender"
+  - "フェンダー"
+  - "Telecaster"
+  - "テレキャスター"
+  - "テレキャス"
+  - "Stratocaster"
+  - "ストラトキャスター"
+  - "ストラト"
+  - "Squier"
+  - "スクワイア"
+  - "エレキギター 比較"
+  - "electric guitar comparison"
+  - "どっちを選ぶ"
 ---
 
 ## テレキャスター vs ストラトキャスター

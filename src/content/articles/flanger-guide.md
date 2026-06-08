@@ -45,6 +45,20 @@ products:
       電源: "DC9V"
       電流消費: "100mA"
       コントロール: "SPEED、DEPTH、FX LVL、MODE"
+keywords:
+  - "フランジャー"
+  - "flanger"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "MXR"
+  - "エムエックスアール"
+  - "空間系エフェクター"
+  - "モジュレーション"
+  - "modulation"
+  - "コーラス 違い"
 ---
 
 ## フランジャーとは？コーラスと何が違うの？

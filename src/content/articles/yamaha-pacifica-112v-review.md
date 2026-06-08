@@ -24,6 +24,23 @@ products:
       ペグ: "ダイキャスト"
       ブリッジ: "TRS-500 トレモロ"
       カラー: "各色展開"
+keywords:
+  - "Yamaha PACIFICA 112V"
+  - "ヤマハ パシフィカ 112V"
+  - "Yamaha"
+  - "ヤマハ"
+  - "PACIFICA"
+  - "パシフィカ"
+  - "エレキギター 初心者"
+  - "electric guitar beginner"
+  - "エレキギター おすすめ"
+  - "HSS"
+  - "コイルタップ"
+  - "Squier"
+  - "スクワイア"
+  - "Fender"
+  - "フェンダー"
+  - "入門ギター"
 ---
 
 ## はじめに

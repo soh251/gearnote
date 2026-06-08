@@ -3,6 +3,28 @@ title: "予算別グレッチおすすめ5選｜5万・10万・20万円で選ぶ
 description: "グレッチのStreamliner・Electromatic・Professionalシリーズを予算別に徹底比較。5万円から20万円まで、あなたにぴったりの1本を見つけるガイドです。"
 category: electric-guitar
 publishedAt: "2026-06-05"
+keywords:
+  - "グレッチ おすすめ"
+  - "Gretsch recommended"
+  - "Gretsch"
+  - "グレッチ"
+  - "Streamliner"
+  - "ストリームライナー"
+  - "Electromatic"
+  - "エレクトロマチック"
+  - "Professional"
+  - "G2622"
+  - "G5422"
+  - "G5410T"
+  - "G6120"
+  - "セミホロウ"
+  - "semi-hollow"
+  - "フルホロウ"
+  - "full hollow"
+  - "フィルタートロン"
+  - "Filter'Tron"
+  - "予算別"
+  - "エレキギター"
 thumbnail: "https://m.media-amazon.com/images/I/614mpUUg47L._AC_SL1200_.jpg"
 ---
 

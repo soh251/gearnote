@@ -37,6 +37,24 @@ products:
       エフェクト: "コーラス・フェイザー・フランジャー・ディレイ・リバーブ内蔵"
       コントロール: "GAIN・VOLUME・BASS・MIDDLE・TREBLE・CONTOUR"
       重量: "16.4kg"
+keywords:
+  - "Marshall MG"
+  - "マーシャル MG"
+  - "Marshall"
+  - "マーシャル"
+  - "MGシリーズ"
+  - "MG30FX"
+  - "MG50FX"
+  - "トランジスタアンプ"
+  - "transistor amplifier"
+  - "ギターアンプ"
+  - "guitar amplifier"
+  - "初心者 アンプ"
+  - "廉価 マーシャル"
+  - "DSL"
+  - "BOSS"
+  - "ボス"
+  - "Katana"
 ---
 
 ## はじめに

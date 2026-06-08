@@ -23,6 +23,22 @@ products:
       ピックアップ: "Fender-Designed シングルコイル×2"
       ブリッジ: "6サドル スチールブリッジ"
       コントロール: "ボリューム×1、トーン×1、3wayセレクター"
+keywords:
+  - "Squier Affinity Telecaster"
+  - "スクワイア アフィニティ テレキャスター"
+  - "Squier"
+  - "スクワイア"
+  - "Telecaster"
+  - "テレキャスター"
+  - "テレキャス"
+  - "Fender"
+  - "フェンダー"
+  - "エレキギター 初心者"
+  - "electric guitar beginner"
+  - "Affinity"
+  - "PLAYTECH"
+  - "プレイテック"
+  - "入門ギター"
 ---
 
 ※本記事にはアフィリエイトリンクが含まれます

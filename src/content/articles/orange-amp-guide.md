@@ -35,6 +35,23 @@ products:
       チャンネル: "1ch"
       コントロール: "GAIN・VOLUME・BASS・MIDDLE・TREBLE"
       重量: "4.4kg"
+keywords:
+  - "Orange アンプ"
+  - "Orange amplifier"
+  - "Orange"
+  - "Crush"
+  - "クラッシュ"
+  - "Rocker Terror"
+  - "ロッカーテラー"
+  - "ギターアンプ"
+  - "guitar amplifier"
+  - "チューブアンプ"
+  - "tube amplifier"
+  - "EL84"
+  - "ブリティッシュロック"
+  - "British rock"
+  - "Marshall"
+  - "マーシャル"
 ---
 
 ## はじめに

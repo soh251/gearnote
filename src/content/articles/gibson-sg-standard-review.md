@@ -25,6 +25,23 @@ products:
       ブリッジ: "ABR-1チューン・オー・マチック"
       重量: "約2.9kg"
       カラー: "ヴィンテージチェリー、エボニー他"
+keywords:
+  - "Gibson SG Standard"
+  - "ギブソン SG スタンダード"
+  - "Gibson"
+  - "ギブソン"
+  - "SG"
+  - "Les Paul"
+  - "レスポール"
+  - "Epiphone"
+  - "エピフォン"
+  - "ハムバッカー"
+  - "humbucker"
+  - "エレキギター"
+  - "electric guitar"
+  - "アメリカ製"
+  - "ハードロック"
+  - "軽量ギター"
 ---
 
 ## はじめに

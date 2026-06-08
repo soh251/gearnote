@@ -45,6 +45,24 @@ products:
       電流消費: "3mA"
       サイズ: "95×255×72mm"
       重量: "580g"
+keywords:
+  - "ワウペダル"
+  - "wah pedal"
+  - "wah"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "Dunlop"
+  - "Cry Baby"
+  - "クライベイビー"
+  - "BOSS"
+  - "ボス"
+  - "Vox"
+  - "ボックス"
+  - "ジミヘン"
+  - "Jimi Hendrix"
+  - "ファンク"
+  - "funk"
 ---
 
 ## ワウペダルとは？

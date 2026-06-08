@@ -23,6 +23,27 @@ products:
       ナット幅: "43mm"
       ピックアップ: "Black Top Filter'Tron™ ×2"
       ブリッジ: "Adjusto-Matic™ with Bigsby B60"
+keywords:
+  - "Gretsch G5410T"
+  - "グレッチ G5410T"
+  - "Gretsch"
+  - "グレッチ"
+  - "G5410T"
+  - "Rat Rod"
+  - "ラットロッド"
+  - "Electromatic"
+  - "エレクトロマチック"
+  - "Filter'Tron"
+  - "フィルタートロン"
+  - "Bigsby"
+  - "ビグスビー"
+  - "シングルカッタウェイ"
+  - "フルホロウ"
+  - "full hollow"
+  - "ロカビリー"
+  - "rockabilly"
+  - "エレキギター"
+  - "electric guitar"
 ---
 
 ## G5410Tの基本スペック（シングルカッタウェイ・Bigsby搭載）

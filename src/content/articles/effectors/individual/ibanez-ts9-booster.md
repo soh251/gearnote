@@ -20,6 +20,24 @@ products:
       消費電流: "6mA"
       寸法: "70×117×51mm"
       重量: "390g"
+keywords:
+  - "Ibanez TS9"
+  - "アイバニーズ TS9"
+  - "Tube Screamer"
+  - "チューブスクリーマー"
+  - "Ibanez"
+  - "アイバニーズ"
+  - "イバニーズ"
+  - "オーバードライブ"
+  - "overdrive"
+  - "ブースター"
+  - "booster"
+  - "エフェクター"
+  - "effector"
+  - "ミッドハンプ"
+  - "SRV"
+  - "Stevie Ray Vaughan"
+  - "真空管アンプ"
 ---
 
 ## TS9の音の特徴（中域強調・ミッドハンプの性格）

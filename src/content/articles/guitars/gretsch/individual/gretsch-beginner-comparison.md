@@ -45,6 +45,25 @@ products:
       ピックアップ: "BroadTron™ BT-2S"
       コントロール: "2ボリューム・1マスタートーン・3wayスイッチ"
       ブリッジ: "Adjusto-Matic™"
+keywords:
+  - "グレッチ 入門機 比較"
+  - "Gretsch beginner comparison"
+  - "Gretsch"
+  - "グレッチ"
+  - "G2420"
+  - "G2622"
+  - "G2655"
+  - "Streamliner"
+  - "ストリームライナー"
+  - "BroadTron"
+  - "ブロードトロン"
+  - "セミホロウ"
+  - "semi-hollow"
+  - "フルホロウ"
+  - "full hollow"
+  - "エレキギター"
+  - "electric guitar"
+  - "初心者 グレッチ"
 ---
 
 ## Streamlinerシリーズとは何か

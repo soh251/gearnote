@@ -34,6 +34,22 @@ products:
     specs:
       タイプ: "リバーブ"
       おすすめジャンル: "全ジャンル"
+keywords:
+  - "空間系エフェクター"
+  - "spatial effects"
+  - "コーラス"
+  - "chorus"
+  - "フランジャー"
+  - "flanger"
+  - "ディレイ"
+  - "delay"
+  - "リバーブ"
+  - "reverb"
+  - "エフェクター 比較"
+  - "effector comparison"
+  - "BOSS"
+  - "ボス"
+  - "違い"
 ---
 
 ## 空間系エフェクターとは？

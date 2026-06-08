@@ -46,6 +46,24 @@ products:
       タイプ: "オーバードライブ / ディストーション"
       電源: "DC9〜18V"
       コントロール: "VOLUME、DRIVE、TONE、HP/LP切替"
+keywords:
+  - "オーバードライブ"
+  - "overdrive"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "SD-1"
+  - "Ibanez"
+  - "アイバニーズ"
+  - "TS9"
+  - "Tube Screamer"
+  - "チューブスクリーマー"
+  - "ブルース"
+  - "blues"
+  - "歪み"
+  - "ディストーション 違い"
 ---
 
 ## オーバードライブとは？

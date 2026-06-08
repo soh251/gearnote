@@ -5,6 +5,26 @@ category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 4
 thumbnail: "/images/greco-eg.png"
+keywords:
+  - "グレコ EG"
+  - "Greco EG"
+  - "Greco"
+  - "グレコ"
+  - "Super Real"
+  - "スーパーリアル"
+  - "Les Paul"
+  - "レスポール"
+  - "国産コピー"
+  - "japan vintage guitar"
+  - "ヴィンテージ"
+  - "vintage"
+  - "中古ギター"
+  - "コピーモデル"
+  - "Gibson"
+  - "ギブソン"
+  - "トーカイ Love Rock"
+  - "Burny"
+  - "バーニー"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

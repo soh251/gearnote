@@ -45,6 +45,19 @@ products:
       電源: "DC9V"
       電流消費: "100mA"
       コントロール: "SPEED、DEPTH、FX LVL、TONE、MODE"
+keywords:
+  - "コーラス"
+  - "chorus"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "MXR"
+  - "エムエックスアール"
+  - "空間系エフェクター"
+  - "モジュレーション"
+  - "modulation"
 ---
 
 ## コーラスエフェクターとは？

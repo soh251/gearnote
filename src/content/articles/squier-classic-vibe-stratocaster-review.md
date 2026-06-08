@@ -26,6 +26,23 @@ products:
       ブリッジ: "ヴィンテージスタイル・シンクロナイズドトレモロ"
       ペグ: "クロームダイキャスト"
       カラー展開: "3カラーサンバースト、3トーンサンバースト、ブラック他"
+keywords:
+  - "Squier Classic Vibe Stratocaster"
+  - "スクワイア クラシックバイブ ストラトキャスター"
+  - "Squier"
+  - "スクワイア"
+  - "Classic Vibe"
+  - "クラシックバイブ"
+  - "Stratocaster"
+  - "ストラトキャスター"
+  - "ストラト"
+  - "Fender"
+  - "フェンダー"
+  - "エレキギター"
+  - "electric guitar"
+  - "Affinity"
+  - "Player II"
+  - "ヴィンテージ感"
 ---
 
 ## はじめに

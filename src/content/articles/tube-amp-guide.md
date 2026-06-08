@@ -52,6 +52,25 @@ products:
       チャンネル: "2ch（クラシックゲイン / ウルトラゲイン）"
       コントロール: "各ch独立のGAIN・VOLUME・3バンドEQ"
       重量: "18.6kg"
+keywords:
+  - "チューブアンプ"
+  - "tube amplifier"
+  - "真空管アンプ"
+  - "チューブアンプ 選び方"
+  - "Fender"
+  - "フェンダー"
+  - "Blues Junior"
+  - "Vox"
+  - "ボックス"
+  - "AC15"
+  - "AC30"
+  - "Marshall"
+  - "マーシャル"
+  - "DSL"
+  - "EL84"
+  - "EL34"
+  - "ギターアンプ"
+  - "guitar amplifier"
 ---
 
 ## チューブアンプとは？

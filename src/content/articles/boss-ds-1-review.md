@@ -21,6 +21,16 @@ products:
       重量: "390g"
       入力インピーダンス: "1MΩ"
       出力インピーダンス: "1kΩ"
+keywords:
+  - "BOSS DS-1"
+  - "ボス DS-1"
+  - "ディストーション"
+  - "distortion"
+  - "BOSS"
+  - "ボス"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
 ---
 
 ## 概要

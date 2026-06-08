@@ -5,6 +5,20 @@ category: electric-guitar
 tags: ["Gibson", "ロボットギター", "Min-ETune", "G-FORCE", "ゼロフレットナット", "コラム", "ギター歴史"]
 type: column
 publishedAt: "2026-06-07"
+keywords:
+  - "Gibson Robot Guitar"
+  - "ギブソン ロボットギター"
+  - "Gibson"
+  - "ギブソン"
+  - "G-FORCE"
+  - "Min-ETune"
+  - "自動チューニング"
+  - "auto tuning"
+  - "Les Paul"
+  - "レスポール"
+  - "ギター歴史"
+  - "guitar history"
+  - "Tronical"
 thumbnail: "https://m.media-amazon.com/images/I/815v7wL12dL._AC_SL1500_.jpg"
 ---
 

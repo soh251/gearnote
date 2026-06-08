@@ -4,6 +4,25 @@ description: "ブースターの役割・種類・使い方を初心者向けに
 category: effector
 publishedAt: "2026-06-05"
 thumbnail: "https://m.media-amazon.com/images/I/714EH7lqNRL._AC_SL1500_.jpg"
+keywords:
+  - "ブースター"
+  - "booster"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "BD-2"
+  - "Ibanez"
+  - "アイバニーズ"
+  - "TS9"
+  - "Tube Screamer"
+  - "チューブスクリーマー"
+  - "GE-7"
+  - "イコライザー"
+  - "equalizer"
+  - "音量アップ"
+  - "ゲインブースト"
 ---
 
 ## ブースターとは何か

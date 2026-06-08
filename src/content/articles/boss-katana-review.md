@@ -23,6 +23,18 @@ products:
       接続: "USB録音対応・ヘッドフォン端子"
       サイズ: "470×240×440mm"
       重量: "16.3kg"
+keywords:
+  - "BOSS Katana"
+  - "ボス カタナ"
+  - "BOSS"
+  - "ボス"
+  - "Katana-50"
+  - "モデリングアンプ"
+  - "modeling amplifier"
+  - "ギターアンプ"
+  - "guitar amplifier"
+  - "アンプ 初心者"
+  - "USB録音"
 ---
 
 ## はじめに

@@ -44,6 +44,20 @@ products:
       タイプ: "ディストーション"
       電源: "DC9V"
       コントロール: "OUTPUT、BASS、MID、TREBLE、GAIN"
+keywords:
+  - "ディストーション"
+  - "distortion"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "DS-1"
+  - "MXR"
+  - "エムエックスアール"
+  - "歪み"
+  - "ロック"
+  - "ハードロック"
 ---
 
 ## ディストーションとは？

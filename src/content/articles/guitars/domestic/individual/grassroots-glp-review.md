@@ -5,6 +5,25 @@ category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 4
 thumbnail: "/images/grassroots-glp.png"
+keywords:
+  - "グラスルーツ G-LP"
+  - "Grassroots G-LP"
+  - "Grassroots"
+  - "グラスルーツ"
+  - "ESP"
+  - "イーエスピー"
+  - "Les Paul"
+  - "レスポール"
+  - "国産コピー"
+  - "japan vintage guitar"
+  - "中古ギター"
+  - "コピーモデル"
+  - "Gibson"
+  - "ギブソン"
+  - "Epiphone"
+  - "エピフォン"
+  - "Burny"
+  - "バーニー"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

@@ -49,6 +49,23 @@ products:
       電流消費: "100mA"
       サイズ: "72×122×48mm"
       重量: "254g"
+keywords:
+  - "チューナーペダル"
+  - "tuner pedal"
+  - "チューナー"
+  - "tuner"
+  - "エフェクター"
+  - "effector"
+  - "BOSS"
+  - "ボス"
+  - "TU-3"
+  - "KORG"
+  - "コルグ"
+  - "Pitchblack"
+  - "tc electronic"
+  - "PolyTune"
+  - "チューニング"
+  - "ペダルボード"
 ---
 
 ## チューナーペダルとは？なぜ最初の1台なのか

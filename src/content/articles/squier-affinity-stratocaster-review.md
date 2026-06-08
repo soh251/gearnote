@@ -26,6 +26,21 @@ products:
       ブリッジ: "6点支持シンクロナイズドトレモロ"
       ペグ: "スタンダードダイキャスト"
       カラー展開: "ブラック、ブルティック・ピュータ、オリンピックホワイト他"
+keywords:
+  - "Squier Affinity Stratocaster"
+  - "スクワイア アフィニティ ストラトキャスター"
+  - "Squier"
+  - "スクワイア"
+  - "Stratocaster"
+  - "ストラトキャスター"
+  - "ストラト"
+  - "Fender"
+  - "フェンダー"
+  - "エレキギター 初心者"
+  - "electric guitar beginner"
+  - "Affinity"
+  - "Classic Vibe"
+  - "入門ギター"
 ---
 
 ## はじめに

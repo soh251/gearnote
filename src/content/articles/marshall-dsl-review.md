@@ -23,6 +23,24 @@ products:
       コントロール: "各ch独立のGAIN・VOLUME・TREBLE・MIDDLE・BASS"
       エフェクト: "デジタルリバーブ内蔵"
       重量: "18.6kg"
+keywords:
+  - "Marshall DSL20CR"
+  - "マーシャル DSL20CR"
+  - "Marshall"
+  - "マーシャル"
+  - "DSL"
+  - "チューブアンプ"
+  - "tube amplifier"
+  - "真空管アンプ"
+  - "EL34"
+  - "ギターアンプ"
+  - "guitar amplifier"
+  - "ロック"
+  - "ハードロック"
+  - "Vox"
+  - "ボックス"
+  - "Fender"
+  - "フェンダー"
 ---
 
 ## はじめに

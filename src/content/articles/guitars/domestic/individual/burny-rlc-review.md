@@ -5,6 +5,25 @@ category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 4
 thumbnail: "/images/burny-rlc.png"
+keywords:
+  - "Burny RLC"
+  - "バーニー RLC"
+  - "Burny"
+  - "バーニー"
+  - "Fernandes"
+  - "フェルナンデス"
+  - "Les Paul"
+  - "レスポール"
+  - "国産コピー"
+  - "japan vintage guitar"
+  - "中古ギター"
+  - "コピーモデル"
+  - "Gibson"
+  - "ギブソン"
+  - "Epiphone"
+  - "エピフォン"
+  - "トーカイ Love Rock"
+  - "グレコ EG"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

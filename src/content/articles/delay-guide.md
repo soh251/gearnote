@@ -48,6 +48,19 @@ products:
       電源: "DC9V"
       電流消費: "5mA"
       コントロール: "DELAY、MIX、REGEN、MOD"
+keywords:
+  - "ディレイ"
+  - "delay"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "DD-3T"
+  - "MXR"
+  - "エムエックスアール"
+  - "空間系エフェクター"
+  - "やまびこ"
 ---
 
 ## ディレイエフェクターとは？

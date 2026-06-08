@@ -5,6 +5,28 @@ category: beginners-guide
 publishedAt: "2026-04-01"
 thumbnail: "https://m.media-amazon.com/images/I/51wKhqImUCL._AC_SL1200_.jpg"
 featured: true
+keywords:
+  - "エレキギター 初心者"
+  - "electric guitar beginner"
+  - "エレキギター 選び方"
+  - "ギター 始め方"
+  - "Squier"
+  - "スクワイア"
+  - "Stratocaster"
+  - "ストラトキャスター"
+  - "ストラト"
+  - "Epiphone"
+  - "エピフォン"
+  - "Les Paul"
+  - "レスポール"
+  - "Yamaha"
+  - "ヤマハ"
+  - "PACIFICA"
+  - "パシフィカ"
+  - "Gibson"
+  - "ギブソン"
+  - "Fender"
+  - "フェンダー"
 ---
 
 エレキギターを始めたいけど「何を買えばいいかわからない」という方のために、最初に必要なことをこの1記事にまとめました。ギター本体・アンプ・小物まで順番に解説します。

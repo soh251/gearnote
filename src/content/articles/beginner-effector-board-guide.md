@@ -47,6 +47,24 @@ products:
     specs:
       タイプ: "リバーブ"
       用途: "フルプランで使用"
+keywords:
+  - "エフェクターボード"
+  - "effector board"
+  - "pedalboard"
+  - "ペダルボード"
+  - "エフェクター 初心者"
+  - "effects pedal"
+  - "BOSS"
+  - "ボス"
+  - "オーバードライブ"
+  - "overdrive"
+  - "ディレイ"
+  - "delay"
+  - "リバーブ"
+  - "reverb"
+  - "チューナー"
+  - "tuner"
+  - "接続順"
 ---
 
 ## エフェクターボードとは？

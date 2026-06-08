@@ -25,6 +25,22 @@ products:
       ブリッジ: "LockTone チューン・オー・マチック"
       重量: "約2.7kg"
       カラー: "ナチュラル、ヴィンテージサンバースト他"
+keywords:
+  - "Epiphone Casino"
+  - "エピフォン カジノ"
+  - "Epiphone"
+  - "エピフォン"
+  - "Gibson"
+  - "ギブソン"
+  - "フルアコ"
+  - "フルホロウ"
+  - "full hollow"
+  - "P-90"
+  - "セミアコ"
+  - "ビートルズ"
+  - "Beatles"
+  - "エレキギター"
+  - "electric guitar"
 ---
 
 ## はじめに

@@ -41,6 +41,23 @@ products:
       コントロール: "ボリューム×1、トーン×1"
       ブリッジ: "スタップテールピース"
       カラー: "タバコバースト、TVイエロー他"
+keywords:
+  - "Les Paul Junior"
+  - "レスポール ジュニア"
+  - "Gibson Les Paul Junior"
+  - "Gibson"
+  - "ギブソン"
+  - "Epiphone"
+  - "エピフォン"
+  - "Les Paul"
+  - "レスポール"
+  - "P-90"
+  - "シングルコイル"
+  - "single coil"
+  - "エレキギター"
+  - "electric guitar"
+  - "ロックンロール"
+  - "パンク"
 ---
 
 ## はじめに

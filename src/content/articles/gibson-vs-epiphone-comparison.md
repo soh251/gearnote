@@ -31,6 +31,20 @@ products:
       ピックアップ: "ProBucker（アルニコ2）"
       木材: "マホガニー＋メイプル"
       価格帯: "¥66,000〜"
+keywords:
+  - "Gibson vs Epiphone"
+  - "ギブソン vs エピフォン"
+  - "Gibson"
+  - "ギブソン"
+  - "Epiphone"
+  - "エピフォン"
+  - "Les Paul"
+  - "レスポール"
+  - "SG"
+  - "どっちを選ぶ"
+  - "価格差"
+  - "エレキギター 比較"
+  - "electric guitar comparison"
 ---
 
 ## Gibsonとは？Epiphoneとは？

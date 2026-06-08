@@ -42,6 +42,23 @@ products:
       電源: "DC9V"
       電流消費: "55mA"
       コントロール: "LEVEL、TONE、FUZZ、MODE"
+keywords:
+  - "ファズ"
+  - "fuzz"
+  - "エフェクター"
+  - "effector"
+  - "effects pedal"
+  - "Big Muff"
+  - "ビッグマフ"
+  - "Electro-Harmonix"
+  - "BOSS"
+  - "ボス"
+  - "Dunlop"
+  - "Fuzz Face"
+  - "歪み"
+  - "distortion"
+  - "ジミヘン"
+  - "Jimi Hendrix"
 ---
 
 ## ファズとは？オーバードライブ・ディストーションと何が違うの？

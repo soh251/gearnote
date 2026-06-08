@@ -25,6 +25,23 @@ products:
       ブリッジ: "LockTone チューン・オー・マチック"
       重量: "約2.8kg"
       カラー: "エボニー、ヘリテージチェリー他"
+keywords:
+  - "Epiphone SG Standard"
+  - "エピフォン SG スタンダード"
+  - "Epiphone"
+  - "エピフォン"
+  - "SG"
+  - "Gibson"
+  - "ギブソン"
+  - "Gibson SG"
+  - "ハードロック"
+  - "hard rock"
+  - "ハムバッカー"
+  - "humbucker"
+  - "エレキギター"
+  - "electric guitar"
+  - "軽量ギター"
+  - "ダブルカッタウェイ"
 ---
 
 ## はじめに

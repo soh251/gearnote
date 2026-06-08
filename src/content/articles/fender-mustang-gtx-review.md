@@ -23,6 +23,20 @@ products:
       エフェクト: "ストンプ・モジュレーション・ディレイ・リバーブ各種"
       接続: "USB録音・Bluetooth対応"
       重量: "16.8kg"
+keywords:
+  - "Fender Mustang GTX50"
+  - "フェンダー マスタング GTX"
+  - "Fender"
+  - "フェンダー"
+  - "Mustang"
+  - "モデリングアンプ"
+  - "modeling amplifier"
+  - "ギターアンプ"
+  - "guitar amplifier"
+  - "BOSS"
+  - "ボス"
+  - "Katana"
+  - "フェンダー モデリング"
 ---
 
 ## はじめに

@@ -5,6 +5,26 @@ category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 5
 thumbnail: "/images/tokai-goldstar.png"
+keywords:
+  - "トーカイ Goldstar Sound"
+  - "Tokai Goldstar Sound"
+  - "Goldstar Sound"
+  - "ゴールドスター"
+  - "Tokai"
+  - "トーカイ"
+  - "Stratocaster"
+  - "ストラトキャスター"
+  - "ストラト"
+  - "国産コピー"
+  - "japan vintage guitar"
+  - "ヴィンテージ"
+  - "vintage"
+  - "中古ギター"
+  - "コピーモデル"
+  - "Fender"
+  - "フェンダー"
+  - "グラスルーツ"
+  - "Grassroots"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

@@ -6,6 +6,28 @@ publishedAt: "2026-06-05"
 thumbnail: "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"
 rating: 5
 featured: true
+keywords:
+  - "DTM"
+  - "デスクトップミュージック"
+  - "宅録"
+  - "オーディオインターフェース"
+  - "audio interface"
+  - "DAW"
+  - "ダウ"
+  - "デジタルオーディオワークステーション"
+  - "Focusrite"
+  - "フォーカスライト"
+  - "Scarlett"
+  - "スカーレット"
+  - "MOTU"
+  - "モツ"
+  - "Yamaha"
+  - "ヤマハ"
+  - "KRK"
+  - "ケーアールケー"
+  - "モニタースピーカー"
+  - "monitor speaker"
+  - "ギター録音"
 ---
 
 ## DTMを始めるのに何が必要か

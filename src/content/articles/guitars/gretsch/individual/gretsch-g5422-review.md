@@ -23,6 +23,26 @@ products:
       ナット幅: "43mm"
       ピックアップ: "Black Top Filter'Tron™ ×2"
       ブリッジ: "Adjusto-Matic™ with Bigsby B60"
+keywords:
+  - "Gretsch G5422"
+  - "グレッチ G5422"
+  - "Gretsch"
+  - "グレッチ"
+  - "G5422"
+  - "Electromatic"
+  - "エレクトロマチック"
+  - "Filter'Tron"
+  - "フィルタートロン"
+  - "フルホロウ"
+  - "full hollow"
+  - "ダブルカッタウェイ"
+  - "Bigsby"
+  - "ビグスビー"
+  - "エレキギター"
+  - "electric guitar"
+  - "グレッチ おすすめ"
+  - "G2622"
+  - "G6120"
 ---
 
 ## G5422の基本スペックと見た目

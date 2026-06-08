@@ -22,6 +22,19 @@ products:
       スケール: "597mm（23.5インチ）"
       ナット幅: "42.8mm"
       付属品: "ギグバッグ"
+keywords:
+  - "Taylor GS Mini"
+  - "テイラー GS ミニ"
+  - "Taylor"
+  - "テイラー"
+  - "アコースティックギター"
+  - "acoustic guitar"
+  - "アコギ"
+  - "トラベルギター"
+  - "travel guitar"
+  - "ミニギター"
+  - "コンパクト"
+  - "旅行"
 ---
 
 ## Taylor GS Miniとは

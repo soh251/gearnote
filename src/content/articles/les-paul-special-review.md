@@ -41,6 +41,24 @@ products:
       コントロール: "ボリューム×2、トーン×2、3wayスイッチ"
       ブリッジ: "LockTone チューン・オー・マチック"
       カラー: "TVイエロー、エボニー他"
+keywords:
+  - "Les Paul Special"
+  - "レスポール スペシャル"
+  - "Gibson Les Paul Special"
+  - "Gibson"
+  - "ギブソン"
+  - "Epiphone"
+  - "エピフォン"
+  - "Les Paul"
+  - "レスポール"
+  - "P-90"
+  - "シングルコイル"
+  - "single coil"
+  - "エレキギター"
+  - "electric guitar"
+  - "Les Paul Junior"
+  - "レスポール ジュニア"
+  - "Junior vs Special"
 ---
 
 ## はじめに

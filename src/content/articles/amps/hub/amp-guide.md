@@ -5,6 +5,24 @@ category: amp
 publishedAt: "2026-06-07"
 thumbnail: "/images/amp-guide.png"
 featured: true
+keywords:
+  - "ギターアンプ 選び方"
+  - "guitar amplifier guide"
+  - "アンプ 初心者"
+  - "チューブアンプ"
+  - "tube amplifier"
+  - "真空管アンプ"
+  - "モデリングアンプ"
+  - "modeling amplifier"
+  - "トランジスタアンプ"
+  - "BOSS"
+  - "ボス"
+  - "Marshall"
+  - "マーシャル"
+  - "Vox"
+  - "ボックス"
+  - "Fender"
+  - "フェンダー"
 ---
 
 ※本記事にはアフィリエイトリンクが含まれます

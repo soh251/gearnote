@@ -4,6 +4,7 @@ description: "トーカイ Goldstar Soundを徹底レビュー。国産Stratocas
 category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 5
+thumbnail: "/images/tokai-goldstar.png"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

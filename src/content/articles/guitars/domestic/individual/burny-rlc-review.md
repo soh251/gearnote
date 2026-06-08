@@ -4,6 +4,7 @@ description: "Burny RLCを徹底レビュー。フェルナンデス傘下ブラ
 category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 4
+thumbnail: "/images/burny-rlc.png"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

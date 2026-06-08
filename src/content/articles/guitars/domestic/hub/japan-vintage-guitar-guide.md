@@ -3,6 +3,7 @@ title: "国産ヴィンテージギターの選び方｜トーカイ・グレコ
 description: "国産コピーギターの選び方を徹底解説。トーカイ・グレコ・Burny・グラスルーツの特徴比較から中古購入時のチェックポイントまで、初めての国産ヴィンテージギター選びを完全サポートします。"
 category: electric-guitar
 publishedAt: "2026-06-07"
+thumbnail: "/images/japan-vintage-guide.png"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

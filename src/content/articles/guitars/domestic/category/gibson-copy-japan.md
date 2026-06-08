@@ -3,6 +3,7 @@ title: "国産Gibson系コピーギター比較｜トーカイ・グレコ・Bur
 description: "トーカイ Love Rock・グレコ EG・Burny RLCを徹底比較。各ブランドの歴史・音の傾向・価格帯を解説し、中古で国産Gibson系コピーを選ぶための判断基準をまとめました。"
 category: electric-guitar
 publishedAt: "2026-06-07"
+thumbnail: "/images/gibson-copy-japan.png"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

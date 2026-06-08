@@ -3,6 +3,7 @@ title: "国産Fender系コピーギター比較｜トーカイ・グラスルー
 description: "トーカイ Goldstar Sound・グラスルーツ G-STを徹底比較。国産Fender系コピーを中古で選ぶための判断基準、StratとTeleの違い、購入時の注意点をまとめました。"
 category: electric-guitar
 publishedAt: "2026-06-07"
+thumbnail: "/images/fender-copy-japan.png"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

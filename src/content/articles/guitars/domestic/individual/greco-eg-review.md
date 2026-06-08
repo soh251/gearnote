@@ -4,6 +4,7 @@ description: "グレコ EGシリーズを徹底レビュー。70年代Super Real
 category: electric-guitar
 publishedAt: "2026-06-07"
 rating: 4
+thumbnail: "/images/greco-eg.png"
 ---
 
 ※本記事はアフィリエイト広告を含みます。

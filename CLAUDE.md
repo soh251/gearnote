@@ -186,5 +186,9 @@ src/content/articles/
 - Google Search Console 確認ファイルを public/ に追加
 - 国産ヴィンテージギター記事8本を guitars/domestic/ に追加（トーカイ・グレコ・Burny・グラスルーツ）
   - 購入リンクは記事本文に「中古優先」形式で記載（ProductCard非使用）
-  - thumbnail は未設定（要追加）
+  - thumbnail はAI生成画像（フラットデザイン・ヴィンテージ風）を /images/ に設定済み
   - 検索ワードはメーカー名のみ（Greco・Burny・Grassroots）またはブランド+カテゴリ（TOKAI+レスポール）
+- 全記事タイトルから「【2026年版】」を削除
+- アンプ記事3本（amp-guide・home-practice・recording）のサムネイルを差し替え
+  - 3本が同じAmazon画像を使っていたため、AI生成画像（フラットデザイン・オレンジ系）に変更
+  - public/images/amp-guide.png・home-practice-amp.png・recording-amp.png

@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="記事検索" description="GearNoteの記事を検索できます">
+  <div class="max-w-3xl mx-auto px-4 py-10">
+    <h1 class="text-2xl font-bold text-[#1a1a1a] mb-6">記事を検索</h1>
+    <div id="search"></div>
+  </div>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search',
+      showSubResults: false,
+      translations: {
+        placeholder: 'キーワードで検索...',
+        zero_results: '「[SEARCH_TERM]」に一致する記事が見つかりませんでした',
+      },
+    });
+  });
+</script>
+
+<style>
+  :root {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: #E65100;
+    --pagefind-ui-text: #1a1a1a;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #e5e7eb;
+    --pagefind-ui-tag: #FFF3E0;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 8px;
+    --pagefind-ui-font: 'Noto Sans JP', system-ui, sans-serif;
+  }
+</style>

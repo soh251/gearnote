@@ -2,8 +2,8 @@
 楽器レビューアフィリエイトサイト（Astro v6.4.3製）
 Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
-## 記事数の現状（合計70本）
-- エレキギター: 22本 ✅（グレッチシリーズ7本・Gibsonコラム1本含む）
+## 記事数の現状（合計74本）
+- エレキギター: 26本 ✅（グレッチ7本・Gibsonコラム1本・変形ギター4本含む）
 - 国産ヴィンテージギター: 8本 ✅（guitars/domestic/ 以下）
 - エフェクター: 17本 ✅
 - アンプ: 10本 ✅
@@ -24,6 +24,11 @@ Amazonアフィリエイトタグ: `gearnoteguitar-22`
 - `products[].image`: 商品カード内の画像URL（Amazonまたはサウンドハウスの画像URLを使用）
 - `products[].ikebeUrl`: イケベ楽器中古検索URL（全記事設定済み）
 - `products[].ishibashiUrl`: イシバシ楽器中古検索URL（全記事設定済み）
+
+### keywordsフィールド（content.config.ts）
+- `keywords: z.array(z.string()).optional()` — 日英両方の検索キーワードを配列で設定
+- ArticleLayout.astro で `<div class="sr-only">` として出力 → Pagefindがインデックス化
+- 全73記事に設定済み（エピフォン↔Epiphone、レスポール↔Les Paul 等）
 
 ### productsスキーマ（content.config.ts）
 ```ts
@@ -52,6 +57,11 @@ products: z.array(z.object({
 - トップページ: 「初心者はここから」（ガイド記事上位9本）＋「新着レビュー」（12本）
 - カテゴリページ: 「まず読みたい記事」（ガイド）＋「個別レビュー」に分割
 - サブナビ（カテゴリタブ）は削除済み
+- サイトロゴ: `public/logo.png`（ギターピック型・G+音符デザイン・オレンジ）
+- ファビコン: `public/favicon.png`（同上）
+- サイトキャッチコピー: 「GearNote — ギター機材レビューと比較情報」
+  - トップページ説明バー・meta description・ヘッダーロゴ下に表示
+- ヘッダー検索フォーム: デスクトップはインライン入力欄、モバイルはハンバーガーメニュー内
 
 ### ProductCard.astro のボタン構成
 Amazon・Soundhouse・イケベ・イシバシの4ボタン。全てグレー（bg-white + border）で統一。
@@ -117,6 +127,14 @@ https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2
 **アンプ**
 - BOSS Katana-50 GEN 3: ¥42,800〜
 
+**Gibson変形ギター**
+- Gibson 70s Flying V: ¥313,500〜
+- Epiphone Flying V: ¥94,600〜
+- Gibson Firebird: ¥280,000〜
+- Epiphone Firebird: ¥90,000〜
+- Gibson Explorer: ¥220,000〜
+- Epiphone Explorer: ¥80,000〜
+
 **グレッチ**
 - G2622 Streamliner: ¥77,000〜¥85,000
 - G5410T Rat Rod: ¥104,800〜¥110,000
@@ -145,6 +163,10 @@ src/content/articles/
       individual/gretsch-beginner-comparison.md
     gibson/
       individual/gibson-robot-guitar-history.md  # コラム記事
+      individual/gibson-flying-v-review.md        # Gibson+Epiphone両方掲載
+      individual/gibson-firebird-review.md
+      individual/gibson-explorer-review.md
+      category/gibson-unusual-shapes.md           # 変形ギター3機種まとめ比較
     domestic/                                     # 国産ヴィンテージ（2026-06-07追加）
       hub/japan-vintage-guitar-guide.md           # ハブ：ブランド比較・選び方
       category/gibson-copy-japan.md              # Gibson系コピー比較
@@ -189,6 +211,16 @@ src/content/articles/
   - thumbnail はAI生成画像（フラットデザイン・ヴィンテージ風）を /images/ に設定済み
   - 検索ワードはメーカー名のみ（Greco・Burny・Grassroots）またはブランド+カテゴリ（TOKAI+レスポール）
 - 全記事タイトルから「【2026年版】」を削除
-- アンプ記事3本（amp-guide・home-practice・recording）のサムネイルを差し替え
-  - 3本が同じAmazon画像を使っていたため、AI生成画像（フラットデザイン・オレンジ系）に変更
-  - public/images/amp-guide.png・home-practice-amp.png・recording-amp.png
+- アンプ記事4本のサムネイルをAI生成画像（フラットデザイン・オレンジ系）に変更
+  - public/images/amp-guide.png・home-practice-amp.png・recording-amp.png・studio-live-amp.png
+- Pagefind による全文検索機能を追加（/search ページ・ヘッダーインライン検索フォーム）
+  - ビルドコマンド: `astro build && pagefind --site dist`
+  - 日英キーワードで検索可能（keywordsフィールド経由）
+- 記事本文内の外部リンク（http/https）を新しいタブで開くよう変更（ArticleLayout.astro）
+- 全73記事に keywords フィールドを追加（日英両方の検索ワード）
+- Gibson変形ギター記事4本追加（guitars/gibson/）
+  - Flying V・Firebird・Explorer 各個別レビュー（Gibson版+Epiphone版両方掲載）
+  - gibson-unusual-shapes.md（3機種まとめ比較）
+- サイトロゴを新デザインに更新（ギターピック型・G+音符・オレンジ）
+  - public/logo.png・public/favicon.png
+- サイトキャッチコピー追加：「GearNote — ギター機材レビューと比較情報」

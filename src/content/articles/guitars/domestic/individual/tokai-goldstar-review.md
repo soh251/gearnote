@@ -1,5 +1,5 @@
 ---
-title: "トーカイ Goldstar Soundレビュー【2026年版】｜国産Stratコピーの最高峰を中古で手に入れる"
+title: "トーカイ Goldstar Soundレビュー｜国産Stratコピーの最高峰を中古で手に入れる"
 description: "トーカイ Goldstar Soundを徹底レビュー。国産Stratocasterコピーの頂点と呼ばれる理由・音の傾向・おすすめ年代を解説。グラスルーツ・Fender Playerとの比較表と購入リンクも掲載。"
 category: electric-guitar
 publishedAt: "2026-06-07"

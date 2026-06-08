@@ -1,5 +1,5 @@
 ---
-title: "グレコ EGシリーズレビュー【2026年版】｜70〜80年代国産Les Paulコピーの完成形を中古で手に入れる"
+title: "グレコ EGシリーズレビュー｜70〜80年代国産Les Paulコピーの完成形を中古で手に入れる"
 description: "グレコ EGシリーズを徹底レビュー。70年代Super Realシリーズの魅力・年代別の品質差・音の傾向を解説。トーカイ Love Rock・Burny RLCとの比較表と中古購入時のポイントも掲載。"
 category: electric-guitar
 publishedAt: "2026-06-07"

@@ -1,5 +1,5 @@
 ---
-title: "グラスルーツ G-LPレビュー【2026年版】｜ESPの入門ライン、中古ならコスパ最強のLes Paulコピー"
+title: "グラスルーツ G-LPレビュー｜ESPの入門ライン、中古ならコスパ最強のLes Paulコピー"
 description: "グラスルーツ G-LPを徹底レビュー。ESP傘下の国産入門ブランドの実力・音の傾向・コスパを解説。Burny RLC・Epiphone Les Paulとの比較表と、中古購入時のチェックポイントも掲載。"
 category: electric-guitar
 publishedAt: "2026-06-07"

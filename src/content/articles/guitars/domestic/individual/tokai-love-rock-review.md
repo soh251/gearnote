@@ -1,5 +1,5 @@
 ---
-title: "トーカイ Love Rockレビュー【2026年版】｜Gibson Les Paulを超えるコスパの国産コピーを中古で買う"
+title: "トーカイ Love Rockレビュー｜Gibson Les Paulを超えるコスパの国産コピーを中古で買う"
 description: "トーカイ Love Rockを徹底レビュー。Gibson Les Paulコピーとしての音・スペック・おすすめ年代を解説し、グレコ EG・Burny RLCとの比較表も掲載。中古購入のチェックポイントも網羅。"
 category: electric-guitar
 publishedAt: "2026-06-07"

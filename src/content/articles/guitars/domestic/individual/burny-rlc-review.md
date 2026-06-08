@@ -1,5 +1,5 @@
 ---
-title: "Burny RLCレビュー【2026年版】｜フェルナンデス系Les Paulコピーの実力を中古で検証"
+title: "Burny RLCレビュー｜フェルナンデス系Les Paulコピーの実力を中古で検証"
 description: "Burny RLCを徹底レビュー。フェルナンデス傘下ブランドの歴史・音の傾向・コスパの高さを解説し、トーカイ Love Rock・グレコ EGとの比較表も掲載。中古で狙うべき理由を詳しく紹介します。"
 category: electric-guitar
 publishedAt: "2026-06-07"

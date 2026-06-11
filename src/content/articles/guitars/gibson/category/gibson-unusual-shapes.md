@@ -77,7 +77,6 @@ keywords:
   - "electric guitar"
 ---
 
-※本記事はアフィリエイト広告を含みます。
 
 ## Gibson変形3機種を比較する前に
 

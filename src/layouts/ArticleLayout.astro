@@ -47,10 +47,12 @@ const productsWithSpecs = products?.filter((p) => p.specs && Object.keys(p.specs
 
     <h1 class="text-2xl md:text-3xl font-bold text-[#1a1a1a] leading-tight mb-4">{title}</h1>
 
-    <div class="flex flex-wrap items-center gap-4 mb-8 pb-8 border-b border-[#e5e7eb]">
+    <div class="flex flex-wrap items-center gap-4 mb-4 pb-4 border-b border-[#e5e7eb]">
       {rating && <StarRating rating={rating} size="md" />}
       <time class="text-[#6b7280] text-sm">{publishedAt}</time>
     </div>
+
+    <p class="text-xs text-[#9ca3af] mb-8">※本記事はアフィリエイト広告を含みます。</p>
 
     {products && products.length > 0 && (
       <section class="mb-10">

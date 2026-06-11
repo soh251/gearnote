@@ -57,7 +57,6 @@ keywords:
   - "electric guitar"
 ---
 
-※本記事はアフィリエイト広告を含みます。
 
 ## Flying Vとは？ 1958年に生まれた伝説のモデル
 

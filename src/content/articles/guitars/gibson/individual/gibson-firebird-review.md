@@ -57,7 +57,6 @@ keywords:
   - "electric guitar"
 ---
 
-※本記事はアフィリエイト広告を含みます。
 
 ## Firebirdとは？ 1963年生まれのリバースボディが個性の源
 

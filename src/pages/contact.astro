@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="お問い合わせ" description="GearNoteへのお問い合わせページです。">
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="text-2xl md:text-3xl font-bold text-[#1a1a1a] mb-8">お問い合わせ</h1>
+
+    <div class="prose max-w-none">
+      <p>当サイトに関するお問い合わせは、以下よりお願いいたします。</p>
+
+      <!-- TODO: メールアドレスを実際のものに変更する、またはGoogleフォームのURLに差し替える -->
+      <p>
+        <a href="mailto:contact@example.com">contact@example.com</a>
+      </p>
+
+      <p class="text-sm text-[#6b7280]">いただいたお問い合わせには、内容によって返信できない場合があります。あらかじめご了承ください。</p>
+    </div>
+  </div>
+</BaseLayout>

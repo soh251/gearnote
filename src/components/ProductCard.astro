@@ -41,7 +41,8 @@ const { name, price, amazonUrl, soundhouseUrl, ikebeUrl, ishibashiUrl, image } =
           Amazonで見る
         </a>
       )}
-      {soundhouseUrl && (
+      {/* TODO: サウンドハウス承認後にボタン復活（soundhouseUrl prop を実URLに差し替えるだけでOK） */}
+      {soundhouseUrl && !soundhouseUrl.startsWith('[AFFILIATE_SOUNDHOUSE') && (
         <a
           href={soundhouseUrl}
           target="_blank"

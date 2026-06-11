@@ -27,7 +27,6 @@ keywords:
   - "バーニー"
 ---
 
-※本記事はアフィリエイト広告を含みます。
 
 # トーカイ Love Rockレビュー｜Gibson Les Paulを超えるコスパの国産コピーを中古で買う
 
@@ -117,7 +116,7 @@ Love Rockの音は、ひと言で表すと「厚みと太さのあるLes Paulサ
 
 ### 新品・その他で探す
 - [Amazonで見る](https://www.amazon.co.jp/s?k=TOKAI+%E3%83%AC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB&tag=gearnoteguitar-22)
-- サウンドハウス：[AFFILIATE_SOUNDHOUSE_Tokai_LoveRock]
+<!-- TODO: サウンドハウス承認後にボタン復活（[AFFILIATE_SOUNDHOUSE_Tokai_LoveRock]） -->
 
 ---
 

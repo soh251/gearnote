@@ -1,6 +1,4 @@
 ---
-import StarRating from './StarRating.astro';
-
 interface Props {
   title: string;
   description: string;
@@ -12,7 +10,7 @@ interface Props {
   thumbnail?: string;
 }
 
-const { title, category, publishedAt, slug, rating, thumbnail } = Astro.props;
+const { title, category, publishedAt, slug, thumbnail } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   'electric-guitar': 'エレキギター',
@@ -67,7 +65,6 @@ const imageUrl = thumbnail ?? categoryDefaultImages[category];
       {title}
     </h3>
     <div class="flex items-center justify-between">
-      {rating && <StarRating rating={rating} size="sm" />}
       <time class="text-[#9ca3af] text-xs ml-auto">{publishedAt}</time>
     </div>
   </div>

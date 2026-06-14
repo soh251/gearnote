@@ -3,7 +3,7 @@ title: "マルチエフェクター選び方ガイド｜初心者から中級者
 description: "マルチエフェクターの選び方を徹底解説。コンパクトとの違い、価格帯別おすすめ、BOSS GT-1・Zoom G3Xn・Line 6 Pod Goの特徴比較まで。初めてのマルチ選びに迷ったらここから。"
 category: effector
 publishedAt: "2026-06-13"
-thumbnail: ""
+thumbnail: "/images/multi-effects-guide.png"
 products:
   - name: "BOSS GT-1"
     price: "¥22,000〜"

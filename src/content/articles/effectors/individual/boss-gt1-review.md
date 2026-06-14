@@ -3,7 +3,7 @@ title: "BOSS GT-1レビュー｜入門マルチの定番、その実力を検証
 description: "BOSS GT-1を徹底レビュー。108種類のエフェクト・アンプシミュレーター・コンパクトボディの実力を検証。初めてのマルチエフェクターとして選ぶべき理由と注意点を解説します。"
 category: effector
 publishedAt: "2026-06-13"
-thumbnail: ""
+thumbnail: "https://m.media-amazon.com/images/I/51ZAsJPOEPL._AC_SL1000_.jpg"
 products:
   - name: "BOSS GT-1"
     price: "¥22,000〜"

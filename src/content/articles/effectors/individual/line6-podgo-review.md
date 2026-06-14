@@ -3,7 +3,7 @@ title: "Line 6 Pod Goレビュー｜Helixサウンドをこの価格で"
 description: "Line 6 Pod Goを徹底レビュー。フラッグシップ機Helixと同等のHXエンジン搭載でこの価格の理由、音質・操作性・録音での使い勝手を解説。本格派マルチの最初の一台としての実力を検証します。"
 category: effector
 publishedAt: "2026-06-13"
-thumbnail: ""
+thumbnail: "https://m.media-amazon.com/images/I/61n6Qt15OzL._AC_SL1200_.jpg"
 products:
   - name: "Line 6 Pod Go"
     price: "¥55,000〜"

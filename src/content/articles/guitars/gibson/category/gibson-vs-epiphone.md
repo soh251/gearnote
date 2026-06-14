@@ -3,7 +3,7 @@ title: "ギブソンを買うべきか、エピフォンを買うべきか——
 description: "ギブソンかエピフォンか——実際にギブソンを使う管理人が正直に語る。製造国・素材・価格の差、正直わからない音の違い、それでもギブソンを選んだ理由まで。"
 category: electric-guitar
 publishedAt: "2026-06-12"
-thumbnail: ""
+thumbnail: "/images/gibson-vs-epiphone.png"
 products:
   - name: "Gibson Les Paul Standard 50s"
     price: "¥230,000〜"

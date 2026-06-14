@@ -2,18 +2,17 @@
 楽器レビューアフィリエイトサイト（Astro v6.4.3製）
 Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
-## 記事数の現状（合計82本）
+## 記事数の現状（合計84本）
 - エレキギター: 27本 ✅（グレッチ7本・Gibsonコラム1本・変形ギター4本・Gibson vs Epiphone比較含む）
 - 国産ヴィンテージギター: 8本 ✅（guitars/domestic/ 以下）
 - エフェクター: 22本 ✅（マルチエフェクター5本追加）
 - アンプ: 10本 ✅
 - アコースティックギター: 4本 ✅
 - DTM機材: 4本 ✅（Scarlett Solo + DTM入門ガイド + MOTU M2 + モニタースピーカーガイド）
-- 初心者ガイド: 2本（要追加）
+- 初心者ガイド: 4本 ✅（エレキ入門・エフェクターボード・チューニング・弦交換）
 
 ## 次のタスク
-1. 初心者ガイドの追加（ギター弦の交換、チューニング方法）
-2. Zoom G3Xnのサムネイル画像（未設定）
+（現在の優先タスクなし。随時記事追加・価格更新）
 
 ---
 
@@ -21,7 +20,7 @@ Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
 ### フロントマターのルール
 - `publishedAt`: 2026年に統一（全記事設定済み）
-- `thumbnail`: 記事カード用画像URL（Zoom G3Xn以外設定済み）
+- `thumbnail`: 記事カード用画像URL（全記事設定済み）
 - `rating`: フィールドは残置だが表示はしない（2026-06-13全記事から星評価を撤去）
 - `products[].image`: 商品カード内の画像URL（Amazonまたはサウンドハウスの画像URLを使用）
 - `products[].ikebeUrl`: イケベ楽器中古検索URL（全記事設定済み）
@@ -121,7 +120,7 @@ https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2
 ### 確認済み実売価格（2026年6月時点）
 **マルチエフェクター**
 - BOSS GT-1: ¥22,000〜
-- Zoom G3Xn: ¥20,000〜
+- ZOOM G1X FOUR: ¥15,000〜
 - Line 6 Pod Go: ¥55,000〜
 
 **エフェクター**
@@ -201,7 +200,7 @@ src/content/articles/
     individual/boss-ge7-booster.md
     individual/ibanez-ts9-booster.md
     individual/boss-gt1-review.md        # BOSS GT-1（2026-06-13追加）
-    individual/zoom-g3xn-review.md       # Zoom G3Xn（サムネイル未設定）
+    individual/zoom-g1xfour-review.md    # ZOOM G1X FOUR（入門・1万円台）
     individual/line6-podgo-review.md     # Line 6 Pod Go
   guitars/
     gibson/
@@ -255,5 +254,5 @@ src/content/articles/
   - 管理人「ちゃんそう」の実体験ベースの一人称コラム形式
 - マルチエフェクター記事5本追加（effectors/）
   - hub/multi-effects-guide.md・category/multi-vs-compact.md
-  - individual/boss-gt1-review.md・zoom-g3xn-review.md・line6-podgo-review.md
+  - individual/boss-gt1-review.md・zoom-g1xfour-review.md・line6-podgo-review.md
   - 各記事に筆者見解（音質はマルチで十分・アナログの偶発性・機材への愛着）を追記

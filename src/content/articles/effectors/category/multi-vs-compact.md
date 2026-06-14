@@ -116,5 +116,5 @@ keywords:
 
 - [マルチエフェクター選び方ガイド](/articles/effectors/hub/multi-effects-guide)
 - [BOSS GT-1レビュー｜入門マルチの定番、その実力を検証](/articles/effectors/individual/boss-gt1-review)
-- [Zoom G3Xnレビュー｜ペダル内蔵の中級マルチを徹底解説](/articles/effectors/individual/zoom-g3xn-review)
+- [ZOOM G1X FOURレビュー｜1万円台でペダル内蔵の入門マルチ](/articles/effectors/individual/zoom-g1xfour-review)
 - [Line 6 Pod Goレビュー｜Helixサウンドをこの価格で](/articles/effectors/individual/line6-podgo-review)

@@ -9,6 +9,7 @@ featured: false
 products:
   - name: "BOSS CH-1 スーパーコーラス"
     price: "¥14,400〜"
+    image: "https://m.media-amazon.com/images/I/71nEv+V6SDL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+CH-1&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+CH-1&i_type=a"
     ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DCH-1%2BBOSS"
@@ -18,6 +19,7 @@ products:
       おすすめジャンル: "ポップス・ロック"
   - name: "BOSS DD-3T デジタルディレイ"
     price: "¥18,800〜"
+    image: "https://m.media-amazon.com/images/I/61y5oAYxizL._AC_SL1050_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+DD-3T&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+DD-3T&i_type=a"
     ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DDD-3T%2BBOSS"
@@ -27,6 +29,7 @@ products:
       おすすめジャンル: "全ジャンル"
   - name: "BOSS RV-6 リバーブ"
     price: "¥18,800〜"
+    image: "https://m.media-amazon.com/images/I/61zwIen-YIL._AC_SL1500_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=BOSS+RV-6&tag=gearnoteguitar-22"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=BOSS+RV-6&i_type=a"
     ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DRV-6%2BBOSS"

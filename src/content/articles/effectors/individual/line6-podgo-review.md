@@ -7,6 +7,7 @@ thumbnail: "https://m.media-amazon.com/images/I/61n6Qt15OzL._AC_SL1200_.jpg"
 products:
   - name: "Line 6 Pod Go"
     price: "¥55,000〜"
+    image: "https://m.media-amazon.com/images/I/61n6Qt15OzL._AC_SL1200_.jpg"
     amazonUrl: "https://www.amazon.co.jp/s?k=Line+6+Pod+Go&tag=gearnoteguitar-22"
     soundhouseUrl: "[AFFILIATE_SOUNDHOUSE_Line6_PodGo]"
     ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DPod%2BGo%2BLine6"

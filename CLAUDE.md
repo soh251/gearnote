@@ -2,10 +2,10 @@
 楽器レビューアフィリエイトサイト（Astro v6.4.3製）
 Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
-## 記事数の現状（合計74本）
-- エレキギター: 26本 ✅（グレッチ7本・Gibsonコラム1本・変形ギター4本含む）
+## 記事数の現状（合計82本）
+- エレキギター: 27本 ✅（グレッチ7本・Gibsonコラム1本・変形ギター4本・Gibson vs Epiphone比較含む）
 - 国産ヴィンテージギター: 8本 ✅（guitars/domestic/ 以下）
-- エフェクター: 17本 ✅
+- エフェクター: 22本 ✅（マルチエフェクター5本追加）
 - アンプ: 10本 ✅
 - アコースティックギター: 4本 ✅
 - DTM機材: 4本 ✅（Scarlett Solo + DTM入門ガイド + MOTU M2 + モニタースピーカーガイド）
@@ -13,6 +13,7 @@ Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
 ## 次のタスク
 1. 初心者ガイドの追加（ギター弦の交換、チューニング方法）
+2. Zoom G3Xnのサムネイル画像（未設定）
 
 ---
 
@@ -20,7 +21,8 @@ Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
 ### フロントマターのルール
 - `publishedAt`: 2026年に統一（全記事設定済み）
-- `thumbnail`: 記事カード用画像URL（全記事設定済み）
+- `thumbnail`: 記事カード用画像URL（Zoom G3Xn以外設定済み）
+- `rating`: フィールドは残置だが表示はしない（2026-06-13全記事から星評価を撤去）
 - `products[].image`: 商品カード内の画像URL（Amazonまたはサウンドハウスの画像URLを使用）
 - `products[].ikebeUrl`: イケベ楽器中古検索URL（全記事設定済み）
 - `products[].ishibashiUrl`: イシバシ楽器中古検索URL（全記事設定済み）
@@ -67,6 +69,8 @@ products: z.array(z.object({
 Amazon・Soundhouse・イケベ・イシバシの4ボタン。全てグレー（bg-white + border）で統一。
 - Amazon: `amazonUrl` prop
 - サウンドハウス: `soundhouseUrl` prop（プレースホルダー運用中）
+  - `soundhouseUrl` が `[AFFILIATE_SOUNDHOUSE` で始まる場合はボタン非表示（ProductCard.astroで分岐済み）
+  - 国産ヴィンテージ5記事のMarkdown本文内プレースホルダーはHTMLコメント化済み
 - イケベ楽器で探す: `ikebeUrl` prop（A8.net経由）
 - イシバシ楽器で探す: `ishibashiUrl` prop（A8.net経由）
 
@@ -115,6 +119,11 @@ https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2
 - 記事タイトルの年号は必ず **2026年** にする
 
 ### 確認済み実売価格（2026年6月時点）
+**マルチエフェクター**
+- BOSS GT-1: ¥22,000〜
+- Zoom G3Xn: ¥20,000〜
+- Line 6 Pod Go: ¥55,000〜
+
 **エフェクター**
 - BOSS DS-1: ¥9,350〜
 - BOSS SD-1: ¥8,900〜
@@ -186,9 +195,17 @@ src/content/articles/
     category/monitor-speaker-guide.md
     individual/motu-m2-review.md
   effectors/
+    hub/multi-effects-guide.md           # マルチエフェクター選び方ガイド
+    category/multi-vs-compact.md         # マルチ vs コンパクト比較
     individual/boss-bd2-review.md
     individual/boss-ge7-booster.md
     individual/ibanez-ts9-booster.md
+    individual/boss-gt1-review.md        # BOSS GT-1（2026-06-13追加）
+    individual/zoom-g3xn-review.md       # Zoom G3Xn（サムネイル未設定）
+    individual/line6-podgo-review.md     # Line 6 Pod Go
+  guitars/
+    gibson/
+      category/gibson-vs-epiphone.md     # Gibson vs Epiphone 比較コラム（2026-06-12追加）
 ```
 
 ---
@@ -224,3 +241,19 @@ src/content/articles/
 - サイトロゴを新デザインに更新（ギターピック型・G+音符・オレンジ）
   - public/logo.png・public/favicon.png
 - サイトキャッチコピー追加：「GearNote — ギター機材レビューと比較情報」
+- Soundhouseプレースホルダーリンク切れを修正（ProductCard.astroで分岐・国産5記事のMarkdownをコメント化）
+- sr-only CSSをglobal.cssに明示定義（Tailwind v4でキーワードが本文に表示される不具合を修正）
+- PR広告表記をArticleLayout最上部に統一（全Markdownから削除、レイアウトで一元管理）
+- 法務・運営者ページ4本追加（/privacy・/disclaimer・/contact・/about）
+  - /contact はGoogleフォームURL設定済み
+  - /about に「ちゃんそう」プロフィール文設定済み
+- フッターのhref="#"リンクを実URLに修正・「運営者情報」リンク追加
+- under-30000.mdの【2024年版】→【2026年版】に修正
+- 全記事から星評価（StarRating）を撤去（ArticleCard・ArticleLayout両方）
+  - 新規記事にratingフィールドは設定しない方針
+- Gibson vs Epiphone 比較コラム追加（guitars/gibson/category/gibson-vs-epiphone.md）
+  - 管理人「ちゃんそう」の実体験ベースの一人称コラム形式
+- マルチエフェクター記事5本追加（effectors/）
+  - hub/multi-effects-guide.md・category/multi-vs-compact.md
+  - individual/boss-gt1-review.md・zoom-g3xn-review.md・line6-podgo-review.md
+  - 各記事に筆者見解（音質はマルチで十分・アナログの偶発性・機材への愛着）を追記

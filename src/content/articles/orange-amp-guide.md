@@ -1,53 +1,38 @@
 ---
-title: "Orangeアンプ入門ガイド｜Crush・Rocker・Terrorシリーズの選び方"
-description: "Orangeギターアンプを徹底解説。Crush 20RT・Rocker 15 Terror・Tiny Terrorの特徴と違いを比較。あのオレンジ色のアンプが生み出す独特のサウンドの魅力と選び方を初心者向けに紹介。"
+title: "ORANGE Crush 20 レビュー｜1万円台で買えるオレンジの入門コンボアンプ"
+description: "ORANGE Crush 20を徹底レビュー。1万円台で手に入るオレンジ色の名門ブランド入門コンボアンプ。20W・8インチスピーカー・2チャンネル仕様の実力と、あの独特なミッドの効いたサウンドの魅力を初心者向けに解説します。"
 category: amp
 publishedAt: "2026-06-04"
-rating: 4
 featured: false
-thumbnail: "https://m.media-amazon.com/images/I/81ctCgWztTL._AC_SL1500_.jpg"
+thumbnail: "https://m.media-amazon.com/images/I/91Bmx1Gu6cL._AC_SL1500_.jpg"
 products:
-  - name: "Orange Crush 20RT"
-    price: "¥22,000〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Orange+Crush+20RT&tag=gearnoteguitar-22"
-    soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Orange+Crush+20RT&i_type=a"
-    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DCRUSH%2B20RT%2BORANGE"
-    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dorange%2Bcrush%2B20rt"
-    image: "https://m.media-amazon.com/images/I/81ctCgWztTL._AC_SL1500_.jpg"
+  - name: "ORANGE Crush 20"
+    price: "¥15,400〜"
+    amazonUrl: "https://www.amazon.co.jp/s?k=ORANGE+Crush+20&tag=gearnoteguitar-22"
+    soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Orange+Crush+20&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DCRUSH%2B20%2BORANGE"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dorange%2Bcrush%2B20"
+    image: "https://m.media-amazon.com/images/I/91Bmx1Gu6cL._AC_SL1500_.jpg"
     specs:
       タイプ: "トランジスタアンプ（コンボ）"
       出力: "20W"
-      スピーカー: "8インチ×1"
-      チャンネル: "2ch（クリーン / ディーティー）"
-      エフェクト: "リバーブ内蔵・チューナー内蔵"
-      コントロール: "GAIN・VOLUME・SHAPE・REVERB・チューナー"
-      重量: "5.4kg"
-  - name: "Orange Rocker 15 Terror"
-    price: "¥77,000〜"
-    amazonUrl: "https://www.amazon.co.jp/s?k=Orange+Rocker+15+Terror&tag=gearnoteguitar-22"
-    soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=Orange+Rocker+Terror&i_type=a"
-    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DROCKER%2B15%2BTERROR%2BORANGE"
-    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dorange%2Brocker%2B15%2Bterror"
-    specs:
-      タイプ: "チューブアンプ（ヘッド）"
-      出力: "15W / 7W / 1W 切替"
-      真空管: "プリ管：ECC83×2 / パワー管：EL84×2"
-      チャンネル: "1ch"
-      コントロール: "GAIN・VOLUME・BASS・MIDDLE・TREBLE"
-      重量: "4.4kg"
+      スピーカー: "カスタム8インチ Voice of the World"
+      チャンネル: "2ch（クリーン / ダーティー）"
+      コントロール: "クリーン：VOLUME / ダーティー：GAIN・BASS・MIDDLE・TREBLE"
+      入出力: "外部オーディオ入力・ヘッドフォン出力"
+      重量: "7.15kg"
 keywords:
+  - "Orange Crush 20"
+  - "ORANGE Crush 20"
+  - "オレンジ クラッシュ 20"
   - "Orange アンプ"
   - "Orange amplifier"
-  - "Orange"
   - "Crush"
   - "クラッシュ"
-  - "Rocker Terror"
-  - "ロッカーテラー"
   - "ギターアンプ"
   - "guitar amplifier"
-  - "チューブアンプ"
-  - "tube amplifier"
-  - "EL84"
+  - "練習用アンプ"
+  - "入門アンプ"
   - "ブリティッシュロック"
   - "British rock"
   - "Marshall"
@@ -56,9 +41,9 @@ keywords:
 
 ## はじめに
 
-あのオレンジ色の筐体——Orangeアンプを見たことがある人は多いでしょう。1960年代にイギリスで創業したOrangeは、独自のサウンドとアイコニックなデザインで、世界中のギタリストから愛される名門ブランドです。
+あのオレンジ色の筐体——ギターアンプに少しでも興味があれば、一度は見たことがあるでしょう。1960年代にイギリスで創業したOrangeは、独特のサウンドとアイコニックなデザインで世界中のギタリストから愛される名門ブランドです。
 
-マイ・ケミカル・ロマンスのフランク・アイエロ、スラッシュ、ノエル・ギャラガー（オアシス）など、幅広いジャンルのギタリストがOrangeを愛用しています。
+そのOrangeを**1万円台**で体験できるのが、入門コンボアンプ「Crush 20」。スラッシュやノエル・ギャラガー（オアシス）が使うあのブランドのサウンドを、最初の1台で味わえる実力派です。この記事ではCrush 20の魅力を初心者向けに掘り下げます。
 
 ## Orangeアンプの特徴
 
@@ -66,59 +51,58 @@ Orangeサウンドの最大の特徴は**中音域（ミッド）の独特のコ
 
 また、コントロールが少ないシンプルな設計も特徴のひとつ。余計なツマミを省いた「いい音が出やすい」設計は、初心者にも扱いやすいです。
 
-## Orangeシリーズの選び方
+## Crush 20の概要
 
-### 入門向け：Crush 20RT（¥22,000〜）
+Crush 20はOrangeの入門モデル「Crushシリーズ」の20Wコンボアンプです。トランジスタ（ソリッドステート）アンプですが、Orange独自の回路設計によりブランドらしいミッドの効いたサウンドを再現しています。
 
-Orangeの入門モデル「Crushシリーズ」の20Wモデル。トランジスタ（デジタル）アンプですが、Orange独自の回路設計によりチューブアンプに迫るサウンドを実現しています。
+カスタム8インチスピーカー「Voice of the World」を搭載し、クリーンとダーティーの2チャンネル仕様。ダーティーチャンネルには3バンドEQ（BASS・MIDDLE・TREBLE）を備え、軽いクランチから本格的な歪みまで作り込めます。
 
-内蔵チューナーとリバーブを搭載しており、これ1台で練習を始められます。5.4kgという軽量さも魅力。
+ヘッドフォン出力と外部オーディオ入力も装備しているので、深夜の自宅練習や、スマホの音源に合わせた練習もこれ1台で完結します。
 
-**こんな人に**：まずOrangeのサウンドを試してみたい初心者に。予算を抑えたい人に。
+## スペック
 
-### 本格派：Rocker 15 Terror（¥77,000〜）
+| 項目 | 内容 |
+|------|------|
+| タイプ | トランジスタアンプ（コンボ） |
+| 出力 | 20W |
+| スピーカー | カスタム8インチ Voice of the World |
+| チャンネル | 2ch（クリーン / ダーティー） |
+| コントロール | クリーン：VOLUME / ダーティー：GAIN・BASS・MIDDLE・TREBLE |
+| 入出力 | 外部オーディオ入力・ヘッドフォン出力 |
+| 重量 | 7.15kg |
 
-EL84パワー管搭載の本格チューブアンプヘッド。15W / 7W / 1Wの3段階出力切替で、自宅からライブまで対応します。
+## 音質と使い勝手
 
-ヘッドタイプ（スピーカーキャビネット別売）のため、キャビネットを選ぶ楽しさもあります。4.4kgという軽さはチューブアンプヘッドとしては驚異的で、持ち運びが楽。
+Crush 20はトランジスタアンプながら、Orangeらしい「ミッドが前に出るコシのある音」をしっかり鳴らしてくれます。クリーンはやや硬質でジャキッとした粒立ち、ダーティーに切り替えるとあのブリティッシュな歪みが顔を出します。3バンドEQで音作りの自由度が高いのも、上位モデル譲りの設計です。
 
-**こんな人に**：本物のOrangeチューブサウンドを求める中〜上級者に。
+8インチスピーカーながら箱鳴りに芯があり、自宅の練習用としては十分すぎる音量と質感。ヘッドフォン端子の音もそれなりに使えるので、時間を気にせず弾けるのはありがたいポイントです。
 
-## おすすめ製品 比較表
+筆者の見解としては、入門アンプは「とにかく安い無個性なモデル」より、こうした**ブランドのキャラクターがはっきり出る1台**を選んだ方が長く楽しめると思っています。Crush 20は最初の1台でOrangeのDNAに触れられる、数少ない入門機です。
 
-| | Crush 20RT | Rocker 15 Terror |
-|--|-----------|----------------|
-| 価格 | ¥22,000〜 | ¥77,000〜 |
-| タイプ | トランジスタ | チューブ |
-| 出力 | 20W | 15W/7W/1W |
-| 形式 | コンボ | ヘッド |
-| 重量 | 5.4kg | 4.4kg |
-| おすすめ | 入門者 | 中〜上級者 |
+## 良い点
 
-## 良い点3つ（共通）
-
-1. **他にはない唯一無二のサウンドキャラクター**：Orangeのミッドが前に出たコシのある音は他のブランドでは代替できない。バンドの中での存在感が別格
+1. **1万円台でOrangeサウンドが手に入る**：ミッドの効いたコシのある音は、他ブランドの入門機では代替できない
 2. **シンプルなコントロールで音が作りやすい**：ツマミが少ない設計は「どこを触ればいいかわからない」という初心者の迷いを減らしてくれる
-3. **デザインがかっこいい**：あのオレンジ色の筐体と独自のロゴは、ステージ上でも圧倒的な存在感。「見た目で選ぶ」というのも立派な理由
+3. **ヘッドフォン・外部入力対応**：深夜練習や音源に合わせた練習がこれ1台で完結する
+4. **デザインがかっこいい**：あのオレンジ色の筐体は部屋に置くだけでテンションが上がる
 
-## 気になる点2つ
+## 気になる点
 
-1. **音のキャラクターが強いため好みが分かれる**：Orangeのサウンドはクセが強く、「合わない」と感じる人もいる。必ず試奏してから購入することを推奨
-2. **Crushシリーズは本物のチューブサウンドではない**：Crush 20RTはトランジスタアンプのため、チューブアンプが持つ自然な歪みや倍音感には届かない
+1. **リバーブ・チューナーは非搭載**：内蔵リバーブやチューナーが欲しい場合は上位の「Crush 20RT」を検討
+2. **本物のチューブサウンドではない**：トランジスタアンプのため、チューブアンプ特有の自然な歪みや倍音感には届かない。音のキャラクターも強めなので、できれば試奏してから選びたい
 
 ## こんな人におすすめ
 
-- **個性的なサウンドを求めている人**
+- **1万円台でOrangeのサウンドを試したい人**
 - ロック・ハードロック・パンク志向のギタリスト
 - 「他の人と違うアンプを使いたい」という人
-- ステージでの見た目にもこだわりたい人
+- 深夜にヘッドフォンで練習することが多い人
 
 ## まとめ
 
-**予算を抑えてOrangeを試したい**→ Crush 20RT
-**本物のOrangeチューブサウンドが欲しい**→ Rocker 15 Terror
+Crush 20は「1万円台で名門Orangeのサウンドを体験できる」という、入門コンボアンプの中でも個性が光る1台です。無難なだけの練習用アンプに飽き足らない人、最初からキャラクターのある音で弾きたい人にこそおすすめできます。
 
-Orangeは「一度使うとやめられない」と評する愛用者が多いブランドです。まずCrush 20RTで試してみて、気に入ったら本格チューブアンプへステップアップするのが賢い選択です。
+リバーブやチューナーが欲しくなったら上位のCrush 20RTへ、本物のチューブサウンドが欲しくなったらRockerやTerrorシリーズへ——Crush 20はそんなOrange沼への入り口にぴったりの1台です。
 
 ---
 

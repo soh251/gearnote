@@ -1,0 +1,169 @@
+---
+title: "レスポール vs ストラトキャスター｜結局どっちを買うべきか、20年弾いた結論"
+description: "エレキギター最大の二択、レスポールとストラトキャスターを徹底比較。音・弾き心地・重さ・ジャンル適性・見た目・価格を、ギター歴20年の筆者が実体験ベースで解説。最初の1本でどっちを選ぶべきか、はっきり答えます。"
+category: electric-guitar
+publishedAt: "2026-06-15"
+featured: true
+thumbnail: "https://m.media-amazon.com/images/I/71nEbyQ7l2L._AC_SL1500_.jpg"
+products:
+  - name: "Epiphone Les Paul Standard 50s（レスポール代表）"
+    price: "¥55,000〜"
+    image: "https://m.media-amazon.com/images/I/71nEbyQ7l2L._AC_SL1500_.jpg"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Epiphone+Les+Paul+Standard+50s&tag=gearnoteguitar-22"
+    soundhouseUrl: "[AFFILIATE_SOUNDHOUSE_Epiphone_LesPaulStandard]"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DLes%2BPaul%2BStandard%2BEpiphone"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Depiphone%2Bles%2Bpaul%2Bstandard"
+    specs:
+      ボディ: "マホガニー＋メイプルトップ"
+      スケール: "628mm（ミディアム）"
+      ピックアップ: "ハムバッカー×2"
+      重量の傾向: "重い（4kg前後）"
+      得意ジャンル: "ロック・ハードロック・ブルース"
+  - name: "Squier Classic Vibe '60s Stratocaster（ストラト代表）"
+    price: "¥61,600〜"
+    image: "https://m.media-amazon.com/images/I/61QWZpA3ksL._AC_SL1200_.jpg"
+    amazonUrl: "https://www.amazon.co.jp/s?k=Squier+Classic+Vibe+60s+Stratocaster&tag=gearnoteguitar-22"
+    soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=SQUIER+Classic+Vibe+Stratocaster&i_type=a"
+    ikebeUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7EQ8KA+5KFA+BW0YB&a8ejpredirect=https%3A%2F%2Fwww.ikebe-gakki.com%2FForm%2FProduct%2FProductList.aspx%3Fshop%3D0%26cat%3D%26bid%3Dec%26dpcnt%3D20%26img%3D1%26sort%3D07%26udns%3D1%26fpfl%3D0%26sfl%3D0%26pno%3D1%26swrd%3DCLASSIC%2BVIBE%2BSTRATOCASTER%2BSQUIER"
+    ishibashiUrl: "https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2F%2Fstore.ishibashi.co.jp%2Fsearch%3Fsort%3DNumber1%26q%3Dsquier%2Bclassic%2Bvibe%2Bstratocaster"
+    specs:
+      ボディ: "バスウッド（ソリッド）"
+      スケール: "648mm（ロング）"
+      ピックアップ: "シングルコイル×3"
+      重量の傾向: "軽め（3.2〜3.6kg）"
+      得意ジャンル: "ブルース・ファンク・ポップ・ロック"
+keywords:
+  - "レスポール vs ストラト"
+  - "レスポール ストラト どっち"
+  - "Les Paul vs Stratocaster"
+  - "Les Paul"
+  - "レスポール"
+  - "Stratocaster"
+  - "ストラトキャスター"
+  - "ストラト"
+  - "ハムバッカー シングルコイル 違い"
+  - "エレキギター 比較"
+  - "electric guitar comparison"
+  - "どっちを選ぶ"
+  - "初心者 ギター 選び方"
+  - "Gibson"
+  - "Fender"
+---
+
+## エレキギター最大の二択
+
+エレキギターを買うとき、多くの人が最後にぶつかるのがこれです。「**レスポールとストラト、結局どっちを買えばいいの？**」
+
+形も音もキャラクターもまるで違うこの2本は、エレキギターの世界を二分してきた永遠のライバル。この記事では、ギター歴20年・両方を所有して弾き倒してきた筆者が、音・弾き心地・重さ・ジャンル・見た目・価格の6項目で正直に比較し、**最後にはっきり結論を出します**。
+
+> この記事の代表機種は、最初の1本でも手が届く **Epiphone Les Paul Standard 50s（レスポール側）** と **Squier Classic Vibe Stratocaster（ストラト側）**。本家のGibson／Fenderも、基本的なキャラクターはここで解説する通りです。
+
+---
+
+## ひと目でわかる比較表
+
+| | レスポール | ストラト |
+|--|-----------|---------|
+| ボディ | マホガニー＋メイプル | 1枚もの（バスウッド/アルダー等） |
+| ピックアップ | ハムバッカー×2 | シングルコイル×3 |
+| 音の傾向 | 太い・甘い・パワフル | 煌びやか・キレ・繊細 |
+| スケール | 短め（628mm） | 長め（648mm） |
+| 弦のテンション | 柔らかい | 張りがある |
+| 重さ | 重い（4kg前後） | 軽め |
+| アーム | なし | あり（ビブラート可） |
+| 得意ジャンル | ロック・ハード・ブルース | ファンク・ブルース・ポップ |
+| 見た目 | 重厚・クラシック | スマート・カラフル |
+
+---
+
+## 1. 音の違い（ここが一番大事）
+
+最大の違いは**ピックアップ**です。
+
+- **レスポール＝ハムバッカー**：2つのコイルでノイズを打ち消す構造。**太くて甘く、パワーのある音**。歪ませたときの粘りと迫力は圧倒的で、ロックの歪みサウンドはこれが基準になっている。
+- **ストラト＝シングルコイル**：1コイル構造で、**煌びやかでキレのある繊細な音**。カッティングの歯切れ、クリーンの透明感は唯一無二。半面、歪ませすぎると線が細くなり、ノイズも乗りやすい。
+
+ざっくり言えば、**「太く歪ませたいならレスポール」「キラッとした音やクリーンで弾きたいならストラト」**です。
+
+---
+
+## 2. 弾き心地（スケールとテンション）
+
+意外と見落とされがちですが、ここが弾きやすさを大きく左右します。
+
+- **レスポール（ショートスケール・628mm）**：弦のテンションが柔らかく、**指の力が弱い初心者でも押さえやすい**。チョーキングも軽い。
+- **ストラト（ロングスケール・648mm）**：弦が張っていて**音の輪郭はくっきり**するが、その分、押さえるのに少し力がいる。
+
+手が小さい・握力に自信がない人はレスポールの方が楽に感じやすいです。
+
+---
+
+## 3. 重さ（これは本当に効く）
+
+レスポールは**4kg前後と重い**のが宿命。立って長時間弾くと右肩にズシッときます。一方ストラトは軽めで、ライブや長い練習でも体への負担が少ない。
+
+軽視されがちですが、**「重くて構えるのが億劫になり、結局弾かなくなる」**のは初心者あるある。家で気軽に手に取れるかどうかは、上達に直結します。
+
+---
+
+## 4. ジャンル適性
+
+| ジャンル | 向いている方 |
+|---------|------------|
+| ハードロック・メタル | レスポール |
+| ブルース | どちらも◎ |
+| ファンク・カッティング | ストラト |
+| ポップス・弾き語り伴奏 | ストラト |
+| クラシックロック | レスポール |
+
+ただし「ストラトでメタルは弾けない」わけではありません（実際そういうプロは山ほどいます）。あくまで**得意・不得意の傾向**です。
+
+---
+
+## 5. 見た目
+
+これは理屈じゃありません。**「かっこいい」と思った方を選ぶのが正解**です。
+
+- レスポール：重厚でクラシック。シングルカッタウェイの曲線とサンバーストの杢目に惚れる人が多い。
+- ストラト：スマートで現代的。ボディカラーのバリエーションが豊富で、自分好みの色を選べる。
+
+毎日手に取りたくなる見た目かどうかは、続けるうえで一番のモチベーションになります。
+
+---
+
+## 6. 価格
+
+入門〜中堅クラスでは、**両者に大きな価格差はありません**。今回の代表機種もEpiphone Les Paulが¥55,000〜、Squier Stratが¥61,600〜とほぼ同等。予算で迷う必要はないので、純粋に音と好みで選べます。
+
+円安で新品価格が上がっている今は、**中古で状態のいい1本を狙う**のも賢い手です。中古の見極め方はこちらで解説しています。
+
+- 👉 [Gibson vs Epiphone 徹底比較](/articles/gibson-vs-epiphone-comparison)
+
+---
+
+## 筆者の結論（20年弾いてみて）
+
+両方を長く弾いてきた立場で、正直に書きます。
+
+**最初の1本に迷っているなら、私は「好きなアーティストが使っている方」を勧めます。** 音の理屈より、憧れの人と同じ形を持っている高揚感の方が、初心者の継続率を上げてくれるからです。
+
+その上で、あえて傾向で言うなら——
+
+- **ロックを太い歪みでガツンと弾きたい / 手が小さく押さえやすさ重視** → **レスポール**
+- **クリーンやカッティングが好き / 軽さ重視 / 色で選びたい** → **ストラト**
+
+そして最後に、機材沼の先輩として一言。**どっちを買っても、いずれもう一方も欲しくなります（笑）**。音のキャラが正反対なので、片方では埋められない瞬間が必ず来る。だから「最初の1本」で完璧を求めすぎず、ピンときた方から始めて大丈夫です。
+
+---
+
+## おすすめの代表機種
+
+最初の1本として手が届く、各陣営の定番モデルです。
+
+---
+
+## 関連記事
+
+- 👉 [テレキャスター vs ストラトキャスター 徹底比較](/articles/fender-telecaster-vs-stratocaster)
+- 👉 [Gibson vs Epiphone 徹底比較](/articles/gibson-vs-epiphone-comparison)
+- 👉 [エレキギター初心者ガイド｜最初の1本の選び方から始め方まで](/articles/electric-guitar-beginners-guide)

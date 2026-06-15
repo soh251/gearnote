@@ -2,17 +2,25 @@
 楽器レビューアフィリエイトサイト（Astro v6.4.3製）
 Amazonアフィリエイトタグ: `gearnoteguitar-22`
 
-## 記事数の現状（合計84本）
-- エレキギター: 27本 ✅（グレッチ7本・Gibsonコラム1本・変形ギター4本・Gibson vs Epiphone比較含む）
-- 国産ヴィンテージギター: 8本 ✅（guitars/domestic/ 以下）
-- エフェクター: 22本 ✅（マルチエフェクター5本追加）
-- アンプ: 10本 ✅
-- アコースティックギター: 4本 ✅
-- DTM機材: 4本 ✅（Scarlett Solo + DTM入門ガイド + MOTU M2 + モニタースピーカーガイド）
-- 初心者ガイド: 4本 ✅（エレキ入門・エフェクターボード・チューニング・弦交換）
+## 記事数の現状（合計96本・category別）
+- エレキギター（electric-guitar）: 49本 ✅（グレッチ7・Gibson系・変形ギター4・国産ヴィンテージ8・比較記事・予算別カテゴリ3階層 等を含む）
+- エフェクター（effector）: 22本 ✅（マルチエフェクター含む）
+- アンプ（amp）: 12本 ✅
+- アコースティックギター（acoustic-guitar）: 5本 ✅
+- DTM機材（dtm）: 4本 ✅
+- 初心者ガイド（beginners-guide）: 4本 ✅（エレキ入門・エフェクターボード・チューニング・弦交換）
+
+## 差別化方針（2026-06-15確定）
+競合「エレキギター博士」(法人・総合情報サイト)とは網羅性で戦わない。
+- **主軸**: ①「結局どっち」比較特化 ②中古・ジャパンヴィンテージ
+- **脇役（収益の網）**: 便利グッズ・困り事解決（主役にしない。実体験を一滴入れて量産品化を避ける）
+- **土台**: 個別レビュー（信頼性の基盤）
+- **避ける**: 奏法・コード・音楽理論・練習曲
+- 差別化はテーマでなく「切り口＝一人称の実体験＋ニッチ深掘り」から。星評価なし・「機材沼」「沼」表現は使わない
+- ※詳細はメモリ `project_differentiation_strategy.md` にも記録
 
 ## 次のタスク
-（現在の優先タスクなし。随時記事追加・価格更新）
+（現在の優先タスクなし。比較／中古ニッチを主軸に随時記事追加・価格更新）
 
 ---
 
@@ -134,6 +142,23 @@ https://px.a8.net/svt/ejp?a8mat=4B5Q82+7FBO62+F14+BW0YB&a8ejpredirect=https%3A%2
 
 **アンプ**
 - BOSS Katana-50 GEN 3: ¥42,800〜
+- ORANGE Crush 20: ¥15,400〜
+- Marshall MG: ¥22,000〜
+- Fender Mustang GTX: ¥60,500〜
+- Marshall DSL: ¥88,000〜
+- Vox AC30C2: ¥157,800〜
+
+**本格エレキ（10万円〜）**
+- Fender Player Stratocaster: ¥97,800〜
+- Gibson Les Paul Junior: ¥154,000〜
+- Gibson SG Standard: ¥253,000〜
+- Gibson Les Paul Standard: ¥330,000〜
+
+**アコギ**
+- Yamaha FG800: ¥27,500〜
+- Fender CD-60S: ¥33,000〜
+- Taylor GS Mini: ¥89,900〜
+- Martin D-28: ¥239,800〜
 
 **Gibson変形ギター**
 - Gibson 70s Flying V: ¥313,500〜
@@ -159,6 +184,7 @@ src/content/articles/
     electric/
       category/under-30000.md          # 3万円以下おすすめ3選
       category/30000-80000.md          # 3〜10万円台おすすめ7選
+      category/over-100000.md          # 10万円以上おすすめ（本格派）
       individual/playtech-st250.md
       individual/squier-affinity-tele.md
     gretsch/
@@ -205,6 +231,19 @@ src/content/articles/
   guitars/
     gibson/
       category/gibson-vs-epiphone.md     # Gibson vs Epiphone 比較コラム（2026-06-12追加）
+
+  # ルート直下の主なガイド/比較記事（2026-06-15追加分）
+  les-paul-vs-stratocaster.md            # 比較（偏愛宣言オチ）
+  squier-vs-epiphone.md                  # 比較（入門ブランド対決）
+  used-guitar-buying-guide.md            # 中古ギターの選び方（中古軸の柱）
+  budget-guitar-guide.md                 # 予算別エレキ（ハブ）
+  budget-acoustic-guide.md               # 予算別アコギ
+  budget-amp-guide.md                    # 予算別アンプ
+  guitar-accessories-guide.md            # アクセサリー完全ガイド
+  guitar-strings-guide.md                # 弦の選び方
+  guitar-noise-guide.md                  # ノイズ対策（困り事）
+  live-guitar-gear-guide.md              # ライブ便利グッズ
+  guitar-tuning-guide.md / string-change-guide.md  # 初心者ガイド
 ```
 
 ---
@@ -255,4 +294,17 @@ src/content/articles/
 - マルチエフェクター記事5本追加（effectors/）
   - hub/multi-effects-guide.md・category/multi-vs-compact.md
   - individual/boss-gt1-review.md・zoom-g1xfour-review.md・line6-podgo-review.md
-  - 各記事に筆者見解（音質はマルチで十分・アナログの偶発性・機材への愛着）を追記
+  - 各記事に筆者見解を追記
+
+### 2026-06-14〜15 セッション（差別化方針の本格始動）
+- 初心者ガイド2本追加（guitar-tuning-guide・string-change-guide）。本人の体験談・語呂を反映
+- 販売終了のZoom G3Xn記事をZOOM G1X FOUR（¥15,000〜）に差し替え（関連リンク・hub・比較記事も更新）
+- orange-amp-guide を Rocker 15 Terror→ORANGE Crush 20（¥15,400〜）の単体レビューに作り替え
+- 全記事の products[].image 未設定を補完（マルチ系・spatial・gibson-vs-epiphone 等）
+- **比較クラスタ**: les-paul-vs-stratocaster（偏愛宣言オチ付き）・squier-vs-epiphone を追加
+- **中古クラスタ**: used-guitar-buying-guide（全中古共通のチェックポイント柱記事）を追加
+- **予算別クラスタ**: budget-guitar-guide（ハブ）・guitars/electric/category/over-100000（価格3階層完成）・budget-acoustic-guide・budget-amp-guide
+- **便利グッズ/困り事クラスタ**: guitar-accessories-guide・guitar-noise-guide・guitar-strings-guide・live-guitar-gear-guide
+  - 便利グッズ系は空ProductCardを作らず、本文にAmazonアフィリ検索リンク（tag=gearnoteguitar-22）を埋め込む方式
+- 「機材沼」「沼」表現を全記事・プロフィールから削除（本人の意向）
+- 差別化方針を確定しメモリ（project_differentiation_strategy.md）に記録

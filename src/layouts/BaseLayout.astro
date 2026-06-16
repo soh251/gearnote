@@ -6,10 +6,52 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  image?: string;
+  type?: string;
 }
 
-const { title, description = 'ギター・音楽機材のレビューと比較情報サイト' } = Astro.props;
+const {
+  title,
+  description = 'ギター・音楽機材のレビューと比較情報サイト',
+  image = '/logo.png',
+  type = 'website',
+} = Astro.props;
 const siteName = 'GearNote';
+
+// 正規URL・OGP用の絶対URLを生成（site未設定でも落ちないようフォールバック）
+const siteUrl = Astro.site ?? new URL('https://gearnote-guitar.vercel.app');
+const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const ogImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
+
+// サイト全体の構造化データ（WebSite + 検索ボックス + 運営者）
+const siteJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${siteUrl.href}#website`,
+      url: siteUrl.href,
+      name: siteName,
+      description: 'ギター機材レビューと比較情報',
+      inLanguage: 'ja',
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: {
+          '@type': 'EntryPoint',
+          urlTemplate: `${siteUrl.href}search?q={search_term_string}`,
+        },
+        'query-input': 'required name=search_term_string',
+      },
+    },
+    {
+      '@type': 'Organization',
+      '@id': `${siteUrl.href}#organization`,
+      name: siteName,
+      url: siteUrl.href,
+      logo: new URL('/logo.png', siteUrl).href,
+    },
+  ],
+};
 ---
 
 <!doctype html>
@@ -19,14 +61,21 @@ const siteName = 'GearNote';
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <title>{title} | {siteName}</title>
+    <link rel="canonical" href={canonical} />
     <!-- OGP -->
     <meta property="og:title" content={`${title} | ${siteName}`} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={siteName} />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={`${title} | ${siteName}`} />
     <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <script type="application/ld+json" set:html={JSON.stringify(siteJsonLd)} is:inline />
+    <slot name="head" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-V0SPGPCGWM"></script>

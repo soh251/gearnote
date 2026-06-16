@@ -18,11 +18,12 @@ interface Props {
   category: string;
   publishedAt: string;
   rating?: number;
+  thumbnail?: string;
   products?: Product[];
   keywords?: string[];
 }
 
-const { title, description, category, publishedAt, rating, products, keywords } = Astro.props;
+const { title, description, category, publishedAt, rating, thumbnail, products, keywords } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   'electric-guitar': 'エレキギター',
@@ -34,9 +35,69 @@ const categoryLabels: Record<string, string> = {
 };
 
 const productsWithSpecs = products?.filter((p) => p.specs && Object.keys(p.specs).length > 0) ?? [];
+
+// --- 構造化データ（JSON-LD） ---
+const siteUrl = Astro.site ?? new URL('https://gearnote-guitar.vercel.app');
+const articleUrl = new URL(Astro.url.pathname, siteUrl).href;
+const categoryLabel = categoryLabels[category] ?? category;
+const abs = (u?: string) =>
+  u ? (u.startsWith('http') ? u : new URL(u, siteUrl).href) : new URL('/logo.png', siteUrl).href;
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  image: abs(thumbnail),
+  datePublished: publishedAt,
+  dateModified: publishedAt,
+  inLanguage: 'ja',
+  mainEntityOfPage: articleUrl,
+  author: { '@type': 'Organization', name: 'GearNote', url: siteUrl.href },
+  publisher: {
+    '@type': 'Organization',
+    name: 'GearNote',
+    logo: { '@type': 'ImageObject', url: new URL('/logo.png', siteUrl).href },
+  },
+};
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: siteUrl.href },
+    { '@type': 'ListItem', position: 2, name: categoryLabel, item: new URL(`/category/${category}`, siteUrl).href },
+    { '@type': 'ListItem', position: 3, name: title, item: articleUrl },
+  ],
+};
+
+// 単体レビュー（商品1点 ＋ 評価あり）のときだけ Product+Review を出す（★スニペット狙い・ガイドライン準拠）
+const single = products && products.length === 1 ? products[0] : null;
+const productLd =
+  single && rating
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'Product',
+        name: single.name,
+        image: abs(single.image ?? thumbnail),
+        description,
+        review: {
+          '@type': 'Review',
+          reviewRating: { '@type': 'Rating', ratingValue: rating, bestRating: 5 },
+          author: { '@type': 'Organization', name: 'GearNote' },
+        },
+      }
+    : null;
+
+const jsonLdBlocks = [articleLd, breadcrumbLd, ...(productLd ? [productLd] : [])];
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} image={abs(thumbnail)} type="article">
+  <Fragment slot="head">
+    {jsonLdBlocks.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} is:inline />
+    ))}
+  </Fragment>
   <div class="max-w-4xl mx-auto px-4 py-12">
     <div class="mb-2">
       <a href={`/category/${category}`} class="text-amber-600 hover:text-amber-500 text-sm transition-colors">

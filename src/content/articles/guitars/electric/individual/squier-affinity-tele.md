@@ -42,8 +42,6 @@ keywords:
 ---
 
 
-# Squier Affinity Telecasterレビュー｜テレキャスサウンドを低予算で手に入れる入門機
-
 「テレキャスターの音が好きだけど、いきなり高いものは手が出ない」——そんな方に向けて、Fender直系ブランドSquierのエントリーライン、**Squier Affinity Telecaster**をレビューします。
 
 ---

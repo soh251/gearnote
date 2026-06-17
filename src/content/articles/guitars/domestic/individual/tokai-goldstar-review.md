@@ -28,8 +28,6 @@ keywords:
 ---
 
 
-# トーカイ Goldstar Soundレビュー｜国産Stratコピーの最高峰を中古で手に入れる
-
 「国産Stratocasterコピーの最高峰」——ギタリストの間でそう呼ばれ続けるトーカイ Goldstar Sound。中古相場4〜7万円で、本家Fender Stratocasterに迫る繊細なサウンドが手に入るとしたら、選ばない理由はありません。
 
 ---

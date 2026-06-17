@@ -172,12 +172,6 @@ keywords:
 
 ---
 
-## おすすめの代表機種
-
-最初の1本として手が届く、各陣営の定番モデルです。
-
----
-
 ## 関連記事
 
 - 👉 [テレキャスター vs ストラトキャスター 徹底比較](/articles/fender-telecaster-vs-stratocaster)

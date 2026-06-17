@@ -146,7 +146,9 @@ const jsonLdBlocks = [articleLd, breadcrumbLd, ...(productLd ? [productLd] : [])
     )}
 
     {keywords && keywords.length > 0 && (
-      <div class="sr-only">{keywords.join(' ')}</div>
+      <div class="sr-only" aria-hidden="true" data-nosnippet>
+        {[...new Set(keywords.join(' ').split(/\s+/).filter(Boolean))].join(' ')}
+      </div>
     )}
 
     <article class="prose max-w-none">

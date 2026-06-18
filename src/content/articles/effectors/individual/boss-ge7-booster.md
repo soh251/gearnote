@@ -129,4 +129,4 @@ LEVEL：+8〜+12dB
 - [ブースターとは？使い方を初心者向けに解説](/articles/effectors/individual/booster-guide)
 - [BOSS BD-2レビュー｜ブースターとして使う方法](/articles/effectors/individual/boss-bd2-review)
 - [Ibanez TS9をブースターとして使う方法](/articles/effectors/individual/ibanez-ts9-booster)
-- [ペダルボード構築ガイド](/articles/effectors/hub/pedalboard-guide)
+- [ペダルボード構築ガイド](/articles/beginner-effector-board-guide)

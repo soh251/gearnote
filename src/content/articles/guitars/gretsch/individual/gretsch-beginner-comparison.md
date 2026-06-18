@@ -123,4 +123,3 @@ G2655はG2622と同じセミホロウ・ダブルカッタウェイですが、*
 - [グレッチ入門ガイド（ハブ記事）](/articles/guitars/gretsch/hub/gretsch-guide)
 - [Gretsch G2622レビュー（詳細）](/articles/guitars/gretsch/individual/gretsch-g2622-review)
 - [予算別グレッチおすすめ5選](/articles/guitars/gretsch/category/gretsch-budget-guide)
-- [グレッチに合うエフェクター厳選ガイド](/articles/guitars/gretsch/category/gretsch-effector-pairing)

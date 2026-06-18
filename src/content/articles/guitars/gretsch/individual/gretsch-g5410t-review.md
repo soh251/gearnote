@@ -109,4 +109,3 @@ G5410TとG5422は兄弟機種ですが、選ぶポイントは明確です。
 - [グレッチ入門ガイド（ハブ記事）](/articles/guitars/gretsch/hub/gretsch-guide)
 - [Gretsch G5422レビュー](/articles/guitars/gretsch/individual/gretsch-g5422-review)
 - [予算別グレッチおすすめ5選](/articles/guitars/gretsch/category/gretsch-budget-guide)
-- [グレッチに合うエフェクター厳選ガイド](/articles/guitars/gretsch/category/gretsch-effector-pairing)

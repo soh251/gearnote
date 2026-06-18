@@ -81,7 +81,6 @@ TV Jones Filter'Tron™ピックアップを搭載した上位ライン。アメ
 - **オーバードライブ**：軽い歪みで「ジャリン」としたテイストを引き出す
 - **コンプレッサー**：ダイナミクスを整えてピッキングを安定させる
 
-詳しくは「[グレッチに合うエフェクター厳選ガイド](/articles/guitars/gretsch/category/gretsch-effector-pairing)」をご覧ください。
 
 ## 個別記事・まとめ記事リンク集
 
@@ -91,7 +90,6 @@ TV Jones Filter'Tron™ピックアップを搭載した上位ライン。アメ
 - [Gretsch G5410Tレビュー](/articles/guitars/gretsch/individual/gretsch-g5410t-review)
 - [Gretsch G6120レビュー](/articles/guitars/gretsch/individual/gretsch-g6120-review)
 - [予算別グレッチおすすめ5選](/articles/guitars/gretsch/category/gretsch-budget-guide)
-- [グレッチに合うエフェクター厳選ガイド](/articles/guitars/gretsch/category/gretsch-effector-pairing)
 
 ---
 
@@ -99,4 +97,3 @@ TV Jones Filter'Tron™ピックアップを搭載した上位ライン。アメ
 
 - [予算別グレッチおすすめ5選｜5万・10万・20万円で選ぶ機種ガイド](/articles/guitars/gretsch/category/gretsch-budget-guide)
 - [グレッチ入門機3機種比較｜G2420・G2622・G2655の違いを徹底解説](/articles/guitars/gretsch/individual/gretsch-beginner-comparison)
-- [グレッチに合うエフェクター厳選ガイド](/articles/guitars/gretsch/category/gretsch-effector-pairing)

@@ -122,6 +122,6 @@ SD-1設定：普段通りのセッティング
 - [ブースターとは？使い方を初心者向けに解説](/articles/effectors/individual/booster-guide)
 - [Ibanez TS9をブースターとして使う方法](/articles/effectors/individual/ibanez-ts9-booster)
 - [BOSS GE-7をブースターとして使う方法](/articles/effectors/individual/boss-ge7-booster)
-- [BOSS SD-1レビュー](/articles/boss-sd1-review)
+- [オーバードライブ定番3選（BOSS SD-1ほか）](/articles/overdrive-guide)
 - [BOSS DS-1レビュー](/articles/boss-ds-1-review)
-- [ペダルボード構築ガイド](/articles/effectors/hub/pedalboard-guide)
+- [ペダルボード構築ガイド](/articles/beginner-effector-board-guide)

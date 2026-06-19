@@ -4,13 +4,26 @@ import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
-  return articles.map((article) => ({
-    params: { slug: article.id },
-    props: { article },
-  }));
+  return articles.map((article) => {
+    // 関連記事：同カテゴリ優先（featuredを上に）→ 足りなければ他カテゴリで補完、計3本
+    const sameCat = articles
+      .filter((a) => a.id !== article.id && a.data.category === article.data.category)
+      .sort((a, b) => (b.data.featured ? 1 : 0) - (a.data.featured ? 1 : 0));
+    const others = articles.filter(
+      (a) => a.id !== article.id && a.data.category !== article.data.category
+    );
+    const related = [...sameCat, ...others].slice(0, 3).map((a) => ({
+      slug: a.id,
+      title: a.data.title,
+      description: a.data.description,
+      category: a.data.category,
+      thumbnail: a.data.thumbnail,
+    }));
+    return { params: { slug: article.id }, props: { article, related } };
+  });
 }
 
-const { article } = Astro.props;
+const { article, related } = Astro.props;
 const { Content } = await render(article);
 ---
 
@@ -23,6 +36,7 @@ const { Content } = await render(article);
   thumbnail={article.data.thumbnail}
   products={article.data.products}
   keywords={article.data.keywords}
+  related={related}
 >
   <Content />
 </ArticleLayout>

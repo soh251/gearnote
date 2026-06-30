@@ -17,6 +17,7 @@ products:
       価格帯の目安: "1万円台〜"
   - name: "PLAYTECH TL250（テレ型・歯切れ重視）"
     price: "¥14,800（税込）〜"
+    image: "https://www.soundhouse.co.jp/images/shop/prod_img/p/playtech_tl250sbmxa.jpg"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=PLAYTECH+TL250&i_type=a"
     specs:
       タイプ: "テレ型"
@@ -25,6 +26,7 @@ products:
       価格帯の目安: "1万円台〜"
   - name: "PLAYTECH LP400（レスポール型・太い歪み）"
     price: "¥19,800（税込）〜"
+    image: "https://www.soundhouse.co.jp/images/shop/prod_img/p/playtech_lp400hbxaaa.jpg"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=PLAYTECH+LP400&i_type=a"
     specs:
       タイプ: "レスポール型"
@@ -33,6 +35,7 @@ products:
       価格帯の目安: "2万円前後"
   - name: "PLAYTECH SG250（SG型・軽量ロック）"
     price: "1万円台〜"
+    image: "https://www.soundhouse.co.jp/images/shop/prod_img/p/playtech_sg250chxx.jpg"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=PLAYTECH+SG250&i_type=a"
     specs:
       タイプ: "SG型"
@@ -41,6 +44,7 @@ products:
       価格帯の目安: "1万円台〜"
   - name: "PLAYTECH JM250（ジャズマスター型・個性派）"
     price: "1万円台〜"
+    image: "https://www.soundhouse.co.jp/images/shop/prod_img/p/playtech_jm250sbxxa.jpg"
     soundhouseUrl: "https://www.soundhouse.co.jp/search/index?search_all=PLAYTECH+JM250&i_type=a"
     specs:
       タイプ: "ジャズマスター型"

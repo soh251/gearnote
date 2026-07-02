@@ -4,8 +4,8 @@
 - Amazonアフィリエイトタグ: `gearnoteguitar-22`
 - **収益の現状**: サウンドハウスのアフィリエイト審査が **未承認（申請中）**。承認後、`ProductCard.astro` の `SOUNDHOUSE_AFFILIATE_ID` に実IDを入れて `wrapSoundhouse()` にパラメータ付与すれば、全記事のサウンドハウスボタンが一斉にアフィリ化される（構造は実装済み）。イケベ・イシバシ（A8.net）とAmazonは稼働中。
 
-## 記事数の現状（合計98本・category別）
-- エレキギター（electric-guitar）: 51本 ✅（グレッチ7・Gibson系・変形ギター4・国産ヴィンテージ8・比較記事・予算別カテゴリ3階層・PLAYTECH深掘り2本 等を含む）
+## 記事数の現状（合計100本・category別）
+- エレキギター（electric-guitar）: 53本 ✅（グレッチ7・Gibson系・変形ギター4・国産ヴィンテージ8・比較記事・予算別カテゴリ3階層・PLAYTECH深掘り2本・レスポール重さ対策・オフセット3兄弟比較 等を含む）
 - エフェクター（effector）: 22本 ✅（マルチエフェクター含む）
 - アンプ（amp）: 12本 ✅
 - アコースティックギター（acoustic-guitar）: 5本 ✅
@@ -22,10 +22,35 @@
 - 差別化はテーマでなく「切り口＝一人称の実体験＋ニッチ深掘り」から。星評価なし・「機材沼」「沼」表現は使わない
 - ※詳細はメモリ `project_differentiation_strategy.md` にも記録
 
+## 記事企画・運用チーム（サブエージェント／2026-07構築）
+記事の企画〜運用の下ごしらえを分業するサブエージェントを `.claude/agents/` に用意（提案・レポートまで。記事の作成/修正は必ずオーナー承認後にメインセッションで行う）。
+
+- **keyword-planner**: 差別化方針（比較・悩み・中古の3系統／奏法・理論は除外）でWebSearchしキーワード発掘。既存記事と重複除外し企画カードを `planning/keyword-candidates-YYYY-MM.md` に出力
+- **competitor-analyst**: 企画カードのKWで上位ページをWebFetch分析。勝算（高/中/低）と差別化の切り口を同ファイルに追記（法人盤石=回避／個人ブログのみ・情報が古い=狙い目）
+- **experience-interviewer**: 採用企画にオーナーの実体験を引き出す質問票を生成 `planning/interview-{slug}.md`。所有機材（Gibson Les Paul Special・自作SG・ストラト等）と約15年のバンド歴が前提。アンプ/DTM/未所有機は「調査ベース明示」構成を提案
+- **gsc-planner**: `reports/gsc-export.csv`（オーナーが手動エクスポート）から掲載順位11〜30位×表示回数の多いクエリを抽出し改稿指示を `planning/rewrite-plan-YYYY-MM.md` に。CSVが無ければ案内のみ（捏造しない）
+- **price-patrol**: 下記「確認済み実売価格」を基準にWebSearchで現在価格を確認、±15%以上乖離を `reports/price-check-YYYY-MM.md` に検出（修正はしない）
+- **sns-writer**: 指定記事のX投稿を3パターン（本文誘導/問いかけ/体験談）生成。「私」一人称・砕けた口調で `planning/sns-queue.md` に追記
+
+### コマンド（`.claude/commands/`）
+- **/plan-monthly**: keyword-planner→competitor-analyst を順に実行し企画カード一式を生成して**停止**（採用判断はオーナー。experience-interviewerは採用後に個別起動）
+- **/maintain**: gsc-planner（CSVがあれば）＋price-patrol を実行し運用レポートを出力
+
+### 標準ワークフロー
+1. `/plan-monthly` で企画カード（勝算付き）を生成 → オーナーが採用を選ぶ
+2. 採用企画に experience-interviewer で質問票 → オーナーが回答（`planning/interview-*.md` に転記）
+3. 回答をもとにメインセッションで記事化（実体験ベース or 調査ベース明示）→ `npm run build` で太字チェック通過を確認 → main へ push
+4. 定期的に `/maintain` で既存記事の底上げ（GSC改稿・価格ズレ検出）
+
+※全エージェントは提案・レポート止まり。年号ラベル・星評価・「機材沼」表現は企画段階から使用禁止。
+※初回は再起動でエージェントがロードされる（作成直後の同一セッションでは未ロード）。
+※2026-07の初回実走記録は `planning/keyword-candidates-2026-07.md`（企画カード8枚）と `interview-les-paul-weight-guide.md`／`interview-offset-guitars-comparison.md` に残置。
+
 ## 次のタスク
 - **収益の唯一の鍵＝サウンドハウス審査（本人待ち）**。承認通知が来たら `SOUNDHOUSE_AFFILIATE_ID` に1行で全記事有効化。
 - 運用スタンス: 本人はGearNoteを「Claude Codeでアフィリサイトを作れるかの実験＋小銭が入れば嬉しい」程度の温度感。**新規量産より低工数で効く施策を優先**（重い記事量産・被リンク営業・SNSは勧めない）。本命は別サイト（愛知のライブバー紹介）。
 - 任意の残タスク: Amazon検索URL→商品(dp)リンク化／悩みワード記事の追加。気が向いたときだけ。
+- 2026-07企画で未着手の高勝算候補（`planning/keyword-candidates-2026-07.md`）: **Fernandes中古の見分け方・相場**／**Aria Pro II（マツモク）中古**（どちらも中古軸・法人記事が空白で狙い目）。ほか レスポールvsSG・テレvsレスポール・ネックの太さ悩み・セミアコ初心者 等。
 
 ---
 
